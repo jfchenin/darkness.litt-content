@@ -13,7 +13,7 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.MAIN_REPO_PAT }}
-          repository: hostoftheshell/DrknssCheninFR
+          repository: jfchenin/darkness.litt
           event-type: content-updated
           client-payload: |
             {
