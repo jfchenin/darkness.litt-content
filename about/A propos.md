@@ -21,7 +21,7 @@ A consacré ses dernières années, avec son frère Gilles, à rééditer l’œ
 
 Entretiendra une correspondance éphémère avec Jean-François Lyotard, René Char, Francis Ponge, Gilles Deleuze, George Mounin, Eugène Guillevic et d’autres, sans suite
 
-Devient écrivain ( [savoir plus](https://www.calameo.com/read/006026406c92e2a3ee3b7?authid=6wKa0MGqc3dd)). Plus tard, découvre Calaferte et Wittgenstein.
+Devient écrivain [savoir plus](https://www.calameo.com/read/006026406c92e2a3ee3b7?authid=6wKa0MGqc3dd)). Plus tard, découvre Calaferte et Wittgenstein.
 Revient toujours à René Char, pour la joie ou dans la peine.
 
 Passe quelques temps dans deux cabinets ministériels (J.Guyard et V. Neiertz).
