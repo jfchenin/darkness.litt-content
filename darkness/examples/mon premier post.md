@@ -7,7 +7,7 @@ tags:
   - test
   - notes
 draft: false
-pin:
+pin: 0
 toc: false
 lang: fr
 abbrlink: cepremierpost
