@@ -17,7 +17,7 @@ François Chénin, né en 1954, en Lorraine.
 Grâce à un père voyageur, passe son enfance à l’étranger (Grèce, Turquie, Iran…).
 
 Avec un arrière-grand-père Prix Goncourt 1907, Emile Moselly, reste attaché à cette Lorraine rurale, celle de la Moselle et des chènevières de Chaudeney, des écluses d’Ecrouves et de Pierre-Latreiche, de la Forêt de Haye et des Côtes de Toul.
-A consacré ses dernières années, avec son frère Gilles, à rééditer l’œuvre complète de cet écrivain oublié en [savoir plus](https://www.calameo.com/read/006026406e849484ab656?authid=3Z42UWlcLLch.)
+A consacré ses dernières années, avec son frère Gilles, à rééditer l’œuvre complète de cet écrivain oublié en [savoir plus](https://www.calameo.com/read/006026406da048c6f1c9f?authid=z9fxKhAWYYtB)
 
 Entretiendra une correspondance éphémère avec Jean-François Lyotard, René Char, Francis Ponge, Gilles Deleuze, George Mounin, Eugène Guillevic et d’autres, sans suite
 
