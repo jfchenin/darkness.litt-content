@@ -13,7 +13,7 @@ abbrlink: qui-est-moselly
 
 
 *Émile Chénin**, né à Paris le 12 août 1870 et mort à Lorient le 2 octobre 1918, est un nouvelliste et romancier français, plus connu sous le pseudonyme **Émile Moselly** qu'il prit lors de la publication de son premier livre, *L'Aube fraternelle*, en 1902.
-![Emile Moselly à l'époque du prix Goncourt![[Emile_Moselly-01.jpg]]]()
+!(Emile Moselly à l'époque du prix Goncourt)![[Emile_Moselly-01.jpg]]]()
 
 Durant sa courte carrière littéraire, environ 15 ans, Emile Moselly a écrit huit romans (*l'Aube fraternelle, Terres lorraines, Joson Meunier, Fils de Gueux, le Journal de Gottfried Mauser, les Etudiants, les Grenouilles dans la mare, la Houle*), deux essais littéraires (*George Sand, Lucien Descaves*) et un peu plus d'une centaine de nouvelles dont certaines regroupées en livres (*le Rouet d’Ivoire, Jean des Brebis, la Charrue d’Erable*).
 
