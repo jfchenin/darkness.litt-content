@@ -6,7 +6,7 @@ updated: 2026-01-02
 tags:
   - Moselly
 draft: false
-pin: 10
+pin: 0
 toc: true
 lang: fr
 abbrlink: qui-est-moselly
