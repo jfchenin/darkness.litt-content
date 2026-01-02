@@ -31,7 +31,7 @@ Il étudie au lycée Henri-Poincaré à Nancy et à la faculté de Nancy jusqu'�
 
 Émile Chénin se marie le 25 février 1897 avec Marie Barthélémy à l'église Saint-Laurent de Paris. Le 11 novembre 1898 naît son premier fils, François, suivie de Germaine le 27 janvier 1902, puis de Jacqueline le 16 mars 1906 (morte en bas âge) et enfin de Jean-Pierre, né le 23 janvier 1913. Germaine Chénin-Moselly (1902-1950) devient peintre et graveur, et illustre plusieurs ouvrages de son père.
 
-Il meurt brutalement d'une crise cardiaque le 2 octobre 1918 entre Quimper et Lorient, dans le train Quimper-Paris, de retour de vacances passées à Lesconil. Son corps repose temporairement à Lorient avant d'être transporté à Chaudeney-sur-Moselle où il est inhumé le 9 octobre 1919 [4].
+Il meurt brutalement d'une crise cardiaque le 2 octobre 1918 entre Quimper et Lorient, dans le train Quimper-Paris, de retour de vacances passées à Lesconil. Son corps repose temporairement à Lorient avant d'être transporté à Chaudeney-sur-Moselle où il est inhumé le 9 octobre 1919.
 
 Émile Chénin est le cousin par alliance de Joseph Poussot (1861-1891), inventeur et fabricant du monocorde à clavier à Pierre-la-Treiche.
 
@@ -40,14 +40,14 @@ Agrégé de lettres au concours de 1895, Émile Chénin sera enseignant à Monta
 
 Il figure, avec Charles Péguy, parmi les premiers auteurs des *Cahiers de la Quinzaine* (fondés par Péguy en 1900). Il prend pour nom de plume Moselly, qui vient de la rivière Moselle, mais aussi de la résidence d'été des évêques de Toul, construite par Monseigneur Claude Drouas de Boussey afin de donner du travail aux pauvres lors de temps de disette et afin de fixer les évêques dans leur diocèse : cette propriété avait été nommée par le prélat lui-même Moselli.
 
-Auteur régionaliste, profondément ancré dans une Lorraine rurale où il réside souvent dans la maison paternelle de Chaudeney-sur-Moselle, il obtient le prix Goncourt en 1907 pour *Le Rouet d'ivoire* (1907), *Jean des Brebis ou le livre de la misère* (1904) et *Terres lorraines* (1907)[6]. Outre ses romans, il publiera une centaine de nouvelles dans les journaux et revues de l'époque.
+Auteur régionaliste, profondément ancré dans une Lorraine rurale où il réside souvent dans la maison paternelle de Chaudeney-sur-Moselle, il obtient le prix Goncourt en 1907 pour *Le Rouet d'ivoire* (1907), *Jean des Brebis ou le livre de la misère* (1904) et *Terres lorraines* (1907). Outre ses romans, il publiera une centaine de nouvelles dans les journaux et revues de l'époque.
 
 Ses archives (manuscrits, épreuves corrigées) ont été données en 2007 par sa famille à la Ville de Nancy. Elles sont déposées à la bibliothèque municipale (Bibliothèque Stanislas) de cette ville.
 
 Entre 2022 et 2024, les arrière-petits-enfants d'Emile Moselly ont réalisé 1/l'édition de son œuvre complète et, en particulier, la publication des Nouvelles (en deux volumes) parues dans les journaux et revues de l'époque (*Le Pays Lorrain, L'Humanité, La Grande Revue, La revue Bleue, Le Matin, Le Temps, La Revue des Deux Mondes...*) mais jamais éditées en ouvrage, 2/la publication de ses *Cahiers* (1890-1914), 3/ainsi qu'un roman inédit *Suzanne*.
 
 **Distinctions**
-Le 23 mai 1907, Emile Moselly reçoit le Prix Stanislas de Guaita [12]. Prix Goncourt en décembre 1907. Il est nommé chevalier de l'Ordre national de la Légion d'honneur en juillet 1913.
+Le 23 mai 1907, Emile Moselly reçoit le Prix Stanislas de Guaita. Prix Goncourt en décembre 1907. Il est nommé chevalier de l'Ordre national de la Légion d'honneur en juillet 1913.
 
 **Plaque Emile Moselly**
 La maison d'Émile Moselly, située au 18 rue du Commandant-Fiatte à Chaudeney-sur-Moselle, est signalée par une plaque.
