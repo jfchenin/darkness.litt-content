@@ -48,7 +48,6 @@ Entre 2022 et 2024, les arrière-petits-enfants d'Emile Moselly ont réalisé 1/
 
 **Distinctions**
 Le 23 mai 1907, Emile Moselly reçoit le Prix Stanislas de Guaita [12]. Prix Goncourt en décembre 1907. Il est nommé chevalier de l'Ordre national de la Légion d'honneur en juillet 1913.
-![Lettre des Goncourt à Emile Moselly[![[[[Lettre-des-goncourt-a-moselly.jpg]]
 
 **Plaque Emile Moselly**
 La maison d'Émile Moselly, située au 18 rue du Commandant-Fiatte à Chaudeney-sur-Moselle, est signalée par une plaque.
@@ -93,4 +92,4 @@ La ville de Toul lui a dédié une école primaire et un jardin où s'élève un
 - *Le français de nos enfants, méthode de composition française,* Emile Moselly et Armand Weil, Privat, 1908 (plusieurs rééditions)
 - *Contes et récits du XIXème siècle,* Emile Moselly et Armand Weil, Librairie Larousse, 1910 (plusieurs rééditions)
 
-On retrouve l'int"grlité de cette notice sur wikipedia : [[Mosellyhttps://fr.wikipedia.org/wiki/Émile_Moselly]]
+On retrouve l'intégralité de cette notice sur wikipedia : [[Mosellyhttps://fr.wikipedia.org/wiki/Émile_Moselly]]
