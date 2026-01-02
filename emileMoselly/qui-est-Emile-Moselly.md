@@ -50,7 +50,7 @@ Le 23 mai 1907, Emile Moselly reçoit le Prix Stanislas de Guaita. Prix Goncourt
 
 **Plaque Emile Moselly**
 La maison d'Émile Moselly, située au 18 rue du Commandant-Fiatte à Chaudeney-sur-Moselle, est signalée par une plaque.
-![]([./_images/Plaque-EM.jpg)
+![](./_images/Plaque-EM.jpg)
 
 Le Cercle d'études local du Toulois (CELT) décerne chaque année en hommage à Émile Moselly un prix récompensant une nouvelle ayant pour cadre la Lorraine .
 
