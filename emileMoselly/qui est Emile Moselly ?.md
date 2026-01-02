@@ -60,7 +60,7 @@ Plusieurs rues portent le nom d'Emile Moselly en Lorraine : à épinal (88000), 
 
 La ville de Toul lui a dédié une école primaire et un jardin où s'élève un monument de Gé Pellini.
 
-Œuvres et principales éditions
+##uvres et principales éditions##
 **Romans et nouvelles**
 - *L'aube fraternelle,* Cahiers de la quinzaine, 1902
 - *Jean des Brebis ou le livre de la misère*, Cahiers de la quinzaine, 1904 / Plon-Nourrit, 1907 / Plon, 1920
