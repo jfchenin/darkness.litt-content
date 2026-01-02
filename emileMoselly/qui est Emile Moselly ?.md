@@ -1,16 +1,17 @@
 ---
-title: Qui est Moselly ?
+title: qui est Emile Moselly ?
 published: 2026-01-02
 author: JFC
 updated: 2026-01-02
 tags:
-  - Moselly
 draft: false
 pin: 0
 toc: true
 lang: fr
 abbrlink: qui-est-moselly
 ---
+
+
 *Émile Chénin**, né à Paris le 12 août 1870 et mort à Lorient le 2 octobre 1918, est un nouvelliste et romancier français, plus connu sous le pseudonyme **Émile Moselly** qu'il prit lors de la publication de son premier livre, *L'Aube fraternelle*, en 1902.
 ![Emile Moselly à l'époque du prix Goncourt![[Emile_Moselly-01.jpg]]]()
 
