@@ -1,5 +1,5 @@
 ---
-title: qui est Emile Moselly ?
+title: qui-est-Emile-Moselly
 published: 2026-01-02
 author: JFC
 updated: 2026-01-02
