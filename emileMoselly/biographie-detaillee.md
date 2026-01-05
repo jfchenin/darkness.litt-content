@@ -11,7 +11,10 @@ toc: true
 lang: fr
 abbrlink: bio-detaillee
 ---
-Biographie établie par françois chénin '(1)966-1967, complétée par Jfrançois Chénin (2022)
+Biographie établie par françois chénin (1966-1967), complétée par Jfrançois Chénin (2022)
+
+---
+
 ### (### 1870-1873[^2] / Paris
 
 **12 août 1870** ‐ Naissance à la Bibliothèque Nationale, rue de Richelieu, où son père est gardien, de Emile François Achille Chénin, fils de Auguste François Achille Chénin et de Marguerite Joséphine Gantois. 14 mai 1871 ‐ Baptême à Chaudeney. Parrain : Victor Gantois, son oncle. Marraine : Léonie Chénin, sa tante.
@@ -298,7 +301,7 @@ Début juillet ‐ Fin de l'année scolaire à Eaubonne. 
 
 13 juillet ‐ Distribution des prix.
 
-14 Albert Kahn, né Abraham Kahn à Marmoutier en Alsace le 3 mars 1860 et mort à Boulogne-Billancourt le 14 novembre 1940, est un banquier et philanthrope français. Il a rassemblé un important fonds iconographique intitulé Archives de la Planète, collection constituée d'autochromes (photographies en couleurs sur plaques de verre) la plus importante au monde, et de films en noir et blanc, fonds conservé au musée départemental Albert-Kahn (Boulogne-Billancourt). [Voir](https://fr.wikipedia.org/wiki/Albert_Kahn_(banquier)) et : http://judaisme.sdv.fr/ perso/akahn.htm et sur la Fondation : https://rencontresamismuseealbertkahn.fr/leprojet-albert-kahn-en-quelques-mots/
+14 Albert Kahn, né Abraham Kahn à Marmoutier en Alsace le 3 mars 1860 et mort à Boulogne-Billancourt le 14 novembre 1940, est un banquier et philanthrope français. Il a rassemblé un important fonds iconographique intitulé Archives de la Planète, collection constituée d'autochromes (photographies en couleurs sur plaques de verre) la plus importante au monde, et de films en noir et blanc, fonds conservé au musée départemental Albert-Kahn (Boulogne-Billancourt). [Voir](https://fr.wikipedia.org/wiki/Albert_Kahn_(banquier et : http://judaisme.sdv.fr/perso/akahn.htm) et sur la [Fondation](https://rencontresamismuseealbertkahn.fr/leprojet-albert-kahn-en-quelques-mots/)
 
 15 Alfred Saffrey, critique littéraire, ami de Péguy, a contribué à faire connaitre les correspondances entre Péguy et Romain Rolland, entre Péguy et Moselly. - Voir "l'amitié C.Péguy", article de A.Saffrey sur E.M. et sa relation à Péguy (Feuillets du 15 mars 1966).
 
@@ -374,7 +377,7 @@ Mai ‐ Promenades (Ville d'Avray, Versailles, Saint Germain). Juillet ‐ septe
 
 19 novembre ‐ Visite à Descaves (Candidature de Genevoix [^19]  au Prix Goncourt).
 
-Décembre ‐ _Je remets au net et complète des notes sur Péguy, pour en faire un article. Le petit Genevoix est resté en panne_ [au prix Goncourt] _avec 2 voix, celle de Descaves et quis alter ?_ 
+Décembre ‐ _Je remets au net et complète des notes sur Péguy, pour en faire un article. Le petit Genevoix est resté en panne_ (au prix Goncourt) _avec 2 voix, celle de Descaves et quis alter ?_ 
 
 ### 1917 22 / Asnières
 
