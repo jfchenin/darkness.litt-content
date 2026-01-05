@@ -6,13 +6,13 @@ updated: 2026-01-02
 tags:
   - Moselly
 draft: false
-pin: 0
+pin: 99
 toc: true
 lang: fr
 abbrlink: qui-est-moselly
 ---
 *Émile Chénin**, né à Paris le 12 août 1870 et mort à Lorient le 2 octobre 1918, est un nouvelliste et romancier français, plus connu sous le pseudonyme **Émile Moselly** qu'il prit lors de la publication de son premier livre, *L'Aube fraternelle*, en 1902.
-![](./_images/Emile_Moselly-01.jpg)
+![_portrait photographique noir et blanc d'Émile Chénin dit Émile Moselly, écrivain français](./_images/Emile_Moselly-01.jpg)
 Durant sa courte carrière littéraire, environ 15 ans, Emile Moselly a écrit huit romans (*l'Aube fraternelle, Terres lorraines, Joson Meunier, Fils de Gueux, le Journal de Gottfried Mauser, les Etudiants, les Grenouilles dans la mare, la Houle*), deux essais littéraires (*George Sand, Lucien Descaves*) et un peu plus d'une centaine de nouvelles dont certaines regroupées en livres (*le Rouet d’Ivoire, Jean des Brebis, la Charrue d’Erable*).
 
 Même si l'histoire de la littérature le classe parmi les auteurs régionalistes, Emile Moselly témoigne avant tout d'une pensée puis d'une parole à la portée émancipatrice qui se forge à partir des personnes qu'il a côtoyées et des lieux qu'il a parcourus .
@@ -50,7 +50,7 @@ Le 23 mai 1907, Emile Moselly reçoit le Prix Stanislas de Guaita. Prix Goncourt
 
 **Plaque Emile Moselly**
 La maison d'Émile Moselly, située au 18 rue du Commandant-Fiatte à Chaudeney-sur-Moselle, est signalée par une plaque.
-![](./_images/Plaque-EM.jpg)
+![landscape Plaques Commémoratives. Il y est inscrit : "Dans cette maison Emile Chénin Moselly 1870-1918 a passé sa jeunesse et a écrit la plupart de ses ovrages lorrains. Association des écrivains lorrains et ses concitoyens (1928)"](./_images/Plaque-EM.jpg)
 
 Le Cercle d'études local du Toulois (CELT) décerne chaque année en hommage à Émile Moselly un prix récompensant une nouvelle ayant pour cadre la Lorraine .
 
@@ -91,4 +91,4 @@ uvres et principales éditions
 - *Le français de nos enfants, méthode de composition française,* Emile Moselly et Armand Weil, Privat, 1908 (plusieurs rééditions)
 - *Contes et récits du XIXème siècle,* Emile Moselly et Armand Weil, Librairie Larousse, 1910 (plusieurs rééditions)
 
-On retrouve l'intégralité de cette notice sur wikipedia : [[Mosellyhttps://fr.wikipedia.org/wiki/Émile_Moselly]]
+On retrouve l'intégralité de [cette notice sur wikipedia](Mosellyhttps://fr.wikipedia.org/wiki/Émile_Moselly)
