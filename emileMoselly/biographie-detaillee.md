@@ -1,5 +1,5 @@
 ---
-title: bio détaillée
+title: biographie détaillée
 published: 2026-01-05
 author: JFC
 updated: 2026-01-05
@@ -11,7 +11,8 @@ toc: true
 lang: fr
 abbrlink: bio-detaillee
 ---
-### 1870 / Paris
+Biographie établie par françois chénin '(1)966-1967, complétée par Jfrançois Chénin (2022)
+### (### 1870-1873[^2] / Paris
 
 **12 août 1870** ‐ Naissance à la Bibliothèque Nationale, rue de Richelieu, où son père est gardien, de Emile François Achille Chénin, fils de Auguste François Achille Chénin et de Marguerite Joséphine Gantois. 14 mai 1871 ‐ Baptême à Chaudeney. Parrain : Victor Gantois, son oncle. Marraine : Léonie Chénin, sa tante.
 
@@ -23,7 +24,7 @@ Mai ‐ Joséphine Chénin et son fils viennent s'installer dans la maison de Ch
 
 Octobre ‐ Achille Chénin les rejoint.
 
-**1876‐1881** [[1]](#_ftn1)  **/ Chaudeney**
+### **1876‐1881** [^1] **/ Chaudeney**
 
 A l'école communale
 
@@ -65,9 +66,9 @@ Mercredi 17 octobre 1887 ‐ Vient d'entrer comme boursier d'internat au Lycée 
 
 Reçu à ce concours à la Faculté des Lettres de Nancy. De la rentrée 1889 à juillet 1891, il habite en meublé à Nancy et y prépare sa licence.
 
-### 1891 / Nancy ‐ Fort de Lucey [^2] 
+### 1891 / Nancy ‐ Fort de Lucey [^1] 
 
-19              janvier ‐ Une lettre à ses parents porte l'adresse 10, rue Eugène Ferry (cahier N°4 ‐ _J'habitais une maison près de la Pépinière._). 21 février ‐ (lettre à ses parents) Allusion à une première œuvre que son ami Armand Blocq [^3]portera à Lemerre [^4].
+19              janvier ‐ Une lettre à ses parents porte l'adresse 10, rue Eugène Ferry (cahier N°4 ‐  J'habitais une maison près de la Pépinière). 21 février ‐ (lettre à ses parents) Allusion à une première œuvre que son ami Armand Blocq [^3]portera à Lemerre [^4].
 
 20              juin ‐ _On m'a renvoyé mon manuscrit avec refus d'éditer_. (Lettre à ses parents). 
 
@@ -117,7 +118,7 @@ Août ‐ Oral à Paris.
 
 Vacances 1896 ‐ A Chaudeney. 
 
-Jusqu'à 1913 inclus, E.M. passera toujours ses grandes vacances à Chaudeney, le plus souvent en totalité, quelquefois seulement en partie. Ses déplacements pendant les vacances intermédiaires (Nouvel sur un plateau à une altitude de 395 mètres. Il surveille les routes et les voies ferrées qui mènent à Paris, Verdun et à Menil La Tour. Son éloignement de la place lui permet d'être considéré comme un fort d'arrêt avancé capable de se défendre de tous les côtés. il pouvait aussi défendre les forts de Trondes, Bruley et Ecrouves. Voir : http://www.fortiffsere.fr/toulgauche/index_fichiers/Page10621.htm
+Jusqu'à 1913 inclus, E.M. passera toujours ses grandes vacances à Chaudeney, le plus souvent en totalité, quelquefois seulement en partie. Ses déplacements pendant les vacances intermédiaires (Nouvel sur un plateau à une altitude de 395 mètres. Il surveille les routes et les voies ferrées qui mènent à Paris, Verdun et à Menil La Tour. Son éloignement de la place lui permet d'être considéré comme un fort d'arrêt avancé capable de se défendre de tous les côtés. il pouvait aussi défendre les forts de Trondes, Bruley et Ecrouves. [Voir](http://www.fortiffsere.fr/toulgauche/index_fichiers/Page10621.htm)
 
 An, Pâques, Pentecôte) sont quelquefois plus difficiles à préciser. Décembre ‐ Annonce à son père son prochain mariage.
 
@@ -245,7 +246,9 @@ Vacances en Lorraine.
 
 18 septembre ‐ Congé pour l'année 1909‐1910 (pendant ce congé, la famille demeurera chez la mère de sa femme, villa 167, Chaussée Jules César, Eaubonne, où elle est installée depuis 1907 ‐ Eaubonne est à 15 km au nord de Paris).
 
-**1910 / Eaubonne, puis Rouen** Mars ‐ Visite à Richardin [^12].
+### **1910 / Eaubonne, puis Rouen** 
+
+Mars ‐ Visite à Richardin [^12].
 
 12 juin ‐ Visite à la fondation Kahn.
 
@@ -295,9 +298,7 @@ Début juillet ‐ Fin de l'année scolaire à Eaubonne. 
 
 13 juillet ‐ Distribution des prix.
 
-surtout connu pour _La Cuisine française du XIVe au XXe siècles (l'art du bien manger_, suivi... des _aphorismes de Brillat-Savarin_…). Édition accompagnée de dessins expliqués par Gustave Gefroy contenant plus de 2.000 recettes.
-
-14 Albert Kahn, né Abraham Kahn à Marmoutier en Alsace le 3 mars 1860 et mort à Boulogne-Billancourt le 14 novembre 1940, est un banquier et philanthrope français. Il a rassemblé un important fonds iconographique intitulé Archives de la Planète, collection constituée d'autochromes (photographies en couleurs sur plaques de verre) la plus importante au monde, et de films en noir et blanc, fonds conservé au musée départemental Albert-Kahn (Boulogne-Billancourt). Voir : https://fr.wikipedia.org/wiki/Albert_Kahn_(banquier) et : http://judaisme.sdv.fr/ perso/akahn.htm et sur la Fondation : https://rencontresamismuseealbertkahn.fr/leprojet-albert-kahn-en-quelques-mots/
+14 Albert Kahn, né Abraham Kahn à Marmoutier en Alsace le 3 mars 1860 et mort à Boulogne-Billancourt le 14 novembre 1940, est un banquier et philanthrope français. Il a rassemblé un important fonds iconographique intitulé Archives de la Planète, collection constituée d'autochromes (photographies en couleurs sur plaques de verre) la plus importante au monde, et de films en noir et blanc, fonds conservé au musée départemental Albert-Kahn (Boulogne-Billancourt). [Voir](https://fr.wikipedia.org/wiki/Albert_Kahn_(banquier)) et : http://judaisme.sdv.fr/ perso/akahn.htm et sur la Fondation : https://rencontresamismuseealbertkahn.fr/leprojet-albert-kahn-en-quelques-mots/
 
 15 Alfred Saffrey, critique littéraire, ami de Péguy, a contribué à faire connaitre les correspondances entre Péguy et Romain Rolland, entre Péguy et Moselly. - Voir "l'amitié C.Péguy", article de A.Saffrey sur E.M. et sa relation à Péguy (Feuillets du 15 mars 1966).
 
@@ -438,7 +439,7 @@ Inhumation provisoire à Lorient.
 
 [^4]:Alphonse-Pierre Lemerre, né le 9 avril 1838 à Canisy, mort le 15 octobre 1912  à Paris. Editeur français réputé pour ses éditions des poètes parnassiens.  Il publia également des anthologies de grands auteurs classiques et romantiques.
 
-[^5]:Le fort de Lucey est construit au nord de la place en rive gauche de la Moselle,
+[^4]:Le fort de Lucey est construit au nord de la place en rive gauche de la Moselle,
 
 [^6]:Le camp de Châlons, connu également sous le nom de camp de Mourmelon,  est un camp militaire français se situant à Mourmelon, à proximité de la ville de Châlons-en-Champagne (Marne).
 
@@ -455,6 +456,8 @@ Inhumation provisoire à Lorient.
 [^12]:Edmond Richardin (1846-1917) est né Vaucouleurs (Meuse) le 26 octobre 1847 et mort à Bagnères-de-Bigorre (Hautes-Pyrénées) le 10 août 1917. Ecrivain, éditeur,
 
 [^13]:31 juillet - Assassinat de Jaurès / 2 août : ordre de mobilisation générale en France et en Allemagne.
+
+[^14']Edmond Richardin (1846-1917) est né Vaucouleurs (Meuse) le 26 octobre 1847 et mort à Bagnères-de-Bigorre (Hautes-Pyrénées) le 10 août 1917. Ecrivain, éditeur,surtout connu pour _La Cuisine française du XIVe au XXe siècles (l'art du bien manger_, suivi... des _aphorismes de Brillat-Savarin_…). Édition accompagnée de dessins expliqués par Gustave Gefroy contenant plus de 2.000 recettes.
 
 [^14]:août - L'Allemagne déclare la guerre à la France. 5-12 septembre - Bataille de la Marne.
 
