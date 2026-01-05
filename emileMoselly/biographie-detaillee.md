@@ -425,10 +425,11 @@ Inhumation provisoire à Lorient.
 
 8 octobre 1928 ‐ Inauguration d'une plaque sur la maison de Chaudeney (18 rue du Cmdt Fiatte).
 
-23 octobre 1949 ‐ Pèlerinage sur la tombe et plaque de marbre : _Hommage des Toulois à Emile Moselly ­ Octobre 1949._
-
+23 octobre 1949 ‐ Pèlerinage sur la tombe et plaque de marbre : _Hommage des Toulois à Emile Moselly ­ Octobre 1949. 
 2 octobre 2018 ‐ Commémoration du centenaire de la mort de E.M. sur la tombe de la famille Chénin à Chaudeney‐sur‐Moselle.
+
 ---
+
 [^1]: 11 août 1876 - l'assemblée vote des crédits pour la formation de 19 comités d'études et de vigilance contre le phylloxéra qui ravage les vignobles français.  Originaire de l’Est des Etats-Unis, le phylloxera est un insecte piqueur apparenté aux pucerons. Il fut signalé pour la première fois en France en 1863. Au XIXème siècle, le phylloxera eut une importance économique et sociale dramatique sur la viticulture française et européenne, qui fut dévastée et qui dut intégralement se reconstruire. Le phylloxera a aujourd’hui colonisé presque tous les vignobles du monde.
 
 [^2]: Il convient de garder à l'esprit que l'Alsace (Bas-Rhin, Haut-Rhin) et une partie de la Lorraine (la quasi totalité de la Moselle de l'époque et une partie de la Meurthe de l'époque) sont sous régime allemand depuis le Traité de Francfort du 10 mai 1871. La partie restée française deviendra la Meurthe-et-Moselle en 1871. La frontière avec l'Allemagne s'est donc considérablement rapprochée de Nancy, Toul et Chaudeney. E.M. ne connaitra jamais une "Alsace-Lorraine" revenue à la France puisque l'Alsace et la Lorraine seront restituées en 1919.
@@ -457,7 +458,7 @@ Inhumation provisoire à Lorient.
 
 [^14]:août - L'Allemagne déclare la guerre à la France. 5-12 septembre - Bataille de la Marne.
 
-[^15]:Sur Les Rosières de La Mothe Saint-Héray [voir](https://lamothesaintheray.123.fr/)lesrosieres.html et sur Charles Benjamin Chameau [(voir](https://lamothe saintheray.123.fr/charlesbenjaminchameau.html)
+[^15]:Sur Les Rosières de La Mothe Saint-Héray [voir](https://lamothesaintheray.123.fr/lesrosieres.html) et sur Charles Benjamin Chameau [voir](https://lamothesaintheray.123.fr/charlesbenjaminchameau.html)
 
 [^16]:Antonin Lavergne, né Pierre-Antoine Lavergne le 5 juin 1863 à Aniane (Hérault) et mort le 6 mars 1941 à Saint-André-de-Sangonis (Hérault) est un écrivain et
 
