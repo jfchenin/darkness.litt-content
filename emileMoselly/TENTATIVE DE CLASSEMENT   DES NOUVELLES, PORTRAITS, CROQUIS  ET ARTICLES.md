@@ -11,7 +11,7 @@ toc: true
 lang: fr
 abbrlink: les-nouvelles
 ---
-![description](./_images/Nouvelles-1-et-2.jpg)
+![couvertures des nouvelles](./_images/Nouvelles-1-et-2.jpg)
 
 
 

@@ -9,7 +9,7 @@ draft: false
 pin: 1
 toc: true
 lang: fr
-abbrlink: le-chant-de-la-terre
+abbrlink: le-chant-du-peuple
 ---
 # ÉMILE MOSELLY ET LE CHANT DU PEUPLE ET DE LA TERRE
 *(À propos des Cahiers, 1890-1914 - par JF Chénin)*
