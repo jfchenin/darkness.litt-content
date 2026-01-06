@@ -1,5 +1,5 @@
 ---
-title: Emile moselly en famille
+title: Emile Moselly en famille
 published: 2026-01-06
 author: JFC
 updated: 2026-01-06
@@ -9,9 +9,9 @@ draft: false
 pin: 1
 toc: true
 lang: fr
-abbrlink: la famille de Moselly
+abbrlink: la famille-de-moselly
 ---
-! [Emile Moselly en famille vers 1904-1905](./_images/Moselly famille.jpg)
+![Emile Moselly en famille vers 1904-1905](./_images/Moselly famille.jpg)
 **Assis :**
 ACHILLE, FRANÇOIS, AUGUSTE CHÉNIN, père d’EMILE CHÉNIN-MOSELLY,
 né le 20 décembre 1835 à Pierre-la-Treiche, décédé le 7 novembre
