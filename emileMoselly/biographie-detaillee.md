@@ -9,7 +9,7 @@ draft: false
 pin: 1
 toc: true
 lang: fr
-abbrlink: bio-detaillee
+abbrlink: biographie-detaillee
 ---
 Biographie établie par françois chénin (1966-1967), complétée par Jfrançois Chénin (2022)
 
