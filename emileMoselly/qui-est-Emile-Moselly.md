@@ -94,22 +94,23 @@ La ville de Toul lui a dédié une école primaire et un jardin où s'élève un
 
 On retrouve l'intégralité de cette notice sur [WIKIPEDIA](https://fr.wikipedia.org/wiki/Émile_Moselly)  
 
+
 ### Bibliographie
 
-- Maurice Pellisson, « L’Aube fraternelle, Cahiers de la Quinzaine, 1902 ; Jean des Brebis ou le livre de la Misère, Cahiers de la Quinzaine, 1904, Plon, 1907 ; Les Retours, Cahiers de la Quinzaine, 1906 ; Terres Lorraines, Plon, 1907 ; Le Rouet d’Ivoire, Cahiers de la Quinzaine, 1907, Plon, 1908, par E. Moselly. », _La Revue pédagogique_, vol. 52,‎ 1908, p. 397-400 [lire en ligne](https://education.persee.fr/doc/revpe_2021-4111_1908_num_52_1_5662_t1_0397_0000_2) 
+- Maurice Pellisson, commentaires sur :L’Aube fraternelle, Cahiers de la Quinzaine, 1902 ; Jean des Brebis ou le livre de la Misère, Cahiers de la Quinzaine, 1904, Plon, 1907 ; Les Retours, Cahiers de la Quinzaine, 1906 ; Terres Lorraines, Plon, 1907 ; Le Rouet d’Ivoire, Cahiers de la Quinzaine, 1907, Plon, 1908, par E. Moselly. », _La Revue pédagogique_, vol. 52,‎ 1908, p. 397-400
 - Charles Daudier, _Moselly, chantre de la Lorraine 1_, Le Pays Lorrain, Avril 1920 (12ème année, n°4)
 - Charles Daudier, _Moselly, chantre de la Lorraine 2_, Le Pays Lorrain, Septembre 1920 (12ème année, n°9)
 - Charles Daudier, _Moselly, chantre de la Lorraine 3_, Le Pays Lorrain, Avril 1921 (13ème année, n°4)
 - Charles Daudier, _Moselly et la Bretagne_, La Pensée Bretonne, avril 1920 (6ème année, n°40)
 - Léopold Bouchot, _Moselly chez ses paysans_, Le Pays Lorrain, juillet 1927 (19ème année, n°7-246)
-- Alfred Saffrey, _Emile Moselly_, l'Amitié Charles Péguy, feuillets 120 du 15 mars 1966
-- Pierre Goudot, _La vision mosellienne de la nature lorraine jusqu'en 1902 (1° partie)_, Etudes Touloises, 1974, 1, 11-22 [lire en ligne](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F1%2Fart2.pdf).
-- Pierre Goudot, _La vision mosellienne de la nature lorraine jusqu'en 1902 (2° partie)_, Etudes Touloises, 1975, 3, 37-52 [lire en ligne](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F3%2Fart6.pdf)
-- Paul Sadoul, _La première édition du Rouet d'Ivoire d'Emile Moselly_, Le Pays Lorrain, juillet 1990
-- Carine Rothiot, _Le « travail de terre », une philosophie de la vie dans Fils de gueux d’Émile Moselly,_ in Le travail en représentations, Actes du 127ème Congrès national des sociétés historiques et scientifiques, « Le travail et les hommes », Nancy, 2002. Paris : Editions du CTHS, 2005. pp. 321-334 5 [lire en ligne].
-- André Markiewicz, dir., Achats et dons : Quinze années d'enrichissement des collections de la Bibliothèque municipale (1993-2008), Nancy, Ville de Nancy, 2009, 48 p., p. 42.
-- Patricia Szafranski, _Un jeu d’épreuves de Fils de Gueux, roman d’Émile Moselly_, Presses universitaires de Paris Sorbonne (PUPS), 2013, Société internationale de génétique artistique littéraire et scientifique (SIGALES [lire en ligne](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fjournals.openedition.org%2Fgenesis%2F1239).
-- Daniel Jacques, _Il y a cent ans, Emile Moselly rencontrait Charles Péguy_ - Etudes Touloises, 1999 [lire en ligne].
-- Paul Montagne, _Émile Moselly, Peintre des paysages toulois, poète de leur flore_ - Etudes Touloises, 2018, 1665 3-15 [lire en ligne]
-- Philippe Masson, _Une commémoration littéraire avortée : le monument à Emile Moselly_, Etudes Touloises, 2018, 166, 37-45 [lire en ligne](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F166%2F166art6.pdf).
+- Alfred Saffrey, _Emile Moselly_, l’Amitié Charles Péguy, feuillets 120 du 15 mars 1966
+- Pierre Goudot, _La vision mosellienne de la nature lorraine jusqu’en 1902 (1° partie)_, Etudes Touloises, 1974, 1, 11-22 [Lire en ligne](https://www.etudes-touloises.fr/archives/1/art2.pdf)([https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F1%2Fart2.pdf](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F1%2Fart2.pdf)
+- Pierre Goudot, _La vision mosellienne de la nature lorraine jusqu’en 1902 (2° partie)_, Etudes Touloises, 1975, 3, 37-52 [Lire en ligne](https://www.etudes-touloises.fr/archives/3/art6.pdf)([https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F3%2Fart6.pdf](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F3%2Fart6.pdf)
+- Paul Sadoul, _La première édition du Rouet d’Ivoire d’Emile Moselly_, Le Pays Lorrain, juillet 1990
+- Carine Rothiot, _Le « travail de terre », une philosophie de la vie dans Fils de gueux d’Émile Moselly,_ in Le travail en représentations, Actes du 127ème Congrès national des sociétés historiques et scientifiques, « Le travail et les hommes », Nancy, 2002. Paris : Editions du CTHS, 2005. pp. 321-334 [Lire en ligne](https://www.persee.fr/doc/acths_0000-0001_2005_act_127_3_5141).
+- André Markiewicz, dir., Achats et dons : Quinze années d’enrichissement des collections de la Bibliothèque municipale (1993-2008), Nancy, Ville de Nancy, 2009, 48 p., p. 42.
+- Patricia Szafranski, _Un jeu d’épreuves de Fils de Gueux, roman d’Émile Moselly_, Presses universitaires de Paris Sorbonne (PUPS), 2013, Société internationale de génétique artistique littéraire et scientifique (SIGALES) [Lire en ligne](https://journals.openedition.org/genesis/1239)([https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fjournals.openedition.org%2Fgenesis%2F1239](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fjournals.openedition.org%2Fgenesis%2F1239.)
+- Daniel Jacques, _Il y a cent ans, Emile Moselly rencontrait Charles Péguy_ - Etudes Touloises, 1999 [Lire en ligne](https://www.etudes-touloises.fr/archives/102/art4.pdf) ([https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F102%2Fart4.pdf](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F102%2Fart4.pdf.)
+- Paul Montagne, _Émile Moselly, Peintre des paysages toulois, poète de leur flore_ - Etudes Touloises, 2018, 166, 3-15 [Lire en ligne](https://www.etudes-touloises.fr/archives/166/166art2.pdf)
+- Philippe Masson, _Une commémoration littéraire avortée : le monument à Emile Moselly_, Etudes Touloises, 2018, 166, 37-41 [Lire en ligne](https://www.etudes-touloises.fr/archives/166/166art6.pdf)([https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F166%2F166art6.pdf](https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.etudes-touloises.fr%2Farchives%2F166%2F166art6.pdf))
 - Gilles et JFrançois Chénin, _Emile Moselly, Prix Goncourt 1907, vie & œuvres_, TheBookEdition, 2024 [Lire en ligne](https://www.calameo.com/read/006026406b831bc0b77e1?authid=LZQwiRXAjmHX)
