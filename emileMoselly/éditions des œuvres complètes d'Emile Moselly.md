@@ -30,7 +30,7 @@ chez[ **TheBookEdition.com**](https://www.thebookedition.com/fr/recherche?contro
 
 ---
 
-![Couverture Le rouet d'ivoire](rouet-ivoire.jpg)
+![Couverture Le rouet d'ivoire](./_images/rouet-ivoire.jpg)
 
 # LE ROUET D’IVOIRE, Enfances lorraines, Nouvelles
 
