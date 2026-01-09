@@ -17,7 +17,7 @@ chez[ **TheBookEdition.com**](https://www.thebookedition.com/fr/recherche?contro
 ![œuvres complètes](./_images/couv-livres1.jpg)
 ![œuvres complètes](./_images/couv-livres2.jpg)
 
-# l'aube fraternelle suivie de Les Retours
+## l'aube fraternelle suivie de Les Retours
 
 ![couverture de l'aube fraternelle](./_images/aube-fraternelle.jpg)
 
@@ -32,7 +32,7 @@ chez[ **TheBookEdition.com**](https://www.thebookedition.com/fr/recherche?contro
 
 ![Couverture Le rouet d'ivoire](./_images/rouet-ivoire.jpg)
 
-# LE ROUET D’IVOIRE, Enfances lorraines, Nouvelles
+## LE ROUET D’IVOIRE, Enfances lorraines, Nouvelles
 
 Introduction de Pierre Goudot
 
