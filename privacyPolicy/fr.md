@@ -11,7 +11,7 @@ Le site darkness.chenin.fr accorde une grande importance à la protection de vos
 Le responsable du traitement des données personnelles est :
 
 **Jean François Chénin**  
-**Adresse** : 3 rue de la Chapelle, 50590 Hauteville-sur-Mer, France  
+**Adresse** : 50590 Hauteville-sur-Mer, France  
 **Email** : [jfrançois@chenin.fr](mailto:jfrançois@chenin.fr)  
 **Téléphone** : **&plus;&#x33;&#x33;&#x20;&lpar;&#x36;&rpar;&#x20;&#x33;&#x32;&#x20;&#x31;&#x34;&#x20;&#x37;&#x38;&#x20;&#x37;&#x33;**
 
