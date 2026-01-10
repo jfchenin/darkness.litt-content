@@ -308,9 +308,9 @@ Il est mort, jeune encore, et n'ayant pas dit son dernier mot. [...] Et pour la 
 
 ---
 
-ENTATIVE DE CLASSEMENT DES NOUVELLES, PORTRAITS, CROQUIS ET ARTICLES**
+**TENTATIVE DE CLASSEMENT DES NOUVELLES, PORTRAITS, CROQUIS ET ARTICLES****
 
-Les nouvelles marquées V.1 ou V.2 ont été regroupées dans deux volumes parus chez TheBookEdition - **(V.1 : Nouvelles V.1 2023)**[https://www.thebookedition.com/fr/emile-moselly-nouvelles-v1-p-395932.html] – **(V.2 :  Nouvelles V.2 2023)**[https://www.thebookedition.com/fr/emile-moselly-nouvelles-v2-p-396804.html]
+Les nouvelles marquées V.1 ou V.2 ont été regroupées dans deux volumes parus chez TheBookEdition - [**(V.1 : Nouvelles V.1 2023]**(https://www.thebookedition.com/fr/emile-moselly-nouvelles-v1-p-395932.html) – [**V.2 :  Nouvelles V.2 2023]**(https://www.thebookedition.com/fr/emile-moselly-nouvelles-v2-p-396804.html)
 
 ---
 
