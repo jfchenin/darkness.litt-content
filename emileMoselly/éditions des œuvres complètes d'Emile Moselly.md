@@ -17,7 +17,7 @@ chez[ **TheBookEdition.com**](https://www.thebookedition.com/fr/recherche?contro
 ![œuvres complètes](./_images/couv-livres1.jpg)
 ![œuvres complètes](./_images/couv-livres2.jpg)
 
-## L'KAUBE FRATERNELLE suivie de LES RETOURS
+## L'AUBE FRATERNELLE suivie de LES RETOURS
 
 ![couverture de l'aube fraternelle](./_images/aube-fraternelle.jpg)
 
@@ -249,7 +249,7 @@ En quatre ans, _Jean des Brebis_ sera édité trois fois. Dans les Cahiers de la
 
 Après le récit _L'Aube fraternelle_ (dans les Cahiers de la Quinzaine en 1902) et après *Le rouet d'ivoire*, _Jean des Brebis_ sera le second ouvrage de nouvelles d'E. Moselly, regroupant _Jean des Brebis, A la Belle étoile, Le Revenant, La Mort du bouif, Le Trompion, Cri­Cri_.
 
-Le Prix Goncourt lui sera remis en décembre 1907 pour ce livre mais aussi pour _Terres lorraines_ et  _Le Rouet d'ivoire_, ouvrages parus cette année­l à.  La carte signée des dix jurés dit très exactement : [...] _le Prix des Goncourt vous a été donné pour vos livres et en particulier Jean des Brebis_ [...]. (voir) [https://darkness.chenin.fr/emile-moselly/bibliographie/#1907--orléans]
+Le Prix Goncourt lui sera remis en décembre 1907 pour ce livre mais aussi pour _Terres lorraines_ et  _Le Rouet d'ivoire_, ouvrages parus cette année­l à.  La carte signée des dix jurés dit très exactement : [...] _le Prix des Goncourt vous a été donné pour vos livres et en particulier Jean des Brebis_ [...]. (voir)[https://darkness.chenin.fr/emile-moselly/bibliographie/#1907--orléans]
 
 L'attribution en 1907 du Goncourt à Moselly marque la préférence du jury pour un recueil de nouvelles paru quatre ans auparavant, contrairement aux règles du prix qui veut que le livre couronné soit un roman paru dans l’année de son attribution. Ce fait est bien évidemment relevé par la presse : "_Le prix Goncourt 1907 ­ C'est M. Moselly qui a  remporté la palme mais on ignore pour laquelle  de ses œuvres._
 
@@ -277,4 +277,9 @@ Avec _Jean des Brebis_, Emile Moselly écrira parmi  ses meilleures nouvelles, 
 
 ---
 
+![Couverture de fils de gueux](./_images/fils-de-gueux.jpg)
 
+
+## fils de gueux, roman
+
+*Fils de Gueux* raconte comment Basile Crasmagne parvient à échapper à la misère par le moyen honnête et digne du travail, et notamment du travail de la terre. Moselly propose, dans ce troisième roman, un tableau de la dure réalité d’un travail qui avilit le corps et ne permet pas toujours de survivre. Ce roman dépasse toute simplification : le dur « travail de terre »y apparaît également beau et héroïque et devient lutte contre une misère de la vie qui concerne tous les hommes  [voir](https://www.persee.fr/doc/acths_0000-0001_2005_act_127_3_5141); force vitale contre le vertige de la mort et l’hostilité du pays ; communion avec la nature et avec les êtres aimés : bref, il est ce qui donne du sens et de l’humanité à la vie. 'D’abord la terre n’est rien, c’est l’homme qui ’est tout".
