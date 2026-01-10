@@ -21,7 +21,8 @@ Les îles ne sont pas loin qui pointillent l’eau opaline qui file sous nos yeu
 
 Key West est à une encablure.
 
-***
+---
+
 
 Nous sommes dans les vents levés du Sud, qui balayent les nuages vers le haut du ciel. Il n’y a qu’un aplat bleu opalescent, vertical et désirable, enfantin. Nous entrons dans le pays dont nous rêvions et sommes balancés entre le froid et chaud.
 
@@ -33,7 +34,8 @@ Nous avons oublié d’où nous venions et qui nous étions. Nous n’avons pas 
 
 Key West est à une encablure.
 
-***
+---
+
 
 En boucle cet acquiescement qui viendra après, au bord de la route, tellement retenu et si doux et si bas murmuré que j’en doute encore. Pris dans les bras l’un de l’autre, pris dans nos rêves d’autre chose ou d’ailleurs ou de plus tard, pourtant décidés à reprendre le voyage. Ce qui nous rapproche sur les pilotis de bois du port, ce qui nous tient dans les parfums du monde, ce qui nous attache dans les dernières couleurs du soir, ce qui revient en nous pour rester silencieux, qui arbitre nos regards, ce qui vient est attendu. En boucle trois mots
 
@@ -135,6 +137,27 @@ _Là se bornent à présent mes désirs. Me tenir debout en plein air et voir le
 
 Paul Auster – _Dans le scriptorium_, 2006
 
+Tu tombes, mais tu te relèves immédiatement, tu ne retiens pas ton souffle, tu as les gestes précis, ton visage ne laisse rien voir, tu tombes encore et encore tu te redresses, tu as passé une limite, celles des aveux qui plongent aux racines de ton être, tu vis bouleversé, tu entres dans un nouveau monde où les obstacles sont imaginaires mais tu trébuches, tu tombes cette fois plus lourdement et tu reviens meurtri, ton bras gauche a encaissé une forte secousse et cette douleur qui vient à ton esprit te laisse haletant, désemparé aussi, presque honteux, tu reprends position, tu n’as pas le choix, tu es le projectile et la cible, l’aile et l’air qui la porte, il faut y mettre la forme et dans l’entre-deux où tu avances, tu énonces les décalages qui anticipent tes pas, place tes rêves où ils doivent être, relève-toi, relève-les, mais tu tombes et tu n'as plus le choix, garde en mémoire les instants où se tenir debout ne demandait pas d'effort, place haut ce que tu veux atteindre, et d'autres pas encore qui décident de l'avenir, des horizons très proches comme des lointains voyages, tu tombes.
+
+---
+
+### QUAND LE DÉSIR EST INDÉCIS
+
+C’est un pli sur le sable comme un livre ouvert, un pli de la mémoire bouleversée, parce que la vie n’attend pas et l’étendue à nos pieds est un débarcadère de plus sur l’avancée du ciel. Ce livre ouvert nous retient.  
+Mais nous tombons et la vie s'écrit à l'ombre des pages dans l'ombre de la vie et toutes ces pages d'une vie morcelée, les unes sur les autres, ont l'épaisseur d'une nuit froissée - une seule nuit - vide et sans plaisir.  
+Quand nous tombons à pages ouvertes, à pas comptés, à rives vives, quand l'histoire s'interprète dans le clair-obscur d'un livre toujours déplié, cet espace est le nôtre comme des arrangements ininterrompus d'une mémoire inventée.  
+Inventée, acérée, réelle, et effacée par un seul coup de la main, toujours immobile, comme enivrée par la lumière qui la porte. C'est une mécanique saillante, cette mémoire encombrée, surgit au milieu des histoires de notre vie, de la première à la dernière page, comme un début à tout.  
+C'est un fait, une raison, les mots manquent, le temps a joué de ses effets, la réalité est que nous tombons encore. Nous agissons en prisonnier, éreintés par le vide qui nous attire, sans un cri. Rien ne débute, rien ne fuit, il n'y a que la chute.  
+Une chute en nous comme une chair passe sur une chair, une chute en nous, mais une envie ingrate de fermer le livre, de déranger encore une fois le ciel, d'oublier l'histoire. Peu importe si les pages sont blanches, les mots sont toujours là, ombres d'ombre.  
+Une chute en nous comme un poing se délivre du coup qu'il porte, un effacement ajouté aux disparitions successives tout autour de nous, le livre ouvert tient ses secrets comme un livre fermé. Nous nous débarrassons trop vite du désir qui vient.  
+Les pages égrainent le silence, cette rumeur égorgée dans un silence plus grand qui l'absorbe, au bout de notre histoire quand le désir est indécis, quand il tombe comme une main meurtrie, cette feuille déchirée, noircie, juste avant de disparaître, à peine heurtée, dessinant l'horizon effilé d'autres désirs, encore inavoués.  
+
+---
+### UNE DANSE
+
+_Là se bornent à présent mes désirs. Me tenir debout en plein air et voir le ciel immense et bleu au-dessus de moi, contempler une dernière fois l’infini hurlant._  
+Paul Auster – _Dans le scriptorium_, 2006  
+  
 Tu tombes, mais tu te relèves immédiatement, tu ne retiens pas ton souffle, tu as les gestes précis, ton visage ne laisse rien voir, tu tombes encore et encore tu te redresses, tu as passé une limite, celles des aveux qui plongent aux racines de ton être, tu vis bouleversé, tu entres dans un nouveau monde où les obstacles sont imaginaires mais tu trébuches, tu tombes cette fois plus lourdement et tu reviens meurtri, ton bras gauche a encaissé une forte secousse et cette douleur qui vient à ton esprit te laisse haletant, désemparé aussi, presque honteux, tu reprends position, tu n’as pas le choix, tu es le projectile et la cible, l’aile et l’air qui la porte, il faut y mettre la forme et dans l’entre-deux où tu avances, tu énonces les décalages qui anticipent tes pas, place tes rêves où ils doivent être, relève-toi, relève-les, mais tu tombes et tu n'as plus le choix, garde en mémoire les instants où se tenir debout ne demandait pas d'effort, place haut ce que tu veux atteindre, et d'autres pas encore qui décident de l'avenir, des horizons très proches comme des lointains voyages, tu tombes.
 
 ---
