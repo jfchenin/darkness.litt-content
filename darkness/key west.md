@@ -9,7 +9,7 @@ draft: false
 pin: 1
 toc: true
 lang: fr
-abbrlink: key west
+abbrlink: key-west
 ---
 # KEY WEST
 
