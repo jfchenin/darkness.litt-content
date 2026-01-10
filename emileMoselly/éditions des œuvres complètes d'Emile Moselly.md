@@ -232,3 +232,49 @@ Moselly écrit au printemps 1902, fixant ainsi la ligne directrice de son œuvre
 
 ---
 
+![Couverture de Joson Meunier](./_images/Joson-Meunier.jpg)
+
+
+## JOSON MEUNIER, histoire d'un paysan lorrain
+
+Avec *Joson Meunier*, son second roman,Emile Moselly poursuit son exploration du monde paysan qu'il côtoie à Chaudeney où réside ses parents ou à Bicqueley, village où habite son parrain,en rapportant l'histoire d'un pauvre paysan lorrain, qui, tantôt employé chez un marchand de bois de Toul, tantôt bûcheron, se marie avec une servante d'auberge, a un fils, Maurice, sur lequel sa femme et lui concentrent toute leur affection. Devenu veuf prématurément, il fait travailler ce fils comme travaille un « fils de bourgeois. » Le jeune Maurice est le plus laborieux élève du lycée de Toul, puis du lycée de Nancy, (parcours scolaire que fera Moselly, poussé par son père et son instituteur) entre à l'Ecole Polytechnique, devient officier d'artillerie. Mais, à mesure que le père est plus fier de son enfant, plus ce dernier est gêné et comme plus honteux de son père, bûcheron en blouse, qui ne saurait frayer avec les mêmes gens que lui.
+
+---
+
+![description](./_images/jean-des-brebis.jpg)
+
+## JEAN DES BREBIS, ou le livre de la misère, nouvelles
+
+En quatre ans, _Jean des Brebis_ sera édité trois fois. Dans les Cahiers de la Quinzaine en 1904 puis, la même année, aux édition Ollendorf et, en novembre 1907, aux éditions Plon. Plus tard, d'autres éditions suivront essentiellement chez Plon.
+
+Après le récit _L'Aube fraternelle_ (dans les Cahiers de la Quinzaine en 1902) et après *Le rouet d'ivoire*, _Jean des Brebis_ sera le second ouvrage de nouvelles d'E. Moselly, regroupant _Jean des Brebis, A la Belle étoile, Le Revenant, La Mort du bouif, Le Trompion, Cri­Cri_.
+
+Le Prix Goncourt lui sera remis en décembre 1907 pour ce livre mais aussi pour _Terres lorraines_ et  _Le Rouet d'ivoire_, ouvrages parus cette année­l à.  La carte signée des dix jurés dit très exactement : [...] _le Prix des Goncourt vous a été donné pour vos livres et en particulier Jean des Brebis_ [...]. (voir) [https://darkness.chenin.fr/emile-moselly/bibliographie/#1907--orléans]
+
+L'attribution en 1907 du Goncourt à Moselly marque la préférence du jury pour un recueil de nouvelles paru quatre ans auparavant, contrairement aux règles du prix qui veut que le livre couronné soit un roman paru dans l’année de son attribution. Ce fait est bien évidemment relevé par la presse : "_Le prix Goncourt 1907 ­ C'est M. Moselly qui a  remporté la palme mais on ignore pour laquelle  de ses œuvres._
+
+_L'Académie Goncourt est obligée d'attribuer son prix à l'œuvre éditée dans l'année et non point à un auteur, or, le Temps et le Matin nous ont dit que l'ouvrage couronné était Jean des Brebis, œuvre publiée il y a quatre ans et par conséquent ne rentrant pas dans les conditions du concours._
+
+_Il est vrai que d'autres journaux nous ont appris que le prix avait été donné à Terres Lorraines, ou encore au Rouet d'ivoire, deux œuvres de M. Moselly publiées cette année._
+
+_La réalité c'est que ces deux dernières œuvres plaisaient moins aux Dix que Jean des Brebis et qu'en résumé c'est ce livre auquel ils ont donné le prix, mais ils n'osent le dire franchement puisque, nous le répétons, ce livre ne pouvait réglementairement concourir._
+
+_Tant d'imprécision a eu pour résultat de dérouter le public qui voudrait bien acheter un ouvrage mais non des ouvrages ; et M. Moselly est loin de trouver la clientèle des précédents lauréats._ MM." (Revue Ruy Blas du 14 décembre 1907).
+
+Cela n'empêcha pas _Jean des Brebis_ de connaître une critique accueillante et largement positive. 
+
+En voici quelques extraits:
+
+Dans la revue Gil Blas du 12 décembre 1907, Jules Case écrit : «_Le roman provincial arrive donc à l’heure du rafraîchissement nécessaire. Un peu d’air,  demandait­on. Il y a de quoi nous en apporter, et nous acceptons avec gratitude tout ce que nous en donne M. Emile Moselly. C’est du plus naturel, d’ailleurs, qu’il nous fournit, venant de la pleine campagne, du village lorrain, connu pour la vivacité de son climat, pour ses coteaux plantés de vignes, son vin gris, ses verts pâturages et aussi pour ses fumiers amoncelés en tas devant chaque maison, et formant, d’un bout de la localité à l’autre, comme un double système de remparts._» Et déja Jules Case souligne la marque impressionniste de l’auteur : «_M. Emile Moselly est un paysagiste minutieux, exact amoureux du tableau qu’il nous transcrit. Dans le dessin de ce petit village transfiguré et endimanché, il exprime toutes les âmes joyeuses de ses habitants. Contenant et contenus se confondent. Les personnages n’on même pas besoin de beaucoup de paroles, ni d’actes, pour manifester leur satisfaction. Le décor général les englobe et les fait participer à l’allégresse dont ils témoigne. On sent le paysan, sa maison, la terre, faire un bloc invisible. Des racines et des liens les attachent solidement les uns aux autres._»
+
+Gaspard Valette, dans la Gazette de Lausanne et journal suisse du 21 janvier 1908, revient sur «les peintures» de Moselly : «_Aussi bien, c’est la Lorraine seule, c’est la Lorraine toute entière, que Moselly a peinte dans son œuvre littéraire : les choses et les hommes, les mœurs et la nature, les lignes du paysage et le traits de l’âme qui leur correspondent. Le paysage surtout ! Je connais peu de paysages littéraires plus consciencieux, plus étudiés, plus émouvants que ceux-là. Pour retrouver une impression analogue, il faut songer aux ciels tragiques, aux vastes horizons, aux eaux dormantes qu’ensanglante le reflet des nuages dans les admirables et frustres paysages lorrains d’une Pauline de Beaumont_  (Pauline Bouthillier de Beaumont, née le 20 août 1846 à Genève et morte le 28 juillet 1904 à Collonges-sous-Salève, est une artiste peintre suisse. Elle se forme d'abord dans le cadre familial, puis à Paris à l'Académie Julian. Elle peint des paysages, inspirés de Camille Corot et de l'école de Barbizon. Les paysages de sa région, comme celui de la Lorraine, l'attirent particulièrement.)_Le paysage n’est pas pour notre écrivain un décor impassible et muet. Les choses ont une voix qui lui parle et qu’il entend, une vie avec laquelle il communie, une plainte que son cœur accueille. Et plus ces choses sont humbles, plus ces recoins sont déshérités, mieux il croit percevoir cette voix et discerner l’âme du pays qui s’y révèle_.» Ainsi, loin des commentaires parfois acerbes sur un régionalisme "_poudre aux yeux_", G. Vallette conclut en soulignant que Moselly est «_descriptif avant tout, réaliste en son tréfonds, pénétré d'une pitié humaine intense, qui n'a rien de pleurnicheur ou de déclamatoire, le talent du romancier lorrain, avec sa forte saveur de terroir et son régionalisme avoué, me parait non pas un des plus prestigieux, ni des plus éclatants, mais un des plus probes et des plus solides qui soient à l'heure actuelle._»
+
+Dans Le Pays Lorrain de décembre 1907, René  Perrout, écrivain régionaliste vosgien, soulignera, : à l’occasion du Goncourt, cet amour des paysages lorrains que Moselly se plait à décrire et à rendre vivant dans son œuvre : «_Moselly a la piété de la terre natale. Il en sait tous les secrets, il en aime toutes les images et tous les chants. Il offre à l'émotion lorraine une âme frémissante. Il décrit avec splendeur ce qu'il voit dans son pays, les plaines onduleuses, les ravins où foisonnent les plantes odorantes, les routes que jalonnent les peupliers fuselés comme des files monotones de pèlerins, les coteaux empourprés des teintes automnales, la rivière où le soleil traîne des draperies d'or, les prés criblés de fleurs, les champs où une brise creuse des houles vivantes._
+
+_Et la mélancolie qui plane sur la nature lorraine  descend aussi dans son cœur et obscurcit parfois son rêve. Il s'attriste des longues étendues aux vallonnements doux qui semblent une mer tourmentée,  soudainement figée, des lointains brumeux, des grands souffles qui gémissent dans les bois profonds, des lisières de trembles dont les feuilles grelottent dans la pluie, des molles vapeurs qui flottent comme des fantômes le soir au creux du val, de la fuite des nuées dans le ciel agité. Parmi ces visions, une langueur le prend. Et son chant lyrique s'élève un peu morne, craintif et adouci._»
+
+Avec _Jean des Brebis_, Emile Moselly écrira parmi  ses meilleures nouvelles, toutes nourries de sa terre natale, toutes empreintes d’une Lorraine sublimée à la manière des impressionnistes.
+
+---
+
+
