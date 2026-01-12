@@ -430,7 +430,7 @@ Les nouvelles marquées V.1 ou V.2 ont été regroupées dans deux volumes parus
 ## LES ÉTUDIANTS
 
 
-   ![Couverture de ](./_images/lesetudiants.jpg)
+   ![Couverture de Les étudiants ](./_images/lesetudiants.jpg)
 
 
  Le 11 juillet 1891, E. Moselly obtient sa Licence es lettres à l'Université de Nancy.

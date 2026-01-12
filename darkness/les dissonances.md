@@ -28,6 +28,65 @@ chez [TheBookEdition](https://www.thebookedition.com/fr/les-dissonances-p-367136
 
 # LES DISSONANCES
 
+## DÉDICACE
+
+Aux artificiers du début du monde
+Aux magiciens du silence
+Aux nuits à deux heures du matin
+Aux grands aplats bleus du ciel
+Au ciel
+A la résilience
+Aux samedis matin jour de marché
+A la pluie diluvienne et très ancienne
+A la sagesse des nations
+Au vide après l’amour
+Au vide autour de soi les soirs de fête
+Au vide d’entre les mots
+Au vide des précipices
+Aux grandes bibliothèques
+A mes anges gardiens
+Aux terrasses d’Uzès la nuit
+A Louise revenue
+Au détour du chemin et au pas de côté
+Aux serments d’un peu trop près
+Aux rimes abstraites et désabusées 
+ou défaites ou oubliées
+Aux rivières à gros remous qui déversent le vide 
+illuminé autour d’elles
+A celles et ceux qui finiront par se mélanger
+Aux confesseurs de l’absolu
+A la résolution au bout d’un coeur qui tombe
+A la parole qui nous révèle et aux mots que nous oublions
+Aux attendus de St Eustache
+A cette lettre arrivée trop tard
+Aux dominos de Little Havana
+Au 14ème étage
+A l’invention du monde
+Aux parfois, aux peut-être, à toujours
+Aux mains qui nous retiennent de tomber
+A ceux qui nous poussent à tort et à travers et qui rient, 
+qui rient, qui rient
+Aux siècles derrière nous, aux siècles devant nous
+A la singularité des trous noirs et des jeunes femmes
+
+Aux souvenirs des jeunes gens et aux projets 
+au long cours des vieux
+A toutes celles et tous ceux qui ferment les yeux et 
+rougissent et se taisent,
+A Renoir que je n’oublie pas
+Au Pop Art
+A Pascal Quignard et Philip Glass
+Au réveil matin
+A la bergeronnette et l’alouette
+Aux arc-boutants des cathédrales qui tiennent 
+la voûte céleste
+Aux hirondelles, toutes les hirondelles passées, 
+présentes et d’avenir
+A l’I95 du nord au sud
+Aux rêves inassouvis et recommencés
+Aux mots qui m’accompagnent et m’attachent Au silence retrouvé une fois dits les sentiments
+
+
 ## ÉCRIRE
 
 Écrire est nécessaire, mystérieux, singulier. La page blanche n’y peut rien, seulement elle dénoue. C’est un mouvement de défragmentation, d’arrangements successifs partiels, d’un seul mouvement qui aboutit en in de page. La page est la jauge de haut en bas de la verticale des mots, dans le prolongement de leur ascension (ou de leur chute), de l’élaboration d’une attente, d’une sensation, d’un sentiment. Une tournure de mots, c’est donner forme, c’est détacher les déchets. Ecrire c’est aussi ramasser les rejets des excavations de la pensée, les assembler, en reconnaitre la nécessité. Extraire ce qui s’agrippe, solidifier ce qui (se) sépare. J’écris en marchant. Les assemblages vont au rythme des pas, à la vitesse d’un homme qui marche. Alors je recopie la mémoire de ma promenade, où je peux me poser, en bord de route, sur un muret ou un banc, à une table, au café d’en face.
