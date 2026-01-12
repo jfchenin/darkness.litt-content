@@ -1,12 +1,12 @@
 ---
 title: éditions des œuvres complètes d'Emile Moselly
-published: 2026-01-08
+published: 2026-01-12
 author: JFC
-updated: 2026-01-08
+updated: 2026-01-12
 tags:
   - Moselly
 draft: false
-pin: 0
+pin: 1
 toc: true
 lang: fr
 abbrlink: edition
@@ -310,7 +310,7 @@ Il est mort, jeune encore, et n'ayant pas dit son dernier mot. [...] Et pour la 
 
 **TENTATIVE DE CLASSEMENT DES NOUVELLES, PORTRAITS, CROQUIS ET ARTICLES****
 
-Les nouvelles marquées V.1 ou V.2 ont été regroupées dans deux volumes parus chez TheBookEdition - [**(V.1 : Nouvelles V.1 2023]**(https://www.thebookedition.com/fr/emile-moselly-nouvelles-v1-p-395932.html) – [**V.2 :  Nouvelles V.2 2023]**(https://www.thebookedition.com/fr/emile-moselly-nouvelles-v2-p-396804.html)
+Les nouvelles marquées V.1 ou V.2 ont été regroupées dans deux volumes parus chez TheBookEdition - [**V.1 : Nouvelles V.1 2023]**(https://www.thebookedition.com/fr/emile-moselly-nouvelles-v1-p-395932.html) – [**V.2 :  Nouvelles V.2 2023]**(https://www.thebookedition.com/fr/emile-moselly-nouvelles-v2-p-396804.html)
 
 ---
 
@@ -427,3 +427,80 @@ Les nouvelles marquées V.1 ou V.2 ont été regroupées dans deux volumes parus
 
 ---
 
+## LES ÉTUDIANTS
+
+
+   ![Couverture de ](./_images/lesetudiants.jpg)
+
+
+ Le 11 juillet 1891, E. Moselly obtient sa Licence es lettres à l'Université de Nancy.
+
+Le 10 novembre, il part au Service Militaire, affecté au 6ème Bataillon d'Artillerie de forteresse, au fort de Lucey (Camp retranché de Toul).
+
+En juin-juillet 1892, il fera un séjour au camp de Châlons (Mourmelon).
+
+Libéré de ses obligations militaires le 18 septembre 1892, et après quelques semaines passées à Chaudeney-sur-Moselle, il arrive, boursier d'agrégation, à Lyon le 2 novembre, pour préparer l'agrégation de Lettres classiques.
+
+Trois textes (deux lettres à ses parents et un passage des _Cahiers_) nous donnent le cadre de ce roman _Les Etudiants,_ écrit dans les années 1908-1910 et publié sous forme de feuilleton dans _La Grande Revue_ entre décembre 1911 et mars 1912 puis à la Librairie Ollendorff en 1919.
+
+Le 3 novembre 1892, il écrit à ses parents.
+
+_Lyon, 3 novembre 1892 4, Rue d'Enghien 4_
+
+_Mes chers parents,_
+_Mon coeur se serre en vous écrivant cette première lettre, datée de ce lieu où je suis arrivé avec un infini de tristesse dans l'âme. Je n'en conserverai pas un bon souvenir, et puis il me semble que je suis si loin de vous. Cette séparation, la première, n'est-ce pas, puisque Nancy, c'était chez nous, m'a causé une peine que je n'aurais jamais soupçonnée. Je me sens seul ici, trop seul, sans parents, sans rien, et cette ville est si grande, si bruyante que tout ce tohu-bohu me fait peur. On rencontre tant de visages qu'on n'a jamais vus, et dire que tous ces gens-là ont leur chez soi. Je voudrais être au moment où je serai habitué à cette vie, où je me serai fait par le travail, l'accoutumance, aussi par le temps, la résolution d'accepter cet état de choses. Pour le moment cela ne va pas sans tiraillement et surtout sans une grande tristesse._
+
+_Enfin je voudrais être chez nous, au coin du feu, où je me trouve comme tout le monde, malheureusement si bien quand je n'y suis plus. J'aurais du faire l'agrégation de grammaire et rester à Nancy, que je connaissais. Enfin je serai ferme et j'aurai raison des choses et de moi._
+_J'habite en ce moment tout près de Perrache, rue d'Enghien. J'ai pris cette chambre au hasard, j'étais dans la rue, il pleuvait, j'ai dit : celle là autant qu'une autre. Elle est très haut, au cinquième, très petite et n'est pas commode. Elle ne coûte pas cher, 22 francs. Je la garderais, si ce n'était que cela, mais on n'est pas chez soi, et la propriétaire est une brave femme qui n'a pas l'air d'aimer singulièrement les notes rondes. 3 francs en plus pour le service, c'est une façon de vous dire, c'est 25 francs... Je n'ai pas vu Marchal hier soir, il avait deux heures de retard, à ce que m'a dit sa propriétaire, car lui n'était pas là aujourd'hui. Il était parti à Aix et n'avait fait que déposer ses bagages à Lyon. C'est une très brave femme qui me cherchera chez les gens qu'elle connait, une petite chambre dans le prix de celle-ci et plus commode incontestablement. Enfin cela s'arrangera pour le mieux, je verrai Marchal demain matin, avec lui j'aurai des renseignements sûrs et précis, j'ai eu tort de ne pas aller chez lui hier soir, sa propriétaire, à qui il a beaucoup parlé de moi cette année, avait ordre de me recevoir. J'ai été passer la nuit à l'hôtel, et j'ai dîné dans des restaurants aujourd'hui. Je veux l'attendre pour ne pas prendre une pension au hasard, comme j'ai fait pour cette chambre. Enfin je partirai à me caser, et je serai sérieux, mais  mon pauvre argent s'en va, s'en va, dans ces incertitudes !_
+_Pauvres chers parents, quand je serai agrégé, tout cela n'existera plus pour nous, nous en reparlerons en riant et je vais travailler pour que cela soit bientôt, je n'ai que cet espoir._
+
+_Alors nous nous installerons comme il nous plaira, et nous serons délivrés de soucis matériels qui sont bien lourds à porter. Je vais me remettre à l'ouvrage dès demain, du matin jusque dans la nuit, et nous verrons qui finira par avoir raison, de moi ou des évènements._
+_Notre voyage s'est bien passé. À Dijon nous avons juste eu le temps de sauter dans l'express qui nous a amené ici en quatre heures, moulu, harassé ; le train tangue, vire, siffle, crie, j'en avais les oreilles et les reins cassés. Je suis arrivé avec un mal de tête fou et une pointe de fièvre et ma nuit s'est mal passée et dans des songeries amères, je me voyais à Toul, il est probable que dans deux ans je me trouverai un parfait imbécile. Enfin ! Je m'explique, je me retrouverai niais d'avoir eu des moments d'ennui pareil, quand j'aurai tout ce qu'il me faudra. Je me comprends, toujours plus haut, excelsior, et après l'agrégation autre chose, et cela est bon d'être au cinquième étage, dirait Bossuet, on est plus près du ciel et de Dieu. Et puis je regretterai mes vingt-deux ans et ma belle jeunesse._
+_Lyon est tout bonnement splendide et a émerveillé, tout comme Paris avait fait, ma pauvre tête de provincial. Les grandes rues sont larges, des gens, trop de gens y vont, y viennent, sans savoir ce qu'ils font, n'est-ce pas, pour être tous dehors en même temps._
+
+_C'est l'effet que cela produit à Grosjean et à son curé. Il y a sur le Rhône de petit coins de perspective d'une grisaille de ton extrêmement intéressante. Le soir des lumières tremblent dans l'eau, des mouches vont et viennent, et toutes les fenêtres qui sont éclairées à Fourvières et tout le long de la côte, ont l'air d'être des étoiles qui scintillent dans le brouillard. On n'est pas habitué, on fait l'effort pour croire que ce sont des rues qui se perdent dans le ciel, puisqu'on ne voit pas la côte, dans la brume. Je crois que si je parviens à disposer intelligemment ma vie, ce qui me donnera la quiétude d'esprit, tout ce qu'il y a d'intuition artistique en moi s'harmonisera admirablement avec ce milieu. Somme toute un décor à souhait pour la séduction lente et réfléchie des yeux, non pas de ces tableaux qui s'imposent par des effets de lumière crue ou des tonalités heurtées, mais un paysage d'une douceur, d'une spiritualité vibrante. On comprend que Puvis de Chavannes soit lyonnais, et ceci est peut-être la cause de sa fleur. Enfin, toutes diathèses sur l'art qui vous ennuient, mais j'en suis émerveillé et cela me réconcilie un peu avec une transplantation brusque ici._
+_Je vais vous quitter, car j'ai sommeil, j'ai si mal dormi la nuit passée. Aimez-moi comme je vous aime et dites-moi que vous comptez sur moi. Cela me donnera de l'énergie de passer sur bien des choses. Je vais travailler pour vous revoir bientôt, et pour vous donner de bonnes nouvelles. C'est le seul moyen de vous apporter quelque allègement à la douleur de me savoir savoir si loin. Non, je suis avec vous, tout près en ce moment, je vous vois, je vous parle. Adieu, je ne veux pas en dire plus. Bigez mon petit chat sur les oreilles pour moi, et soignez le bien, le pauvret, donnez à Cocotte et à Poule un peu d'avoine en plus, en souvenir de celui qui s'en fut, que toute la maisonnée soit heureuse, j'en serai ravi._
+_Je vous embrasse mille fois. Emile_
+_P.S. - Envoyez-moi si possible les rasoirs, et la pierre et le cuir, par un petit colis postal. C'est encore une économie et il ne faut pas les négliger. J'ai oublié dans mon buffet, dans la chambre de devant, une photographie de papa, il me la faut. Quant à maman, je voudrais bien l'avoir, mais c'est tout comme, je la vois, papa aussi. Emile._
+_Il fait très doux, on ne voit pas un pardessus. J'ai du ôter mon caleçon, j'étouffais. Adieu.Bonjour à l'oncle Victor, à toutes connaissances, M. Guy si vous le voyez et sa famille._
+
+et le même jour, il écrit dans son cahier :
+_3 novembre 1892_
+_Ecrit à mon arrivée à Lyon_
+_Ô pauvre âme de poète, éternelle blessée, toi qui ne saurais mener à bien ta mission incertaine que dans le calme et dans le rêve, c’est te dire qu’ici ils sont douloureux, ces premiers jours d’épreuve. Te voilà dans le bruit, l’agitation vaine des grandes villes, et cela t’effraie, pauvre désemparée. Tout à l’heure, quand je suis descendu dans la rue, quand j’étais coudoyé par cette foule comme toujours brutale, dédaigneuse, l’homme dans la vie commune est si indifférent pour l’homme, tu t’es demandée avec effarement si ce coup ne te serait pas fatal, comme on dit dans les vieilles tragédies, et si tu ne mourrais pas, tuée par ces heurts, ces rencontres. En ces jours seulement on sent combien est douce la présence d’un ami. Je suis de ceux qui vivent d’un regard et pour fleurir, mon être a besoin de cette atmosphère particulière, l’affection._
+_Enfin, cela n’est pas vrai, et toute cette douleur, ce froissement de la réalité n’est peut-être, comme toute ma vie, qu’une rare et délicate suggestion. J’irai jusqu’au bout, me forgeant des fantômes et me prenant à les craindre. Non, il n’est pas vrai que cette vie tuera en moi cette précieuse (dans tous les sens du mot) faculté de rêve, puisqu’en cet instant je me plais à mettre des arabesques à mon ennui. Mais maintenant je sens plus vivement ce que j’ai perdu. Pauvre cher petit village de Lorraine, où j’ai laissé dormir au coin des buissons roux, dans les prés couverts de brume grise, sur les bords de ma rivière un peu de ma pensée, quelle vie de calme et de certitude j’y mènerais si cela m’eût été permis par les destinées. Ô mon père, comme je suis ton fils, depuis que je ne suis plus là. Et de toute cette exaltation de mon âme, poussée dans la douleur, tu ne sauras peut-être rien, et cela vaut mieux ; pauvre cher petit village, il faut beaucoup d’efforts, beaucoup de luttes, beaucoup d’abnégation, pour qu’en te revoyant, je me sente, au fond de moi, honoré d’un passé de combat, et aussi s’il se peut d’un légitime triomphe._
+_Voici donc ma vie. Le grenier et les vingt ans. Ces pages que j’ai rencontrées dans maint roman d’aujourd’hui, avec un secret pressentiment de l’avenir, et qui racontent le labeur de plus d’un jeune, perdu dans un coin de misère, tandis qu’autour d’eux la vie se fait luxueuse et belle pour les favorisés de la fortune ; elles seront l’Evangile de ma vie journalière. Courage, j’ai le charme qui rassérène l’âme ; bien contre son rêve, c’est lui enlever la déception de n’être qu’un rêve. Et puis il faut avoir l’orgueil de notre pensée et se dire que des gens qui passent, tout mordorés d’enthousiasme et d’élégance, il n’en est pas un seul qui puisse se vanter de posséder les magnificences de notre âme. C’est là la suprême indulgence, la souveraine pitié du travail pour les humbles. Je connais la détresse de ces petits romans qui se démènent entre le cinquième étage et la crèmerie du coin. Mais ce n’est pas une ironie, cette assurance qui a été donnée de tous temps, aux gens de labeur intellectuel, qu’on ne sait profiter que par la souffrance, la solitude et l’austérité._
+_Alors courage, cherchons les beaux côtés de la médaille, et arrivons à nous persuader que cela est mieux. Et puis ces hésitations, au moment de vivre la vie forte et chaste, ce sont simagrées de pensionnaire et déliquescence de jolie femme. Que si, malgré nos résolutions il se trouve des moments où la tâche nous semblera trop pénible, noyons nos amertumes dans des flots de latinité, de littératures antiques. Il est des jours où la grammaire m’est nécessaire, c’est la morphine de mon esprit._
+_Voyons la chose littérairement. Lyon m’est apparu, dans un voile de couleurs tièdes, de demi-teintes d’une agonie infiniment subtile, l’âme de ce pays est chatoyante comme la soie qu’il produisait. Certains quais sur la Saône et le Rhône me rappellent Paris, pour la gentillesse rêveuse de leurs tonalités grises, des feuilles mauves sur les places dansent dans des rayons de soleil qui ne sont presque plus. Décor où je promènerai mon idéalisme maladif, surmené par la névrose contemporaine, je te salue avec des génuflexions romantiques, puisses-tu être le cadre assorti, sans trop de rouges, ni d’or criard, à cette aquarelle passée qui est ma vie. Mais qu’il fera bon en ce milieu relire Verlaine et Mallarmé, et à dormir des langueurs d’âme, délicatement atténuées, le long de ces grands quais, où coule une eau qui n’est ni bleue ni verte, tout comme notre rêve._
+
+Près de trois ans, plus tard, admissible l'oral de l'agrégation de Lettres classiques à Paris, il écrit à ses parents. Ce sera la dernière lettre envoyée de Lyon.
+
+_Lyon, 28 (Juillet 1895) Dimanche matin_
+
+_Mon cher papa, ma chère maman,_
+_Je vous confirme l'heureuse nouvelle qui nous est arrivée hier soir sous forme d'un télégramme de Durand, Samedi 27 à 5 heures, peut-être M. Uhry ne vous aura-t-il fait prévenir que dimanche matin et peut-être l'apprenez vous au moment où je vous écris._
+_Lyon a un succès inouï, nous sommes admissibles 5 sur 7. Guyot à Paris et Prudhommeaux ici - c'est le navrant de l'affaire, - restent seuls sur le carreau. Ce pauvre Prudh., c'était lui en qui on avait le plus de confiance._
+_Nous sommes trente admissibles, on va en coller au moins 5 à l'oral. Ici il y a des jeunes et des flemmards admissibles‚ qui n'ont pas préparé leur oral. Ils peuvent sauter. J'ai de sérieuses chances de passer à l'oral. Je me considère pourtant comme ayant bien de la veine en comparaison de Prudhommeaux. C'est donc fini, mes bien chers. J'ai eu raison de persévérer, malgré que maman me prédisait que je serais collé._
+_As-tu vu ça, hein, maman ?_
+_Je serai, quand même je serais collé à l'oral, nommé chargé de cours dans un lycée ou dans une chaire de premier ordre avec au moins 3.000 francs d'appointements. Je ne serai pas pion ! Je n'irai plus à Château Chinon ! Je suis admissible à l'agrégation des lettres ! Faites un bon dîner et invitez les cousines, puis attendez moi de pied ferme dans un mois._
+_Je pars pour Paris mardi soir, - l'oral commence jeudi, - je suis avec un vieux lascar d'ici, Dubois, admissible comme moi pour la 1ère fois, mais il a trente ans révolus, il a été précepteur pendant 5 ans à Paris et est revenu ici comme boursier d'agrégation. C'est vous dire s'il connait le quartier et le boulevard St-Michel. Nous allons descendre au même hôtel, où il a habité pendant 4 ans, et comme nous avons le désir de passer‚ nous travaillerons tous deux. J'ai peur que nous ne fassions plus d'explications latines que de tours à Bullier. Nous avons une envie féroce de ne pas rester sur le carreau._
+_Allons courage, c'est fini. Quoiqu'il arrive, j'ai ma nomination à la rentrée, et l'agrégation des Lettres, une fois qu'on a été admissible une année, on l'est une autre._
+_Il parait que le petit Durand nous a soutenus mordicus. Le bruit courait à l'Ecole Normale ces joursci que Lyon arrivait bien placé, en dissertation latine, en Grammaire, en Thème grec, 3 compositions sur 5. Il en a profité, ce petit professeur et il a montré les dents à ses collègues de Paris qui voulaient comme l'an dernier étrangler la province. La délibération finale, commencée hier matin à 8 heures s'est terminée à 3 heures de l'après-diner ; la liste était affichée à 4 heures en Sorbonne, nous le savions à 5 par 1 télégramme de Durand._
+_Je vous enverrai un mot de Paris, et ma nouvelle adresse. Vous me ferez parvenir l'adresse d'Athalie, que j'aille la voir au premier jour de liberté._
+_J'ai télégraphié en même temps qu'aux bonnes cousines de Toul et à ce cher Monsieur Uhry à la cousine d'Afrique._
+_Celui qui doit faire une tête et ronchonner c'est Guyot. Il se fait coller à Paris et Lyon arrive brillamment l'année où il n'y est plus. Il doit dire : Quelle guigne, ces mufles de Lyon ont-ils de la chance. Chénin Emile admissible à l'agrégation des lettres A bientôt._
+
+_Nouveaux détails :
+Marchal est collé en histoire._
+Ai-je de la veine, tout de même. Mercredi dans l'après-midi, vous songerez à moi. Je serai à la Nationale en train de travailler. Vais-je m'y retrouver ?_
+
+E. Moselly aura donc passé un peu moins de trois ans à Lyon (interrompus d'août à septembre 1894 par une période militaire) pour préparer et obtenir l'agrégation de lettres classiques. Après l'oral à Paris, il est agrégé de l'Université le 1er septembre 1895.
+Il s'y sera repris deux fois après un premier échec en juillet 1894. Pour cette troisième année de préparation, il ne touche plus de bourse, alors aidé par ses parents et donnant des cours à des lycéens ou des étudiants de la bonne société lyonnaise.
+
+Avec _Les Étudiants_, E. Moselly va raconter, de manière à peine romancée, ses années lyonnaises, donnant à son double, Jean Mesnil, ses propres ambitions sociales et littéraires et, surtout, le même dilemme d'avoir à choisir entre une carrière de professeur ou, parce que c'est son origine, un retour à la terre auprès des siens, ce qu'il ne fera pas mais ce que fera Jean Mesnil, par choix sans doute mais aussi en raison d'un échec aux examens de l'agrégation. Telles sont les interrogations d'E. Moselly : s'élever socialement et devenir, in fine, un "lettré" (on dirait aujourd'hui un "intellectuel") au prix d'un reniement de ses origines paysannes. C'est toute la trame de cette histoire.
+
+Emile Moselly reviendra souvent dans ses nouvelles et ses romans (_Terres lorraines, Fils de Gueux, Joson Meunier_) sur le thème du "déracinement" qu'il vit de manière intime et consacrera de nombreux passages sur la vanité des études pour faire "carrière" alors même qu'il goûte, au fur et à mesure de sa vie, tous les avantages d'une existence sortie de l'ornière paysanne. Pour autant, il ne reniera pas ses origines et en fera la trame de la plupart de ses écrits.
+
+Les rencontres de gens simples qu'il fait durant son service militaire lui avait remis en mémoire ses origines modestes et campagnardes. A Lyon, la prise de conscience est manifeste et le 2 février 1893, Moselly écrit dans ses _Cahiers_ : _Je suis peuple, comme dit l'autre, et je veux faire peuple._ Mais il se félicite un mois plus tard d'avoir quitté Chaudeney pour s'élever au-dessus de son milieu : _Au lieu de me laisser croupir dans la fange de là-bas,_ écrit-il à sa mère, _tu as fait de moi un homme ; tu m'avais déjà donné tout ce qu'on peut espérer en force, en vigueur ; tu as ajouté à cela la culture et tu as voulu que je sois quelqu'un. Merci…_
+
+_Les Étudiants_ raconte ce "déracinement social et intellectuel" que Moselly vivra tout au long de sa vie et dans son œuvre - comme une "trahison sociale".
