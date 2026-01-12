@@ -11,7 +11,7 @@ toc: true
 lang: fr
 abbrlink: les-dissonances
 ---
- ![Couverture de A Renoir](./_images/DISSONANCESCOUV.jpg)
+ ![Couverture de A Renoir](./_images/dissonancescouv.jpg)
 
 
 chez [TheBookEdition](https://www.thebookedition.com/fr/les-dissonances-p-367136.html)
