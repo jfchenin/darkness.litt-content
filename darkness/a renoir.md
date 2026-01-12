@@ -89,6 +89,8 @@ Les passions sont imprescriptibles. Les sentiments se défont, se reforment, jou
 
 J'ai beaucoup appris des images volées et abandonnées, des rires et des mains qui feulent, des sources rêveuses au fond des mains qui tremblent, des voix qui viennent en rut, des voix qui harponnent et soulagent, des fuites qui n'ont pas de prix, du souffle au creux d'une hanche, des rives caressées de la bouche, du feu errant et des étoiles filantes, des étoiles désarrimées de leur trajectoire, des images à tout va, désormais sur la place publique, incantation maladroite de l'ombre en bout de course, maladive ; j'ai beaucoup appris dans les rires diamantins du vide incandescent, jusqu'à la fin en soi du rire ; j'ai beaucoup appris à pleurer des images et du silence de la main.
 
+---
+
 ## TOUT EST PERSPECTIVE
 
 Faire un pas de côté modifie la perspective et crée un écart mental qui change le point de vue. Modifier la ligne de fuite, déplacer le point focal. Devenir mobile dans le champ de lignes, se déplacer, accepter d'être nomade, s'extirper du champ.
@@ -146,3 +148,5 @@ Et les parfums, devenus vivants, alertés. Respiration, moins d'ordinaire.
 Ecrire, c'est lui donner un visage. Ecrire, c'est la déceler, faire irruption au bord du monde de sa réserve. Ecrire comme on devine, écrire à profusion de ses silences. Nous sommes à bout portant du désir. Mais ne plus écrire qui ne viendrait pas à bout des sentiments. Il faut s'endiabler une bonne fois pour toutes, s'exiler au fond des yeux, toucher par petits bouts ce regard en soi, se solidariser. Les vérités sont demeurantes qui nous donnent à vivre ce que nous sommes, vraiment.
 
 Le signe sur le silence. Le silence dans le signe. Une main fragile, élevée, débarrassée de son tremblement, de ses interrogations. Une part du ciel dans la paume fermée, une paume lovée au fond du ciel. Instant de gratitude, envie de gratitude, de reconnaitre ce silence comme une faveur. Le ciel est vide mais celui qui s'élargit en moi, celui qui respire en moi, qui ouvre son infini est le ciel silencieux de mon émerveillement à être.
+
+
