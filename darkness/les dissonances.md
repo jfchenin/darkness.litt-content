@@ -98,7 +98,7 @@ _A ce moment là, rien de nous égale, rien ne nous dépasse._
 
 Jacques Doillon, _Mes séances de lutte
 
-﻿## **UN PARFUM HOLOGRAMME**
+## **UN PARFUM HOLLOGRAMME**
 
 ﻿Il en restera, peut-être, une histoire d’amour, simple, presque transparente, qui a la vraisemblance de
 
