@@ -6,7 +6,7 @@ updated: 2026-01-05
 tags:
   - Moselly
 draft: false
-pin: 1
+pin: 0
 toc: true
 lang: fr
 abbrlink: biographie-detaillee

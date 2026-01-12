@@ -6,7 +6,7 @@ updated: 2026-01-10
 tags:
   - suites
 draft: false
-pin: 1
+pin: 0
 toc: true
 lang: fr
 abbrlink: key-west
