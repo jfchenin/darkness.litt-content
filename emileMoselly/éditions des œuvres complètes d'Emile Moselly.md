@@ -430,7 +430,7 @@ Les nouvelles marquées V.1 ou V.2 ont été regroupées dans deux volumes parus
 ## LES ÉTUDIANTS
 
 
-   ![Couverture de Les étudiants ](./_images/lesetudiants.jpg)
+   ![Couverture de Les étudiants](./_images/lesetudiants.jpg)
 
 
  Le 11 juillet 1891, E. Moselly obtient sa Licence es lettres à l'Université de Nancy.
@@ -536,7 +536,7 @@ Est mis en scène le terrible dilemme entre la mère et la mer. La mère qui ret
 
 ## GEORGE SAND
 
-![Couverture de Georg Sand](./_images/George-Sand.jpg)
+![Couverture de George Sand](./_images/George-Sand.jpg)
 
 
 **Armandine-Lucile-Aurore Dupin** vint au monde à Paris le 1er juillet 1804. « Quand je suis née, dit une héroïne de Shakespeare, une étoile dansait. » Pareille joie présida à sa naissance. Son père, un brillant officier de l'Empire, jouait une contredanse sur son violon ; Sa mère, Un peu souffrante, quitta la danse. Au dernier chassez-huit, une sœur de la jeune femme entra en coup de vent : « Venez, venez, Maurice, dit-elle au mari, vous avez une fille. » Puis elle ajouta : « Elle est née dans le rose, et en musique : elle aura du bonheur. »
@@ -584,7 +584,7 @@ La Châtre. Au soir tombant, nous arrivons dans la petite ville. Une impression 
 
 ## LES GRENOUILLES DANS LA MARE
 
- ![Couverture de le journal de Gottfried Mauser](./_images/grenouilles-mare.jpg)
+ ![Couverture de le journal de les grenouilles dans la mare](./_images/grenouilles-mare.jpg)
 
 
 Second roman posthume (le premier : *Les Étudiants*, janvier 1919), *Les Grenouilles dans la Mare* (1920, Édition Albin Michel) est complètement achevé dès juillet 1914. 
@@ -605,7 +605,7 @@ Le hasard lui fait rencontrer la petite fille d'une femme qu'il a jadis aimée e
 ---
 ## LE JOURNAL DE GOTTFRIED MAUSER et CONTES DE GUERRE POUR JEN-PIERRE
 
- ![Couverture de ](./_images/journal-mauser.jpg)
+ ![Couverture de le journal de Gottfried Mauser](./_images/journal-mauser.jpg)
 
 
 *le Journal de Gottfried Mauser* a d'abord été publié dans une version plus courte en quatre épisodes dans le journal Le Temps des 16, 19, 25 décembre 1915 et du 1er janvier 1916. La présente version, plus longue et définitive, a été éditée aux éditions Ollendorff en juin 1916.
