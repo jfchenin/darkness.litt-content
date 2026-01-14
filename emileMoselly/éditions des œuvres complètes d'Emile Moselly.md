@@ -505,11 +505,12 @@ Les rencontres de gens simples qu'il fait durant son service militaire lui avait
 
 _Les Étudiants_ raconte ce "déracinement social et intellectuel" que Moselly vivra tout au long de sa vie et dans son œuvre - comme une "trahison sociale".
 
+
 ---
 
 ## LA HOULE
 
- ![Couverture de ](./_images/la-houle.jpg)
+ ![Couverture de la houle](./_images/la-houle.jpg)
 
 Avec *La Houle*, récit paru en feuilleton de 14 épisodes dans L'Humanité du 27 juin au 11 juillet 1913, puis réédité à titre posthume en 1931 aux éditions Bourrelier-Chimènes, Emile Moselly quitte la Lorraine pour la Côte d'Opale dans le Pays boulonnais, région qu'il connaît bien pour y avoir passé souvent des vacances.
 
@@ -535,7 +536,7 @@ Est mis en scène le terrible dilemme entre la mère et la mer. La mère qui ret
 
 ## GEORGE SAND
 
-![Couverture de ](./_images/George-Sand.jpg)
+![Couverture de Georg Sand](./_images/George-Sand.jpg)
 
 
 **Armandine-Lucile-Aurore Dupin** vint au monde à Paris le 1er juillet 1804. « Quand je suis née, dit une héroïne de Shakespeare, une étoile dansait. » Pareille joie présida à sa naissance. Son père, un brillant officier de l'Empire, jouait une contredanse sur son violon ; Sa mère, Un peu souffrante, quitta la danse. Au dernier chassez-huit, une sœur de la jeune femme entra en coup de vent : « Venez, venez, Maurice, dit-elle au mari, vous avez une fille. » Puis elle ajouta : « Elle est née dans le rose, et en musique : elle aura du bonheur. »
@@ -583,7 +584,7 @@ La Châtre. Au soir tombant, nous arrivons dans la petite ville. Une impression 
 
 ## LES GRENOUILLES DANS LA MARE
 
- ![Couverture de ](./_images/grenouilles-mare.jpg)
+ ![Couverture de le journal de Gottfried Mauser](./_images/grenouilles-mare.jpg)
 
 
 Second roman posthume (le premier : *Les Étudiants*, janvier 1919), *Les Grenouilles dans la Mare* (1920, Édition Albin Michel) est complètement achevé dès juillet 1914. 
