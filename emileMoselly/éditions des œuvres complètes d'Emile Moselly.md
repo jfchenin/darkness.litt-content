@@ -535,7 +535,7 @@ Est mis en scène le terrible dilemme entre la mère et la mer. La mère qui ret
 
 ## GEORGE SAND
 
-![Couverture de ](./_images/george-sand.jpg)
+![Couverture de ](./_images/George-Sand.jpg)
 
 
 **Armandine-Lucile-Aurore Dupin** vint au monde à Paris le 1er juillet 1804. « Quand je suis née, dit une héroïne de Shakespeare, une étoile dansait. » Pareille joie présida à sa naissance. Son père, un brillant officier de l'Empire, jouait une contredanse sur son violon ; Sa mère, Un peu souffrante, quitta la danse. Au dernier chassez-huit, une sœur de la jeune femme entra en coup de vent : « Venez, venez, Maurice, dit-elle au mari, vous avez une fille. » Puis elle ajouta : « Elle est née dans le rose, et en musique : elle aura du bonheur. »
@@ -602,7 +602,7 @@ Ce roman est fait de choses vues et scrupuleusement notées par Moselly, dans le
 Le hasard lui fait rencontrer la petite fille d'une femme qu'il a jadis aimée et, pour protéger l'enfant d'un tuteur abusif, il l'enlève...
 
 ---
-## LE JOURNAL DE GOTTFRID MAUSER et CONTES DE GUERRE POUR JEN-PIERRE
+## LE JOURNAL DE GOTTFRIED MAUSER et CONTES DE GUERRE POUR JEN-PIERRE
 
  ![Couverture de ](./_images/journal-mauser.jpg)
 
