@@ -13,13 +13,13 @@ abbrlink: digression
 ---
 # DIGRESSIONS DU RÉEL
 
- ![Couverture de ](./_images/digressionscouv.jpg)
+ ![Couverture de digressions du réel](./_images/digressionscouv.jpg)
 
 Chez [TheBookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
 
 *Digressions du réel* est composé de 4 livres publiés séparément chez TheBookEdition en 2015, 2018, 2019 et 2020.  La présente version a été réaménagée par rapport aux  éditions originales et constitue la version définitive de  Digressions du réel.
 
- ![Couverture de ](./_images/4couv.jpg)
+ ![Couverture des 4 volumes de digressions du réel](./_images/4couv.jpg)
 
 
 ## retour

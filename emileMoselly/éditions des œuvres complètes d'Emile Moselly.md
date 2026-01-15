@@ -584,7 +584,7 @@ La Châtre. Au soir tombant, nous arrivons dans la petite ville. Une impression 
 
 ## LES GRENOUILLES DANS LA MARE
 
- ![Couverture de le journal de les grenouilles dans la mare](./_images/grenouilles-mare.jpg)
+ ![Couverture de les grenouilles dans la mare](./_images/grenouilles-mare.jpg)
 
 
 Second roman posthume (le premier : *Les Étudiants*, janvier 1919), *Les Grenouilles dans la Mare* (1920, Édition Albin Michel) est complètement achevé dès juillet 1914. 
@@ -605,7 +605,7 @@ Le hasard lui fait rencontrer la petite fille d'une femme qu'il a jadis aimée e
 ---
 ## LE JOURNAL DE GOTTFRIED MAUSER et CONTES DE GUERRE POUR JEN-PIERRE
 
- ![Couverture de le journal de Gottfried Mauser](./_images/journal-mauser.jpg)
+ ![Couverture de Gottfried Mauser](./_images/journal-mauser.jpg)
 
 
 *le Journal de Gottfried Mauser* a d'abord été publié dans une version plus courte en quatre épisodes dans le journal Le Temps des 16, 19, 25 décembre 1915 et du 1er janvier 1916. La présente version, plus longue et définitive, a été éditée aux éditions Ollendorff en juin 1916.
