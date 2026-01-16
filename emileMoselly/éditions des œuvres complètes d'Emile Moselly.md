@@ -548,12 +548,12 @@ de ce dernier. Le tirage unique de ce livre en 116 exemplaires numérotés a ét
 
 
 
-
 Les nouvelles de ce livre n'avaient jamais été rééditées. Nous les reprenons ici. Les illustrations proviennent de l'édition originale et sont de Lucien Pissarro. Sur les dix nouvelles de l'ouvrage, trois ont été publiées dans une revue : *La Baratte* dans le Pays Lorrain en janvier 1912 ; *La Vision du Père Huot* dans la Bibliothèque Universelle et Revue Suisse en juillet 1912, parue sous le titre *Lavandière Nocturne* dans La Charrue d'Erable ; et *La Moisson* en février 1913, toujours dans la Bibliothèque Universelle et Revue Suisse.
 
 Avec Moselly, nous ne sommes plus dans la stricte perspective d’illustrer les "Travaux des champs", projet pictural de Camille Pissarro. Moselly saisit l’occasion pour explorer (comme dans la plupart de ses écrits) l'âme humaine, ses aspirations et ses tourments.
 Emile Moselly n'est jamais agréable ou inquiet pour rien. Avec les portraits qu'il dessine de ses observations pertinentes, nombreuses, maintes fois tournées et 
 et retournées, avec ou sans couleur, en pleine lumière ou dans l'ombre, portraits de femmes et d'hommes pour la plupart sortis du "peuple", il tente de cerner ce qui fait l'essence de cette âme humaine, ce qu'elle recèle de petitesse ou de grandeur, de plaisir et de jouissance ou, le plus souvent, de crainte et de peur et affine les visions qu’il se fait de l’humanité.La relation à la mort, le travail et l’effort, les troubles de la folie, la solitude humaine, la bêtise, la misère, mais aussi l'envie et l'ambition, les plaisirs, petits et grands, de la vie, l’espérance d’une existence meilleure, tels sont les sujets développés par Moselly dans les nouvelles. Toute la palette des sentiments qu’il éprouvre y est reprise, de la plénitude de la campagne à la rudesse de la vie rurale, en passant par les hauts et les bas d'existences souvent miséreuses, parfois lassées des vilénies du temps ou de l'époque. Moselly ne s'écarte pas de son projet : donner une parole aux humbles qu'il côtoie et parmi lesquels il a trouvé les portraits vivants qu’il immortalise avec tout son talent littéraire d’impressionniste.
+
 
 ---
 
