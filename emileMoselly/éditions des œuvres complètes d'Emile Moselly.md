@@ -280,7 +280,7 @@ Avec _Jean des Brebis_, Emile Moselly écrira parmi  ses meilleures nouvelles, 
 ![Couverture de fils de gueux](./_images/fils-de-gueux.jpg)
 
 
-## fils de gueux, roman
+## FILS DE GUEUX, roman
 
 *Fils de Gueux* raconte comment Basile Crasmagne parvient à échapper à la misère par le moyen honnête et digne du travail, et notamment du travail de la terre. Moselly propose, dans ce troisième roman, un tableau de la dure réalité d’un travail qui avilit le corps et ne permet pas toujours de survivre. Ce roman dépasse toute simplification : le dur « travail de terre »y apparaît également beau et héroïque et devient lutte contre une misère de la vie qui concerne tous les hommes  [voir](https://www.persee.fr/doc/acths_0000-0001_2005_act_127_3_5141); force vitale contre le vertige de la mort et l’hostilité du pays ; communion avec la nature et avec les êtres aimés : bref, il est ce qui donne du sens et de l’humanité à la vie. 'D’abord la terre n’est rien, c’est l’homme qui ’est tout".
 
@@ -534,6 +534,29 @@ Est mis en scène le terrible dilemme entre la mère et la mer. La mère qui ret
 
 ---
 
+## LA CHARRUE D'ÉRABLE
+
+ ![Couverture de la Charrue d'Érable ](./images/charrueerable.jpg)
+
+![[charrueerable.jpg]]
+
+A l’initiative de la société de bibliophiles Le Livre Contemporain, Emile Moselly écrit les dix nouvelles de la Charrue d’Érable qu’elle édite en 1912, illustrées de douze compositions pleine page, en camaïeu, d'après des dessins de Camille Pissarro et de vingt vignettes et dix lettrines en couleur, gravées sur bois par 
+Lucien Pissarro, son fils, et Esther Pissarro, épouse 
+de ce dernier. Le tirage unique de ce livre en 116 exemplaires numérotés a été réalisé par la maison d'édition Eragny Press créée en 1895 à Epping, dans l’Essex (Angleterre) par Lucien Pissarro.
+
+ ![Page de titre de l’édition originale de La Charrue d’Erable ](./_images/couverturecharrue.jpg)
+
+
+
+
+Les nouvelles de ce livre n'avaient jamais été rééditées. Nous les reprenons ici. Les illustrations proviennent de l'édition originale et sont de Lucien Pissarro. Sur les dix nouvelles de l'ouvrage, trois ont été publiées dans une revue : *La Baratte* dans le Pays Lorrain en janvier 1912 ; *La Vision du Père Huot* dans la Bibliothèque Universelle et Revue Suisse en juillet 1912, parue sous le titre *Lavandière Nocturne* dans La Charrue d'Erable ; et *La Moisson* en février 1913, toujours dans la Bibliothèque Universelle et Revue Suisse.
+
+Avec Moselly, nous ne sommes plus dans la stricte perspective d’illustrer les "Travaux des champs", projet pictural de Camille Pissarro. Moselly saisit l’occasion pour explorer (comme dans la plupart de ses écrits) l'âme humaine, ses aspirations et ses tourments.
+Emile Moselly n'est jamais agréable ou inquiet pour rien. Avec les portraits qu'il dessine de ses observations pertinentes, nombreuses, maintes fois tournées et 
+et retournées, avec ou sans couleur, en pleine lumière ou dans l'ombre, portraits de femmes et d'hommes pour la plupart sortis du "peuple", il tente de cerner ce qui fait l'essence de cette âme humaine, ce qu'elle recèle de petitesse ou de grandeur, de plaisir et de jouissance ou, le plus souvent, de crainte et de peur et affine les visions qu’il se fait de l’humanité.La relation à la mort, le travail et l’effort, les troubles de la folie, la solitude humaine, la bêtise, la misère, mais aussi l'envie et l'ambition, les plaisirs, petits et grands, de la vie, l’espérance d’une existence meilleure, tels sont les sujets développés par Moselly dans les nouvelles. Toute la palette des sentiments qu’il éprouvre y est reprise, de la plénitude de la campagne à la rudesse de la vie rurale, en passant par les hauts et les bas d'existences souvent miséreuses, parfois lassées des vilénies du temps ou de l'époque. Moselly ne s'écarte pas de son projet : donner une parole aux humbles qu'il côtoie et parmi lesquels il a trouvé les portraits vivants qu’il immortalise avec tout son talent littéraire d’impressionniste.
+
+---
+
 ## GEORGE SAND
 
 ![Couverture de George Sand](./_images/George-Sand.jpg)
@@ -548,7 +571,7 @@ Lettre à Charles Poncy (décembre 1843)
 *Lettre à Alphonse Fleury* (mars 1844)  
 George Sand, *Histoire de ma vie*, 1855
 
-## CHAPITRE I - Pèlerinage passionné
+**CHAPITRE I - Pèlerinage passionné**
 
 George Sand, la bonne dame de Nohant ! En ce jour de Pentecôte, nous allons chercher ce qui reste d'elle aux lieux où elle a vécu, dans le paysage qu'elle a contemplé. 
 Sans doute, on a beaucoup nié et critiqué son œuvre, et, par un de ces retours inévitables qui suivent les grandes réputations, on s'est cruellement vengé de l'avoir adorée. On lui a refusé le talent de la composition, l'art du style, le sens de la psychologie vraie. Et on avait raison, en partie ; mais on ne songeait pas qu'elle avait la fécondité de la nature, dédaigneuse de tout artifice, jetant à profusion ses masses de feuillage et ses eaux vives. 
@@ -636,7 +659,7 @@ Comme un testament encore, E. Moselly, dans la dernière nouvelle des Contes de 
 
 ---
 
-## suzanne
+## SUZANNE
 
  ![Couverture de Suzanne](./_images/suzanne.jpg)
 
@@ -668,4 +691,4 @@ Une autre raison qui a pu motiver la non-publication de Suzanne est sa troublant
 
 Nous y voyons plutôt l’expression d’une profonde admiration pour Maupassant et surtout la volonté d’offrir à ce personnage de femme une destinée plus réjouissante que celle de Jeanne.
 
-Enfin, Suzanne aurait pu être publié à titre posthume comme Les Grenouilles dans mare en 1920 ou La Houle en 1931, mais cette œuvre est restée sous le boisseau, bien que connue de sa famille. L’hypothèse que nous hasardons sur cette “censure” est que ce roman, dans une famille où dominaient la retenue, la pudeur et parfois le non-dit, s’il avait été proposé au public, aurait donné de Moselly une image un peu scandaleuse, en infraction avec celle de l’auteur sérieux et austère, celui du peuple et de la terre, que l’on connaissait. Puisse cette publication enrichir sans la dénaturer la mémoire d’Émile Moselly en lui apportant le modernisme d’un authentique défenseur de la condition féminine.
+Enfin, Suzanne aurait pu être publié à titre posthume comme Les Grenouilles dans lamare en 1920 ou La Houle en 1931, mais cette œuvre est restée sous le boisseau, bien que connue de sa famille. L’hypothèse que nous hasardons sur cette “censure” est que ce roman, dans une famille où dominaient la retenue, la pudeur et parfois le non-dit, s’il avait été proposé au public, aurait donné de Moselly une image un peu scandaleuse, en infraction avec celle de l’auteur sérieux et austère, celui du peuple et de la terre, que l’on connaissait. Puisse cette publication enrichir sans la dénaturer la mémoire d’Émile Moselly en lui apportant le modernisme d’un authentique défenseur de la condition féminine.
