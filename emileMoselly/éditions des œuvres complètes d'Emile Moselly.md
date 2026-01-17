@@ -539,7 +539,7 @@ Est mis en scène le terrible dilemme entre la mère et la mer. La mère qui ret
  ![Couverture de la Charrue d'Érable](./_images/charrueerable.jpg)
 
 
-A l’initiative de la société de bibliophiles Le Livre Contemporain, Emile Moselly écrit les dix nouvelles de la Charrue d’Érable qu’elle édite en 1912, illustrées de douze compositions pleine page, en camaïeu, d'après des dessins de Camille Pissarro et de vingt vignettes et dix lettrines en couleur, gravées sur bois par 
+A l’initiative de la société de bibliophiles Le Livre Contemporain, Emile Moselly écrit les dix nouvelles de *la Charrue d’Érable* qu’elle édite en 1912, illustrées de douze compositions pleine page, en camaïeu, d'après des dessins de Camille Pissarro et de vingt vignettes et dix lettrines en couleur, gravées sur bois par 
 Lucien Pissarro, son fils, et Esther Pissarro, épouse 
 de ce dernier. Le tirage unique de ce livre en 116 exemplaires numérotés a été réalisé par la maison d'édition Eragny Press créée en 1895 à Epping, dans l’Essex (Angleterre) par Lucien Pissarro.
 
