@@ -35,7 +35,7 @@ Nous sommes des silencieux (in *Flyovers*)
 
 ## AVANT-PROPOS
 
-*Figure out* (2008-2013) achève le cycle des Figures qui, avec [*Figures de la disparition* ](https://darkness.chenin.fr/darkness/figure-disparition/)(1975-2006) et Figures des sentiments (1998-2012), a constitué une grande part de mon travail d'écrivain jusqu'à aujourd'hui. 
+*Figure out* (2008-2013) achève le cycle des Figures qui, avec [*Figures de la disparition* ](https://darkness.chenin.fr/darkness/figure-disparition/)(1975-2006) et [Figures des sentiments](https://darkness.chenin.fr/darkness/figures-sentiments/) (1998-2012), a constitué une grande part de mon travail d'écrivain jusqu'à aujourd'hui. 
 
 Nécessairement ces trois cycles se joignent, se chevauchent et s'interpénètrent tant l'écriture dévoile, au long de ces années, les rapprochements et les redites, les perspectives communes et leurs points d'appui, mais aussi les écarts et les pas de côté qui permettent d'en expliquer les partis pris.
 
@@ -69,9 +69,7 @@ Merci à Pascal Quignard et à Philip Glass qui m’ont accompagné tout au long
 A Miami, j’ai pris le parti du quotidien, au fil de l’eau et des flyovers, en roue libre, attentif, amusé, réservé, en embuscade, avec méthode : balancer sur le mot à mot, avancer sur des phrases retournées, détournées, retenues, remonter à temps, respirer. 
 
 Délier la main qui écrit.
-
 En réalité, je n'ai pas le choix. Ou plutôt j'ai fait ce choix d'arpenter - au sens de mesurer - à mesure de mes rencontres, de mes impressions et de mes sensations, les infimes changements mentaux qui modifient au jour le jour et mes visions et la manière que j'ai d'y revenir avec des mots. Mes visions ne sont pas qu'un langage - ce qui serait mon style : elles sont l'incessant aller-retour de mots balancés dans la réalité et de réel détouré et détourné. 
-
 Ecrire, c'est conduire cette rencontre à bonnes fins. 
 
 Je dispose de ce temps libre de l’esprit entre mille choses à faire. J’ai du papier, un crayon et je m’arrête en bord de route ou en bord de table, j’occupe les lieux de mes visions et, à l’arraché, entre deux regards, je plonge à traits tendus dans le ciel qui s’effile immensément autour de moi. J’ai des impressions fugitives d’histoires qui ne sont pas les miennes et qui, pourtant, me concernent. Je m’arc-boute à l’à-pic de mon instinct pour penser qu’ici, à Miami, des mondes se défont les uns contre les autres, les uns dans les autres et que, foin du résultat, il en restera ce que l’on en a aimé y compris dans la détestation que ces mondes suscitent. Mes amis me le rendent bien qui ne m’invitent plus. Mais chaque jour je passe un pont et, dans cette élévation douce vers le vide du ciel, je comprends les raisons de mon choix : respirer chaque fois que je tombe du ciel, respirer et me relever.
@@ -257,12 +255,11 @@ A Miami, les rendez-vous manqués finissent sous les flyovers. Les palabres sont
 
 A Miami, les histoires sont courtes, le rêve à mi-hauteur et le vin chilien.
 
-A Miami, les Forges de Vulcain ont des douceurs de vivre 
-intermédiaires.
+A Miami, les Forges de Vulcain ont des douceurs de vivre intermédiaires.
 
 A Miami, j'ai rencontré une call girl déguisée en realtor.
 
-A Miami, les étages empilent indifféremment grands magasins, bureaux, voitures, lobbies, rampes et escaliers de secours, spa et fitness centre, coursives, halls, couloirs, dessertes et vide-poubelles. Souvent des vides blancs. Il y manque parfois des ombres.
+A Miami, les étages empilent indifféremment grands magasins, bureaux, voitures, lobbies, rampes et escaliers de secours, spa et fitness center, coursives, halls, couloirs, dessertes et vide-poubelles. Souvent des vides blancs. Il y manque parfois des ombres.
 A Miami, il faut rouler jusqu'à temps.
 
 A Miami, les castes ne disent pas leur nom. Elles ont leurs jours, leurs places, leurs traces. Elles ne disent pas leur nom. Elles se poussent du coude dans les contre-allées qui mènent aux condos et à la mer. Les blocks se succèdent et ne se ressemblent pas. Elles ne disent pas leur nom. Mais partout  les chiens n'errent plus et les joggers du matin rejoignent,  le soir, leur happy hour en ordre dispersé. Les ponts et les 
@@ -369,7 +366,7 @@ A Miami, l'âme est bleue et les oranges tombent des arbres, enfin elles tombent
 
 A Miami, le danger est dans le rêve, l'obsession du rêve. Ils se détruisent, trop harcelés par des mondes qu'ils ne partagent pas, dans l'irrévérence des illusions qui les condamnent.
 
-A Miami, j'ai lu Connaissance par les gouffres de Henri Michaux. Il écrit : Le soir, la pluie se mit à tomber. Vienne le déluge ! aspirais-je. Vienne le déluge qui inonde tout ! J'ai une âme, maintenant, pour ce déluge, merveilleusement accordée et plus que Noé, une âme tout autrement accordée au déluge. Ah ! ce qu'on est dupe, dupe à perte de vue. J'ai 
+A Miami, j'ai lu *Connaissance par les gouffres* de Henri Michaux. Il écrit : Le soir, la pluie se mit à tomber. Vienne le déluge ! aspirais-je. Vienne le déluge qui inonde tout ! J'ai une âme, maintenant, pour ce déluge, merveilleusement accordée et plus que Noé, une âme tout autrement accordée au déluge. Ah ! ce qu'on est dupe, dupe à perte de vue. J'ai 
 regardé la pluie tomber.
 
 A Miami, les prédateurs sont sur la piste de danse. En pleine folie du feu qui les ronge. Les codes sont noirs, imperceptiblement luminescents, élevés sur des pointes qui pourraient être douces mais indifférentes, intériorisées dans la nuit pleine. A 2h, les seuils sont assiégés. Les révérences sont inutiles. Seul un serment d'œil et un rêve court, à raz, sont le sésame.

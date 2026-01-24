@@ -17,7 +17,9 @@ abbrlink: figure-disparition
 
  ![Couverture de figures de la dispartion ](./_images/couvdisparition.jpg)
 
-Figures de la disparition a été publié en 2008chez TheBookEdition en 4 volume, réunis en 2022 en un seul volume
+chez The [BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
+
+Figures de la disparition a été publié en 2008 chez The [BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin) en 4 volumes, réunis en 2022 en un seul volume
 
  ![Couverture des 4 premiers volumes de figures de la disparition](./_images/4figure.jpg)
 
