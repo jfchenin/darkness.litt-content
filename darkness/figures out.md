@@ -33,6 +33,8 @@ Nous sommes des silencieux (in *Flyovers*)
  ![les 7 livres de Figure Out, suites américaines](./_images/7couv.jpg)
 
 
+## AVANT-PROPOS
+
 *Figure out* (2008-2013) achève le cycle des Figures qui, avec [*Figures de la disparition* ](https://darkness.chenin.fr/darkness/figure-disparition/)(1975-2006) et Figures des sentiments (1998-2012), a constitué une grande part de mon travail d'écrivain jusqu'à aujourd'hui. 
 
 Nécessairement ces trois cycles se joignent, se chevauchent et s'interpénètrent tant l'écriture dévoile, au long de ces années, les rapprochements et les redites, les perspectives communes et leurs points d'appui, mais aussi les écarts et les pas de côté qui permettent d'en expliquer les partis pris.
