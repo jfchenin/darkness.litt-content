@@ -282,7 +282,15 @@ Avec _Jean des Brebis_, Emile Moselly écrira parmi  ses meilleures nouvelles, 
 
 ## FILS DE GUEUX, roman
 
-*Fils de Gueux* raconte comment Basile Crasmagne parvient à échapper à la misère par le moyen honnête et digne du travail, et notamment du travail de la terre. Moselly propose, dans ce troisième roman, un tableau de la dure réalité d’un travail qui avilit le corps et ne permet pas toujours de survivre. Ce roman dépasse toute simplification : le dur « travail de terre »y apparaît également beau et héroïque et devient lutte contre une misère de la vie qui concerne tous les hommes  [voir](https://www.persee.fr/doc/acths_0000-0001_2005_act_127_3_5141); force vitale contre le vertige de la mort et l’hostilité du pays ; communion avec la nature et avec les êtres aimés : bref, il est ce qui donne du sens et de l’humanité à la vie. 'D’abord la terre n’est rien, c’est l’homme qui ’est tout".
+*Fils de Gueux* raconte comment Basile Crasmagne parvient à échapper à la misère par le moyen honnête et digne du travail, et notamment du travail de la terre. Moselly propose, dans ce troisième roman, un tableau de la dure réalité d’un travail qui avilit le corps et ne permet pas toujours de survivre. 
+
+L’enfance du narrateur se déroule dans un univers rude, dominé par le travail pénible, la misère matérielle et la violence morale. À l’école comme au village, il subit le mépris des autres enfants et des adultes, qui le jugent non pour ce qu’il est, mais pour ce qu’il représente socialement. Moselly montre ainsi comment la pauvreté se transmet comme une fatalité, renforcée par le regard d'une société cruelle.
+
+Malgré ce contexte difficile, Basile se distingue par son intelligence et sa sensibilité. et l’instruction apparaît comme le moyen de son émancipation : apprendre, comprendre le monde, c’est espérer échapper à la condition de ses parents. Cependant, cette aspiration se heurte aux limites imposées par la société rurale, où la naissance détermine largement le destin. Le roman insiste donc sur le déterminisme social, thème central de l’œuvre.
+
+À travers ce récit, Émile Moselly ne se contente pas de raconter une trajectoire individuelle : il propose une critique sociale forte. Il dénonce l’injustice des hiérarchies rurales, l’hypocrisie morale et la dureté d’un monde qui écrase les plus faibles. En même temps, il rend hommage à la dignité et à la résistance des humbles, capables d’endurer sans perdre leur humanité.
+
+Sur le plan littéraire, le roman s’inscrit dans une veine réaliste proche du naturalisme. Moselly s’attache à décrire avec précision la vie paysanne, les paysages lorrains et les mécanismes sociaux qui enferment les individus. Le style sobre et sensible renforce la portée émotive et engagée du récit. Ce roman dépasse toute simplification : le dur «travail de terre»y apparaît également beau et héroïque et devient lutte contre une misère de la vie qui concerne tous les hommes  [lire études de Karine Rothio "le travail de terre](https://www.persee.fr/doc/acths_0000-0001_2005_act_127_3_5141); force vitale contre le vertige de la mort et l’hostilité du pays ; communion avec la nature et avec les êtres aimés : bref, il est ce qui donne du sens et de l’humanité à la vie. 'D’abord la terre n’est rien, c’est l’homme qui ’est tout".
 
 ---
 
