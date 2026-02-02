@@ -27,7 +27,7 @@ Chez [theBookEdition](https://www.thebookedition.com/fr/figure-out-suites-americ
  [*Requiem*](https://darkness.chenin.fr/darkness/requiem/)
 Nous sommes des silencieux (in *Flyovers*)
 *Au(x) Demeurant(s)*
-*La répétition*
+*La partition
 [*à Renoir*](https://darkness.chenin.fr/darkness/a-renoir/)
 
  ![les 7 livres de Figure Out, suites américaines](./_images/7couv.jpg)
