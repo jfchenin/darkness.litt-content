@@ -17,6 +17,8 @@ Les ombres qui nous emploient, qui forment nos désirs, qui pensent nos actes, s
 
  ![Couverture de ](./_images/lesombres.jpg)
 
+chez [TheBookEdition](https://www.thebookedition.com/fr/les-ombres-p-411032.html)
+
 *Les ombres* contient
 *Avant de tomber*, 2013-2021
 *Reprendre la figuration*, 2020
@@ -26,6 +28,7 @@ Les ombres qui nous emploient, qui forment nos désirs, qui pensent nos actes, s
 
 
 # REPRENDRE LA FIGURATION
+
 
 ## <div align="center">1 - Les conventions</div>
 
