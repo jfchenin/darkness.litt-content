@@ -9,7 +9,7 @@ draft: false
 pin: 1
 toc: true
 lang: fr
-abbrlink:
+abbrlink: lesombres
 ---
 LES OMBRES
 
@@ -64,14 +64,14 @@ Interlettrer les embrasements souterrains qui rendent l'espace irrespirable, ill
 Dresser les feux pour les rapprocher et agiter tout le réel de nos visions.
 En contrepoint, ne pas spéculer sur les perspectives ainsi relevées. Aiguiser son oeil et les suivre.
 
-## <div align="center">5 - Les déformations/div>
+## <div align="center">5 - Les déformations</div>
 
 L'emplacement des reflets et des empreintes est vide.
 Ce qui reste est vide. Et ce qui était confus est en prélude de nos doutes.
 Et dans la confusion, des étincelles et des brûlures reviennent et soulèvent le ciel.
 Et les feux donnent des coups si crus que les rêves surgissent, décrochent et tombent.
 
-## <div align="center">6 - Des avantages/div>
+## <div align="center">6 - Des avantages</div>
 
 
 Tous les étais croisent à l'à-pic des arcs-boutants qui soutiennent les passerelles et les échafaudages jusqu'au bout des horizons possibles.Un coup d'épaule n'y suffit pas.
@@ -79,7 +79,7 @@ Tous les horizons d'une mémoire martelée, en majesté d'orées superposées ju
 Et un regard, et l'épaule surprenante qui n'empêche rien.
 Un regard qui ne défait rien mais qui n'arrange rien. Une parole qui ne tombe pas mais inaudible ou timide. Un personnage d'entre-deux et d'absence. Enfin toucher l'épaule, ne pas tomber.
 
-## <div align="center">7 - Des familiarités/div>
+## <div align="center">7 - Des familiarités</div>
 
 
 Contre les apparences qui déforment les mots, les rendent muets, installer les silences et les ruptures invisibles, toutes suivies d'effets. Le langage est construit du silence qui organise son rythme, ses élancements et ses élévations jusqu'au prochain silence qu'il a lui-même posé.
@@ -88,19 +88,19 @@ silences, les mots s'affranchissent de leur nature.
 Les réponses ne sont jamais simples. Les lettres sont défaites par-devers nous. Nous les avions tracées sous le coup de l'émotion et, dans le désordre, elles ont été éparpillées. En remettant de l'ordre, nous avons perdu le sens du désir qui les portait.
 Pure forme du désir jusqu'au silence qui l'enferme. C'était en prévision d'une rencontre ou d'un hasard, en raison d'un voyage.
 
-## <div align="center">8 - Les rivières/div>
+## <div align="center">8 - Les rivières</div>
 
 A mesure que les mots tombent et dessinent les ombres du langage où nous les abandonnons, plusieurs fois [...] A mesure que les silences ouvrent la voie à d'autres silences, plus froids, où nous oublions nos visions, plusieurs fois [...] 
 A mesure que les corps s'attachent et bouleversent les sentiments devenus obsession et martel en tête, plusieurs fois [...] A mesure que le noir de ses yeux roule et perce ce qui reste de désir où nous nous réveillons, plusieurs fois [...] A mesure que la nuit s'élève et se déplie dans de nouvelles visions ouvertes sur notre disparition, plusieurs fois [...] Nous sommes désolidarisés et nous basculons pour des réveils inconnus.
 
-## <div align="center">9 - Les intentions/div>
+## <div align="center">9 - Les intentions</div>
 
 Voir à travers, traverser, passer toutes ces frontières, faire magicien, détourner ce qui serait peut-être une vérité, détourer ce qui en reste, garder le fond noir du ciel et les pentes des talus qui dévissent de la mémoire, revenir sur un instant de ce passé très particulier des mots oubliés. Quelles étaient les intentions ? Qui parlait ?
 Voir à travers, renverser le miroir, déplacer les balises, faire silence, approcher au plus près le visage ascendant, évoquer ce qui en reste, penser qu'il n'y a pas de vertu salvatrice ni de regret de ce silence soudain, placer haut le rêve, la mémoire du rêve et tous les attendus de ce retour en arrière. Quelles étaient les intentions ? Qui suivait ?
 Voir à travers, soulever et retenir une respiration, faire apnée, gagner sur la dérisoire certitude d'une raison qui flanche, passer alors en force et marteler des mots que l'on croyait vides, les placer au fronton de tous les temples. Quelles étaient les intentions ? Qui jouait ?
 Voir à travers, tomber, se relever. Interroger sans cesse - faire bombance. Se gorger des incertitudes du réel. Traverser, traverser incessamment tous les plis communs d'un cerveau et d'une terre. Traverser sans compter. Les intentions étaient-elles honorables ? Qui espérait ?
 
-## <div align="center">10 - Les frontières/div>
+## <div align="center">10 - Les frontières</div>
 
 Les mots sont les témoins des frontières. Témoins à charge et témoins des prières répétées en pure perte. Rien n'est innocent ni gratuit. Les mots sont des passants et de dix à cent tous les contes sont donnés perdants.
 Les mots sont décrochés des cimaises et les mots sont parfois des absences ou des pleurs, si tôt abandonnés, ou des îles oubliées, plus loin des larmes à l'aune des feux renversés qu'ils contiennent et ces alarmes entendues tant de fois, des rampes de lancement, des intentions et les vides des blancs bleutés revenus du ciel qui s'accrochent à ce qui revient de leurs incidences.
@@ -109,7 +109,7 @@ indescriptibles, des accents répétés de place en place pour ne pas oublier, l
 Les mots sont des ambivalences rétractées et déplacées dans des partitions ni théâtrales ni musicales mais blanches qu'ils divertissent. Les ouvertures défigurent les façades, les rendent impraticables et les mots retournent à leur normalité. 
 Les mots sont des larmes du réel. Ils ne nous protègent pas et nous enfoncent dans une matière faite de fluides et d'imprévisions, d'organisations vite défaites et remplacées par d'autres assemblages. Seules les frontières sont encore perceptibles tout au fond, tout au fond des ombres comme des lames de fond qui content.
 
-## <div align="center">11 - Les visites/div>
+## <div align="center">11 - Les visites</div>
 
 Les mots pourraient être aussi des fantômes ou des apparitions exhumées d'un langage oublié ou qui a fauté d'avoir séparé les entrelacs fictionnels de la réalité ou qui n'ont pas su ramener au réel leurs avatars. Le langage s'est perdu dans les psaumes.
 Les apparitions sont les étapes neuronales de la réalité. Elles sont silencieuses et amassent le bleu des âmes qui s'y perdent. Elles n'incarnent rien que le vide qui passe entre les mots et donnent son rythme au langage. A ce prix le réel se débarrasse de ses aléas.
