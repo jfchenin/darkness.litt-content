@@ -11,23 +11,24 @@ toc: true
 lang: fr
 abbrlink: figures-out
 ---
-# FIGURE OUT Suites américaines
+f# FIGURE OUT, Suites américaines
 
  ![Couverture de Figures Out, suites américaines ](./_images/couvfigureout.jpg)
 
 
 Chez [theBookEdition](https://www.thebookedition.com/fr/figure-out-suites-americaines-p-120825.html?search_query=chenin&results=48)
 
-*Figure out, Suites américaines* regroupe des textes écrits entre 2008 et 2013, publiés séparément chez TheBookEdition. 
+*Figure out, Suites américaines*, publié en 2015, regroupe des textes écrits entre 2008 et 2013, édités séparément chez TheBookEdition. 
 
-*Le mouvement du monde* (in *Requiem*)
-*Quelques jours après Albuquerque*
-*A la pointe d’Uzès* 
-*Flyovers* 
- [*Requiem*](https://darkness.chenin.fr/darkness/requiem/)
+
+*Le mouvement du monde* (2008)(in *Requiem*)
+*Quelques jours après Albuquerque* (2008)
+*A la pointe d’Uzès* (2009)
+*Flyovers* (2011)
+ [*Requiem*](https://darkness.chenin.fr/darkness/requiem/) (2011)
 Nous sommes des silencieux (in *Flyovers*)
-*Au(x) Demeurant(s)*
-*La partition
+*Au(x) Demeurant(s)* (2012)
+*La partition (2013)
 [*à Renoir*](https://darkness.chenin.fr/darkness/a-renoir/)
 
  ![les 7 livres de Figure Out, suites américaines](./_images/7couv.jpg)

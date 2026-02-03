@@ -19,12 +19,31 @@ abbrlink: figure-disparition
 
 chez The [BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
 
-Figures de la disparition a été publié en 2008 chez The [BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin) en 4 volumes, réunis en 2022 en un seul volume
+Figures de la disparition a été publié en 2008 chez The [BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin) en 4 volumes, réunis en 2012 en un seul volume
+
+*FIGURES DE LA DISPARITION*, 1975-2006 (Edition 2012) contient :
+*Quentin* (1978)
+*Roman* (2000-2001)
+*Exeat* (2002)
+Saisons (1998)
+*Voisins des arpents* (1975-1977)
+Nous voilà rencontrés, la terre et nous (1978)
+*Une maison aiguisée* (1980)
+*Le droit-fil* (1983-1996)
+*In Fine* (1996)
+*Je ne mourrai pas* (1994)
+*Ce que tu fais* (1995)
+*Les sculptures chantent* (1997)
+*Dans l’atelier* (2003)
+*La table des étoiles* (1998-1999)
+*Les royaumes à-demi* (2005-2006)
+*Frontières* (2004-2005
+*Alep* (2006)
 
  ![Couverture des 4 premiers volumes de figures de la disparition](./_images/4figure.jpg)
 
 
-***Figures de la disparition*** regroupent une partie des textes écrits entre 1975 et 2006. Ils sont (avec *Quentin, Roman, Saisons, Exeat, Frontières* et *dans l'atelier)* les débuts et l'inachèvement. Ils portent mes appuis, mes références, les talus escaladés et les descentes brutales dans les fonds ravinés de mes certitudes. La tentation serait de clore le désir qui les a portés. Or le désir existe encore, acéré et effilant. D'où ce besoin d'en faire état, de les porter devant.
+***Figures de la disparition*** regroupent une partie des textes écrits entre 1975 et 2006. Ils sont (avec, en particulier, *Quentin, Roman, Saisons, Exeat, Frontières* et *dans l'atelier)* les débuts et l'inachèvement. Ils portent mes appuis, mes références, les talus escaladés et les descentes brutales dans les fonds ravinés de mes certitudes. La tentation serait de clore le désir qui les a portés. Or le désir existe encore, acéré et effilant. D'où ce besoin d'en faire état, de les porter devant.
 Toujours j'écris, mais j'écris à l'emporte-pièce, enlevant le silence des espaces blancs des mots, subtilisant les traces d'hésitation en fin de phrase, sans point, laissant tomber ou, parfois, se relever le silence intime de la main. J'écris, mais j'écris en aparté. Car il s'agit bien de silence, du silence re-venu une fois écrit ce qui surgit de longue date.
 Tu as été créé pour des moments peu communs / Modifie-toi disparais sans regret / Au gré de la rigueur suave / Quartier suivant quartier la liquidation du monde se poursuit / Sans interruption / Sans égarement … dit René Char dans Le marteau sans maître. Je vais sur cette eau inexorable, à nu, à flanc des mots qui passent ma main, depuis le temps.
 

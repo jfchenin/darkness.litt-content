@@ -18,13 +18,13 @@ abbrlink: figures-sentiments
 
 chez[TheBookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
-*Figures des sentiments* regroupe des textes écrits entre 1998 et 2012. Ils ont été publiés séparément chez TheBookEdition. 
+*Figures des sentiments* publié en 2014, regroupe des textes écrits entre 1998 et 2012. Ils ont été publiés séparément chez TheBookEdition
 
-*Grandeur nature des sentiments* 
-*Les adolescences meurent sur les talus* 
-*Être humain* 
-*Les qualités discrètes* 
-*En dehors des retours* 
+*Grandeur nature des sentiments* (2008)
+*Les adolescences meurent sur les talus* (2009-2010)
+*Être humain* (1998-2005)
+*Les qualités discrètes* (1998-2010) 
+*En dehors des retours* (2012) 
 
  ![Couverture des qutre livres de figures des sentiments ](./_images/4couvbis.jpg)
 
