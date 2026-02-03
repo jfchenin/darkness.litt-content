@@ -15,7 +15,7 @@ LES OMBRES
 
 Les ombres qui nous emploient, qui forment nos désirs, qui pensent nos actes, sont l’argument irréfutable de la continuité des instants silencieux.
 
- ![Couverture de ](./_images/lesombres.jpg)
+ ![Couverture de Les ombres ](./_images/lesombres.jpg)
 
 chez [TheBookEdition](https://www.thebookedition.com/fr/les-ombres-p-411032.html)
 
