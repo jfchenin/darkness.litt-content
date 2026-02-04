@@ -1,5 +1,5 @@
 ---
-title: les poèmes
+title: COMPOSITIONS NOTES & POÈMES
 published: 1978-08-02
 author: JFC
 updated: 2026-02-04
@@ -11,7 +11,6 @@ toc: true
 lang: fr
 abbrlink: poemes
 ---
-# COMPOSITIONS NOTES & POÈMES
 
  ![Couverture de Compositions, notes & poèmes ](./_images/couvpoeme.jpg)
 
