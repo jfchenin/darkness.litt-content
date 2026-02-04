@@ -11,7 +11,7 @@ toc: true
 lang: fr
 abbrlink: lesombres
 ---
-LES OMBRES
+**LES OMBRES**
 
 Les ombres qui nous emploient, qui forment nos désirs, qui pensent nos actes, sont l’argument irréfutable de la continuité des instants silencieux.
 
