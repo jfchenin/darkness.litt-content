@@ -11,12 +11,12 @@ toc: true
 lang: fr
 abbrlink: reccomposition
 ---
-# (RE)COMPOSITION 
-lournal 2007-2022
+# (re)composition
+Journal 2007-2022
 
  ![Couverture de (recomposition - journal 2007-2022) ](./_images/couvrecomposition.jpg)
 
-
+Chez [TheBookEdition](https://www.thebookedition.com/fr/recomposition-journal-2007-2002-p-401355.html?search_query=chenin&results=48)
 ## EN GUISE D'AVANT-PTOPOS
 
  ![intoduction de les nuits primaires](./_images/nuitsprimaires.jpg)
@@ -105,7 +105,7 @@ Avant 2007, il n’y a pas de journal.
 
 Journal à venir. 
 Bientôt 2008.
-[Troisième morceau du ciel]
+Troisième morceau du ciel
 Ecrire par profusion, instamment. La peur sera arrachée de la page. La déroute pour 366 jours devant soi.
 
 Engranger, déranger, préhistoire.
@@ -170,7 +170,7 @@ principal instrument : une gomme
 
 366 jours. Une carte par jour pour en finir avec les lenteurs. S'en tenir à chaque jour et le 29 février, se donner congé. Se congédier.
 
-Après Alep, après A la pointe d'Uzès, le récit épique et tragique du chiffre 1. Quelle bouffonnerie !
+Après Alep, après *A la pointe d'Uzès*, le récit épique et tragique du chiffre 1. Quelle bouffonnerie !
 
 Le jour exponentiel
 Chaque jour tu doubles la mise et cela soixante-quatre fois. L'histoire du grain de riz. La vie du grain de sable ! On obtient 18 446 744 073 709 551 615 grains. C'est aussi le 64e nombre de Mersenne. Machine rouillée. 
@@ -191,7 +191,7 @@ Commencer par battre les cartes, distribuer, éviter de tricher, ne pas tenter d
 Là le rêve de soi
 Ici la trêve en soi
 
-[en marge : Ton orgueil est sans mesure, ce que tu prétends être n'est pas, ce que tu es n'est pas mieux, ce que tu deviens est une vaine espérance, un leurre pour continuer - heureusement - Avance, avance, va !]
+en marge : Ton orgueil est sans mesure, ce que tu prétends être n'est pas, ce que tu es n'est pas mieux, ce que tu deviens est une vaine espérance, un leurre pour continuer - heureusement - Avance, avance, va !
 
 ---
 
@@ -224,7 +224,7 @@ Je reviens à la vie. J'irai de l'avant, c'est-à-dire que j'ai le soleil en lig
 
 Cette expression "mise en veille". Traité des Marquises.
 
-[en marge : PASSONS À AUTRE CHOSE]
+(en marge : PASSONS À AUTRE CHOSE)
 
 Grandeur nature des sentiments
 
@@ -236,7 +236,7 @@ Arrangement du désir avec ses fantômes, dérangement des phrases subreptices, 
 Aller voir ailleurs, c'est ailleurs.
 *A la pointe d'Uzès* toujours en cours, Grandeur nature aussi
 
-[en bas de page au verso : le 15 mars 2008
+([)en bas de page au verso : le 15 mars 2008)
 Au recto : à l'écluse de nos truismes]
 
 Le grain à moudre
@@ -274,13 +274,15 @@ Victoire !
 
 <div align="center">⁂</div>
 
+
 Où le monde commence, il y a reddition. Un abandon des temps.
 
 ---
 
+
 ## 2009
 
-Entre le départ de Courcy et l’installation à Miami, j'ai peu de temps pour écrire et ce journal est réduit à sa plus simple expression.
+Entre le départ de Courcy et l’installation à Miami, j'ai peu de temps pour écrire et ce journal se réduit à sa plus simple expression.
 
 Je commence *Les Adolescences meurent sur les Talus* que je terminerai en 2010 et qui sera repris dans *Figures des Sentiments* publié en 2014.
 
@@ -294,7 +296,8 @@ Et je me plais dans cette écriture fragmentaire qui me va bien. Beaucoup de sui
 
 A suivre
 
---
+---
+
 
 Sur tous les registres, un risque diablement bleu, mais un bleu d'un ciel lavé de ses orages, infiniment relevé.
 
@@ -328,7 +331,7 @@ Retrouver le toucher bleu du rêve.
 En amont des mots, en amont des images. 
 Ce que dit Voltaire est une bonne définition de mon écriture. Se fier aux mots, à leur rythmique réciproque et alternative.
 
---
+---
 
 ## 2010
 
@@ -361,6 +364,7 @@ Qu'il est insupportable parfois d'avancer ! Le pas est sans poids et les quelque
 généreuses au bord du gouffre où nous allons tomber. Nous nous précipitons sur nos faux-pas.
 Nous sommes des feux perdus, dispersés, éloignés les uns des autres. Nous surgissons au hasard, mais notre volonté n'y est pour rien, seulement l'instinct, le très bas instinct de ne pas s'éteindre. Il nous sauvera, nous donnera à revivre ce que nous redoutions mais que nous avons accepté - de bon gré - exactement où nous avons surgi la première fois, dans un saut de l'air sur l'air qui fait notre clarté et notre dissidence, mais notre évidence et notre fragilité.
 Combien sommes-nous ainsi ? Combien sommes-nous à gagner sur le feu qui nous ronge et nous consume, à devenir le trou noir qui nous absorbera ? Nous avons touché des mains sans pouvoir les saisir et - malgré nous - nous revenons aux racines en partie détruites de nos éclats. C'est cela : nos éclats et nos rêves d'incendie tout au long des horizons et des faîtes que nous souhaitions franchir. Nous sommes des feux perdus.
+
 10 janvier (1)
 De bas en haut des certitudes et des doutes, c'est la raison d'écrire au retour des raisons de rire comme de trembler, des sentiments qui vitupèrent ou qui se lassent. c'est la raison de fouiller les mots à travers les accidents qu'ils provoquent - à la prochaine bifurcation, je poserai un point, un sourire, une larme, un blanc jusqu'à la prochaine respiration.
 
@@ -435,6 +439,8 @@ J'écris à bras levés dans l'ombre des ponts submergés de lumière, j'entre d
 
 Poussière verticale qui pénètre dans les condos encore ouverts, toute une lumière qui s’infiltre, qui prend par la douceur tous les pans de verre des façades, qui arpente les reflets vert-bleu qui s’en échappent jusqu’au dessus de la nuit qui vient, qui imite le souffle du mouvement de l’eau, loin, très loin. On ne la voit plus. Elle se mélange au ciel. Il reste cet élancement de milliers de mains blanches qui soulève le monde devant nous.
 
+---
+
 14 février
 Le noir manque à la nuit, elle délibère à perte de temps, qui vitupère insatisfaite, ne connait que des esquisses d'ombre, ne donne que des soubresauts d'ombre. Elle tremble d'ombres à la pointe-sèche, à peine relevées, à peine assombries et préoccupées. Elle craint et tressaille agitée de scintillements du fond de la ville. Elle n'est pas noire, ni silencieuse, ni repue. Elle se délite au bout de ses spasmes. Il lui faudrait un désert blanc et chaud pour s'abattre d'un coup et dégorger les rêves qui la tiennent encore debout, à contre-temps d'elle-même. Une vraie nuit en somme.
 
@@ -459,7 +465,6 @@ Floride).
 Les prophéties comme les coïncidences se construisent à reculons.
 
 ---
-
 ## 2012
 
 Année d'intranquillité. 
@@ -585,6 +590,8 @@ Il s'agit d'une écriture encore nomade, une écriture d'images, de couleurs et 
 
 A partir de 2020, chaque saison porte un titre, un thème et un texte : Saison 9, Objets mouvants / Saison 10, Mouvements de bascule / Saison 11, La charge de la preuve / Saison 12, Ce que j’en sais
 
+---
+
 13-15 juillet
 J'ouvre un nouveau cahier, arrimé à cette errance qui me va bien, de suites en suites. Pour autant, je ne veux rien sacrifier de ce qui me pousse à expliciter mieux ce que j'écris. J'ai besoin de lieux doublés d'instants tranquilles pour ré-agencer ce qui vient alors en rafale, en trombe d'états surgissants, quitte plus tard à élaguer en larges coups de ratures et de ciseaux. Je casse ce qui ne décide à rien et ne retiens rien qui ne serait pas urgent. Mais il s'agit d'une urgence qui compte avec le temps.
 Je me veux errant à n'aller qu'à l'essentiel des détours qui absorbent ma pensée et cette écriture, si lente à venir, à prendre forme, est aussi errante dans sa forme et dans ses suites, qui me retourne si bien mon désir de ne pas en devenir totalement prisonnier. Je m'attache à la reconstruire. Je m'arcboute à des étais plus larges et plus hauts où je porte à incandescence les visions qui finiraient par me ronger sur place et ne laisseraient, à regret, aucune trace visible.
@@ -610,7 +617,6 @@ Et les balises que j'ai placées comme autant de pièges d'un feu revenant ont d
 ---
 
 ## 2015
-
 
 Toujours à Karachi, installé au Sind Club.
 
@@ -654,9 +660,7 @@ Volte-Face. Comment franchir ce qui demeure mystérieux ou incompréhensible ou 
 
 ## 2016
 
----
-
-Toujours à Karachi, installé maintenant à l’Alliance française.
+-Toujours à Karachi, installé maintenant à l’Alliance française.
 
 De fortes douleurs dans le dos, persistantes et inexpliquées, m’obligent à aller en France. Cancer du poumon soigné de mars à août.
 
@@ -915,8 +919,7 @@ Demain, je m’attaque à la poésie.
 5 janvier
 Pas eu le temps de penser poésie. La vision que j’en ai est délicate. C’est quoi un poète ? C’est quoi un poème ? Y en a qui parle de poétique. C’est quoi ?
 J’invoquerai quelques sources et ressources.
-Je lis dans les annales du bac cette question : La poésie a-t-elle pour fonction d'exprimer la réalité du monde ou de la transfigurer ? Très mauvaise question. Je vous laisse le soin de lire le corrigé type à cette adresse :
-[https://www.annabac.com/annales-bac/la-poesie-t-elle-pour-fonction-d-exprimer-la-realite-du-monde-ou-de-la-transfigurer]. 
+Je lis dans les annales du bac cette question : La poésie a-t-elle pour fonction d'exprimer la réalité du monde ou de la transfigurer ? Très mauvaise question. Je vous laisse le soin de lire le corrigé type à cette adresse :[https://www.annabac.com/annales-bac/la-poesie-t-elle-pour-fonction-d-exprimer-la-realite-du-monde-ou-de-la-transfigurer]. 
 C’est consternant !
 Mieux : de Philippe Jacottet : La Semaison 
 C’est le Tout-autre que l'on cherche à saisir. Comment expliquer qu'on le cherche et ne le trouve pas, mais qu'on le cherche encore? L'illimité est le souffle qui nous anime. L'obscur est un souffle ; Dieu est un souffle. On ne peut s'en emparer. La poésie est la parole que ce souffle alimente et porte, d'où son pouvoir sur nous. 
@@ -1362,6 +1365,11 @@ Elle est convulsive.
 30 mai
 Je suis né en 1954 (le lundi 29 - ou le XXIX.XI.MCMLIV). A ce jour, le 30 mai 2021 à 17h , j’ai vécu 582 936 heures ou 24 289 jours ou 3 469 semaines ou encore 798 mois). Ce jour là, Vénus est en conjonction avec Saturne à 0h, à 2°32’ (mais ça signifie quoi ?).
 
+ ![Dans Croquis Instinctuels ](./_images/croquis.jpg)
+
+
+
+
 Le 1er novembre 1954 des attentats éclatent dans toute l’Algérie (la Toussaint rouge). C’est le début de la guerre d’Algérie. Cette guerre, comme toutes celles qui ont suivi dans le monde, m’a été épargnée et j’ai vécu dans un monde relativement calme, loin des atrocités des conflits. Cela fait 70 ans. Je dois aux hommes politiques de l’époque (Robert Schuman et Jean Monnet, Konrad Adenauer et Charles de Gaulle en particulier … et d’autres) la chance de vivre dans une Europe pacifiée, commune, unique. Ce fut la chance de toutes les générations nées après la Seconde Guerre Mondiale. Nous ne mesurons pas suffisamment cette chance qui a donné - aussi - à la France une place encore enviée dans le monde. Je peux témoigner de l’attrait que ce pays 
 garde - encore aujourd’hui - auprès de quelques jeunes générations étrangères. 
 Juillet 1954, fin de la Guerre d’Indochine qui durait depuis 1946. De 1958 à 1962, c’est aussi le grand mouvement de décolonisation des pays africains.
@@ -1515,6 +1523,11 @@ Est-ce qu'on peut encore écrire avec le reste d'une encre ancienne ?
 
 Je ne sais pas où on va, interminablement.
 
+ ![dans Avant de tomber](./_images/assemblage.jpg)
+
+
+
+
 Ce que je sais de l'espace qui tremble, qui redevient une perle d'eau bleue, qui est la mémoire de la vague, une vague sans mesure. Cette mémoire qui vient comme une mémoire en réponse et d'autres qui sont ma parentèle.
 Toujours continuer à dire les pages, à poursuivre l'effeuillement, les rencontres et les plus improbables.
 
@@ -1598,8 +1611,8 @@ dans l'ombre qui masque, dans l'ombre qui oublie, dans l'ombre qui tremble
 	des passions meurtries et des rêves cassés.  
 ce que tu penses, ce que tu dis     mais quelle importance 
 
-	si peu de réponses.  
-	et le vertige d'un oubli 
+si peu de réponses.  
+et le vertige d'un oubli 
 la peur n'est pas un rendez-vous, la peur qui coupe le souffle et saborde les îles 
 dans l'entre-temps des silences. 
 	c'est une différence  
@@ -1710,10 +1723,10 @@ La matière s'amasse dans les ombres. Elle en devient vivante, immensément viva
 Il y a l'espérance et les faussaires sont passés maîtres dans l'exercice d'en 
 remettre toujours plus, couche sur couche de l'errance. 
 On finit pas se cacher 
-                  optempérer  
-                           blasphémer du vide  
-                                            s'enchâsser à l'ombre  
-                                                                faire semblant  
+optempérer  
+ blasphémer du vide  
+s'enchâsser à l'ombre  
+faire semblant  
 Nous devenons matière passant de l'inerte au frisson, au tremblement, au mouvement, nous devenons matière souffle détouré du vide qui s'élève sans rien pour le rabattre à terre nous devenons matière partition infiniment répétée de l'univers qui s'arrime en nous nous sommes enfin matière interminable répétition des lieux et des temps dont nous sommes faits. 
                                  
 Toutes ces nuits perdues, désassemblées, réduites à des murmures, devenues inventaires de souffles indécidables. PAR MAGIE EXUBÉRANTES  
