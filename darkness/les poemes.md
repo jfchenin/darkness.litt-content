@@ -13,7 +13,7 @@ abbrlink: poemes
 ---
 # COMPOSITIONS NOTES & POÈMES
 
- ![Couverture de Compositions, notes &poèmes ](./_images/couvpoeme.jpg)
+ ![Couverture de Compositions, notes & poèmes ](./_images/couvpoeme.jpg)
 
 
 Chez [TheBookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
