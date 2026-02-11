@@ -23,7 +23,7 @@ Chez [TheBookEdition](https://www.thebookedition.com/fr/recomposition-journal-20
 
 
  ## MÉTHODE 
-(dans *Entre-deux in [Les dissonances](https://darkness.chenin.fr/darkness/les-dissonances/)l,* 2017)
+(dans *Entre-deux in Les dissonances,* 2017)
 
 
 Qui dira la méthode ? Comment s’invente la méthode ? La méthode est proche de la 
@@ -87,7 +87,7 @@ Je pense commencer un journal pour raconter ce qui vient. Mais je tarde à m'y m
 
 Comme je vis seul, je me déroute ailleurs.
 
-J'écris peu cette année là. J'ai terminé en 2006 *Les royaumes-à-demi* et *Alep* qui figureront dans le volume *Figures de la disparition]* publié dans sa version définitive en 2012. 
+J'écris peu cette année là. J'ai terminé en 2006 *Les royaumes-à-demi* et *Alep* qui figureront dans le volume *Figures de la disparition* publié dans sa version définitive en 2012. 
 
 La première version de *Figures de la Disparition* (le Vol. 1 comprend *Quentin, Roman, Exeat, Saisons, Sur la route*) paraitra en quatre petits volumes en 2008.
 
