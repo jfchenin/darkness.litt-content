@@ -23,7 +23,7 @@ Chez [TheBookEdition](https://www.thebookedition.com/fr/recomposition-journal-20
 
 
  ## MÉTHODE 
-(dans *Entre-deux in [es dissonances](https://darkness.chenin.fr/darkness/les-dissonances/)l,* 2017)
+(dans *Entre-deux in [Les dissonances](https://darkness.chenin.fr/darkness/les-dissonances/)l,* 2017)
 
 
 Qui dira la méthode ? Comment s’invente la méthode ? La méthode est proche de la 
