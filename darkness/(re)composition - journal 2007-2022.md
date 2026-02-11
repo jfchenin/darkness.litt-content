@@ -1,8 +1,8 @@
 ---
 title: recomposition
-published: 2026-02-04
+published: 2026-02-11
 author: JFC
-updated: 2026-02-04
+updated: 2026-02-11
 tags:
   - suites
 draft: false
@@ -23,7 +23,7 @@ Chez [TheBookEdition](https://www.thebookedition.com/fr/recomposition-journal-20
 
 
  ## MÉTHODE 
-(dans *Entre-deux,* 2017)
+(dans *Entre-deux in [es dissonances](https://darkness.chenin.fr/darkness/les-dissonances/)l,* 2017)
 
 
 Qui dira la méthode ? Comment s’invente la méthode ? La méthode est proche de la 
@@ -35,8 +35,7 @@ La méthode est complexe, déroutante tant elle fait partie de l’écriture et 
 
 Elle permet de démembrer et de re-construire. Elle est intrinsèquement liée à l’épreuve du jointoiement des mots. Elle est le vide qui construit.
 
-Elle est l’échafaudage qui s’élève dans la cathédrale ou qui s’enfonce dans la fosse. Elle est faite d’étais et d’arcboutants, d’élancements 
-et de désertions.
+Elle est l’échafaudage qui s’élève dans la cathédrale ou qui s’enfonce dans la fosse. Elle est faite d’étais et d’arcboutants, d’élancements et de désertions.
 
 Sans méthode, pas de surprise, pas d’étonnement, pas de plaisir, pas de saut ni sursaut, ni tout ce qui fait le désir. Elle est sous-jacente.
 
@@ -52,8 +51,7 @@ ments indécidables et posent dans l’écriture les singularités du discours.
 
 La méthode est un voyage qui place la vision avant les mots et non après, qui ne raconte pas les images et les ré-installe dans le fond caché du texte.
 
-La méthode connaît les lieux, les liens, les linéaments, les origines comme les aboutissements et les choix de ce qui converse, échange et 
-dispute. Elle n’automatise pas.
+La méthode connaît les lieux, les liens, les linéaments, les origines comme les aboutissements et les choix de ce qui converse, échange et dispute. Elle n’automatise pas.
 
 La méthode grappille dans les vides qui restent entre les mots les petits liens inaperçus, les renforce sans les mettre en avant, assurant solidité et demeurance.
 Elle débusque les leurres de l’écriture étant un leurre dématérialisée, qui ne s’écrit pas, qui laisse écrire, qui ne dit pas, qui laisse ou ne laisse pas dire.
@@ -87,15 +85,15 @@ Je vis à Courcy.
 
 Je pense commencer un journal pour raconter ce qui vient. Mais je tarde à m'y mettre et je retrace assez rarement mes journées et ce que je pense, vois, lis, rumine, engrange....
 
-Je me déroute ailleurs.
+Comme je vis seul, je me déroute ailleurs.
 
-J'écris peu cette année là. J'ai terminé en 2006 *Les royaumes-à-demi* et *Alep* qui figureront dans le volume *Figures de la disparition* publié dans sa version définitive en 2012. 
+J'écris peu cette année là. J'ai terminé en 2006 *Les royaumes-à-demi* et *Alep* qui figureront dans le volume *[Figures de la disparition](https://darkness.chenin.fr/darkness/figure-disparition/)* publié dans sa version définitive en 2012. 
 
 La première version de *Figures de la Disparition* (le Vol. 1 comprend *Quentin, Roman, Exeat, Saisons, Sur la route*) paraitra en quatre petits volumes en 2008.
 
 Je travaille sur *Les Qualités Discrètes*, texte commencé en 1998 et que je terminerai en 2010 et qui figurera dans le volume *Figures des sentiments* publié en 2014.
 
-Je commence *A la pointe d'Uzès* que je terminerai en 2010 aussi et qui figurera dans *Figure Out, suites américaines* publié en 2015.
+Je commence *A la pointe d'Uzès* que je terminerai en 2010 aussi et qui figurera dans *[Figure Out, suites américaines](https://darkness.chenin.fr/darkness/figures-out/)* publié en 2015.
 
 2007 est la fin du cycle dit "la disparition". Sans vraiment en avoir une claire idée le cycle qui commence est celui des "sentiments".
 
@@ -170,7 +168,7 @@ principal instrument : une gomme
 
 366 jours. Une carte par jour pour en finir avec les lenteurs. S'en tenir à chaque jour et le 29 février, se donner congé. Se congédier.
 
-Après Alep, après *A la pointe d'Uzès*, le récit épique et tragique du chiffre 1. Quelle bouffonnerie !
+Après *Alep,* après *A la pointe d'Uzès*, le récit épique et tragique du chiffre 1. Quelle bouffonnerie !
 
 Le jour exponentiel
 Chaque jour tu doubles la mise et cela soixante-quatre fois. L'histoire du grain de riz. La vie du grain de sable ! On obtient 18 446 744 073 709 551 615 grains. C'est aussi le 64e nombre de Mersenne. Machine rouillée. 
@@ -199,7 +197,7 @@ en marge : Ton orgueil est sans mesure, ce que tu prétends être n'est pas, ce 
 
 Toujours à Courcy, le journal n'avance pas. Je sais que ce n'est pas ma tasse de thé, pour ainsi dire.
 
-En réalité très occupé à écrire la première version du *Mouvement du Monde*, texte qui sera complété plusieurs fois les années suivantes.
+En réalité très occupé à écrire la première version du *[Mouvement du Monde](https://darkness.chenin.fr/darkness/requiem/#le-mouvement-du-monde)*, texte qui sera complété plusieurs fois les années suivantes.
 
 Je commence *Grandeur Nature des Sentiments* repris dans *Figures des Sentiments*, publié en 2014, ainsi que *Quelques jours après Albuquerque*, repris dans *Figure Out* publié en 2015
 
@@ -236,7 +234,7 @@ Arrangement du désir avec ses fantômes, dérangement des phrases subreptices, 
 Aller voir ailleurs, c'est ailleurs.
 *A la pointe d'Uzès* toujours en cours, Grandeur nature aussi
 
-([)en bas de page au verso : le 15 mars 2008)
+(en bas de page au verso : le 15 mars 2008)
 Au recto : à l'écluse de nos truismes]
 
 Le grain à moudre
@@ -288,7 +286,13 @@ Je commence *Les Adolescences meurent sur les Talus* que je terminerai en 2010 e
 
 J'écris *Chant Premier*, ma version du *Cantique des Cantiques*.
 
+ ![Couverture de chant premier](./_images/imgcantiq.jpg)
+
+
 Et je publie *Curcuma* en début d'année - je suis encore à Courcy -, un album de photos prises en Inde avec des commentaires sur chaque photo.
+
+ ![Couverture de curcuma](./_images/imgcurcuma.jpg)
+
 
 En réalité, j'accumule des notes dans ce journal ou dans d’autres carnets sans les ordonner vraiment. Je ressens mieux mon écriture, sa forme et son rythme, et les moments d'écriture, par longs à-coups la nuit, les moments d'assemblage, les moments de regroupement. Ainsi je peux écrire plusieurs textes à la fois, sans les identifier vraiment à ce stade. Ce n'est qu'avec un volume conséquent de brouillons et de notes que je commence le tri et l'ordonnancement des textes. Les titres viennent en écrivant. Il n'y a pas de préalable mais les thèmes sont là et se heurtent ou se chevauchent. Parfois les jointoiements sont évidents, d'autres fois ce sont de longues tergiversations pour trouver la bonne formule. 
 
@@ -422,8 +426,10 @@ balance, ne pesons pas le pour et l'avec ; le contre et le pourtant. Quand on pe
 
 A Miami.
 
-*Requiem*, commencé en 2010, me prend de temps. Le texte est accompagné 
+*Requiem*, commencé en 2010, me prend du temps. Le texte est accompagné 
 de collages digitaux. 
+
+![Couverture de Requiem ](./_images/requiem.jpg) Chez [TheBookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
 
 *Requiem* est composé pour brouiller les pistes qui mènent à mon écriture, qui n’est jamais sincère sur le moment, qui le devient quand j’ai trouvé les chevilles pour articuler ou jointoyer les textes.
 
@@ -478,6 +484,9 @@ Renoir me laisse entrer dans sa vie.
 Je termine *Au(x) Demeurant(s).*
 Et j'écris, assez rapidement, *Le Dernier Roman,* un bout de vie de Thomas Moselly, écrivain, par lui-même.
 
+ ![Couverture de Le dernier roman](./_images/imgroman.jpg)
+Chez [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
+
 Je sais en juillet que je vais quitter Miami pour Karachi, au Pakistan. Même latitude. 
 
 Je n’ai pas vraiment trouvé ma place à Miami. 
@@ -486,7 +495,7 @@ Je voyage beaucoup et je visite plus d’une cinquantaine de villes nord-améric
 Key West a longtemps été un refuge puis les lumières sidérales des Everglades.
 
 C'est à Clearwater que j'ai reconsidéré toute mon écriture, je veux dire que j'ai pris le parti d'écrire à l'instinct sans a priori sur les directions à prendre ou les destinations à atteindre. Et j'admets enfin que l'écriture est une errance. 
-Je parcours un ciel où “je me constelle en cachette et où je possède mon infini" (Fernando Pessoa).
+Je parcours un ciel où *“je me constelle en cachette et où je possède mon infini*" (Fernando Pessoa).
 
 14 février
 Pascal Quignard écrit dans La barque silencieuse : Il n'y a pas deux aubes. Tous les matins du monde sont sans retour. Il n'y a pas deux nuits. Chaque nuit est le fond de l'espace en personne. Il n'y a pas deux fleurs, deux rosées, deux vies. 
@@ -540,13 +549,11 @@ et La Partition. Je les reprendrai dans *Figure Out, suites américaines* publi�
 ---
 
 7 janvier
-Trois raisons de partir et faire route. Une seule raison de rester : le choix est dans Les Demeurants. Le choix est dans les escaliers de Chambord à double hélice génétique
-(P. Quignard), dans la partition où tout événement la 
-ré-oriente à chaque instant (L. Louppe), dans la course de la furtive (R. Desnos), dans les abécédaires inassouvis du voyage. Je regorge d'instants là-bas à désordonner.
+Trois raisons de partir et faire route. Une seule raison de rester : le choix est dans Les Demeurants. Le choix est dans *les escaliers de Chambord à double hélice génétique*
+(P. Quignard), dans la partition où tout événement la ré-oriente à chaque instant (L. Louppe), dans *la course de la furtive* (R. Desnos), dans les abécédaires inassouvis du voyage. Je regorge d'instants là-bas à désordonner.
 
 17 janvier
-Une fois l'an, ranger ce qui sera jeté avec le vent. Sauf 
-les étoiles, sauf le silence. Sauf les horizons effilés le long des lumières blanches, sauf les bas-côtés et les talus des routes anciennes. Sauf les grands yeux verts du retour. Tout jeter de ce qui sera ordonné. Et se tenir entier à la porte ouverte.
+Une fois l'an, ranger ce qui sera jeté avec le vent. Sauf les étoiles, sauf le silence. Sauf les horizons effilés le long des lumières blanches, sauf les bas-côtés et les talus des routes anciennes. Sauf les grands yeux verts du retour. Tout jeter de ce qui sera ordonné. Et se tenir entier à la porte ouverte.
 
 25 janvier
 Il n'y a pas de silence mais des espaces bleus presque intacts. Au-dessus de soi, parfois en soi. S'échappent des bruits, des feux, des oiseaux noirs et des saveurs revenues qui retiennent un instant l'attention. Il y aurait une vie. 
@@ -579,16 +586,21 @@ J'écris peu.
 
 Je me lance dans les collages digitaux que je regroupe en saisons sous le titre *Monument Valley.* Je commence avec des collages dont les éléments sont pris 
 du Pop Art.
+ ![Couverture de Monument Valley](./_images/imgvalley.jpg)
+
+Chez [The BookEdition ](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 C'est mon frère Nicolas qui m'a initié aux peintres du Pop Art, essentiellement américains et aux peintres français de la Figuration Narrative.
 
 Je réalise ainsi une série de collages carrés, puis une série de triptyques. Je ferai deux expositions à Karachi au café-bibliothèque The Second Floor.
 
 A ce jour (2023), j'ai dessiné / assemblé / collé douze saisons qui constituent *Monument Valley.*
+ ![Triptyques mv200 Fragile ](./_images/imgfragile.jpg)
 
 Il s'agit d'une écriture encore nomade, une écriture d'images, de couleurs et de formes, une écriture qui privilégie les visions à la recherche d'un équilibre, rarement d'une signification. Elle vient de surcroit, si elle vient.
 
 A partir de 2020, chaque saison porte un titre, un thème et un texte : Saison 9, Objets mouvants / Saison 10, Mouvements de bascule / Saison 11, La charge de la preuve / Saison 12, Ce que j’en sais
+ ![Couverture de Monument Valley, saison 9- objets mouvants ](./_images/imgvalley2.jpg)
 
 ---
 
@@ -622,7 +634,13 @@ Toujours à Karachi, installé au Sind Club.
 
 Je termine *Donner un Corps* sur les peintures d’Ainee Khalid, exposées à l’Alliance française. Une peintre pakistanaise chrétienne qui peint de magnifiques femmes nues, tourmentées d’érotisme et de passion silencieuse.
 
+ ![Couverture de Donner un corps](./_images/imgcorps.jpg)
+che [The BokkEdition ](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
+
 Je commence *KHI ou déposition d’une ville* que je publierai en français en 2016 et dans une traduction anglaise en 2017. 
+ ![Couverture de KHI ou déposition d'une ville](./_images/imgkhi.jpg)
+
+Chez  [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2) 
 
 J’écris *Le Jardin Capital*, texte que je reprendrai dans le livre 1 de *Digressions du Réel* publié en 2022. Je sais, en écrivant cette suite, que le *Cantique des Cantiques* est encore à l’œuvre.
 
@@ -791,7 +809,7 @@ Deux vieilles dames, plutôt populaires, l’une assise sur un banc, la seconde 
 Passé le 11 novembre à aménager l’appartement 
 (2 pièces, une salle de bain avec douche - j’y tenais -, une petite cuisine, premier étage d’une vieille maison dans le centre de Granville, Cours Jonville). Mis des rideaux, des lumières, branché les machines, trouvé une place pour quelques affaires. Des réflexes d’utilité, de facilité et d’emmerdements minimum. Encore un meuble à déplacer, mais il ne passe pas la porte entre les deux pièces. 
 Nécessaire d’enlever la porte, je n’y arrive pas tout seul. Je n’ai pas la bonne technique ou c’est vraiment bien collé. J’ai fait pourtant des progrès dans la levée de cette porte mais c’est insuffisant. Je vais attendre Samuel qui me donnera un coup de main. J’ai le bon levier maintenant. J’ai rêvé que je re-fumais, volontairement, avec plaisir. Une Gauloise. Dans le fond du rêve il y a des paquets de Camel sans filtre. Est-ce que je vais en acheter ? La fumée est bonne, j’aspire deux ou trois fois et je m’arrête. Je range les cartouches sur de grandes étagères en bois blanc. Quel intérêt finalement, j’ai cessé de fumer et je m’en passe. Je me dis que je me réveillerai sans. C’est un rêve tout en surface, lisible.
-Bu mon premier café au lait ce matin dans cet appartement. Moment solennel et injonction d’avancer dans mes intentions. Le café était bon.
+Bu mon premier café au lait ce matin dans cet appartement. Modeste moment solennel avec injonction d’avancer dans mes intentions. Le café était bon.
 
 13 novembre
 Longue séquence d’écriture et d’assemblage. Réitération, évanescence ou la grandiose perspective qui effraie murs, vagues et dunes, jusqu’au couchant qui la porte. Sous les feux jointoyés et élevés d’une fin d’après-midi. Le froid était légèrement coupant, presque acidulé.
@@ -841,6 +859,7 @@ En revenant sur Granville, je n’ai pas vu la mer comme les autres soirs, noyé
 25 décembre
 Lu de Gilles Deleuze, Qu’est-ce que l’acte de création ? (1987) : "Il faut qu’il y ait une nécessité, sinon il n’y a rien du tout". 
 Passé du temps à mettre en ordre et en page "Ecrire & Ecriture". 
+ ![Couverture de Ecrire @ écriture ](./_images/imgecriture.jpg)
 J’arpente cette nécessité, la création nette et la résistance dont parle Deleuze. Dans l’apparence du texte, dans ce qui sourd et sursoit, dans ce qui revient et échappe comme un mot perdu, ou des mots dispersés, dans cette apparence, dans ce décor sans fond, comme un creux, le texte - qui est cette apparence - se déplie, organise les lignes que nous suivons. Je suis au pire un trublion, au mieux un doux rêveur. Dans la littérature (ou l’art du texte) tout oppose le romancier au poète, le poète au philosophe, le philosophe au romancier… Le concept est une représentation mentale d’une formule immatérielle originale que le cerveau déplie dans ses circonvolutions. La matière est pure productrice de concepts. La matière m’en impose. Ni les uns, ni les autres ne manient avec autant d’ardeur l’intrication des concepts dans l’écriture que celui qui se hasarde sur les chemins de sa propre écriture. Qui chemine dans les détours, les croise, les enchevêtre et délibère dans des perspectives désarçonnantes.  (Je vais enfin me résoudre à écrire, pensa-t-il, en faire un acte d’existence et accepter l’idée qu’écrire n’est pas perdre du temps, mais en gagner sur ce qui vient.)
 "Ecrire & Ecriture" (Vol. II de Les Dissonances) est une défibrillation de ce qui restait non-dit. Mais le dire sans plus de mots, ni d’exemples que le texte lui-même. Un concept est toujours un ré-agencement, ce que l’essayiste sait le mieux faire.
 
@@ -869,7 +888,9 @@ en 2022.
 
 Cette année là je publie *Compositions, notes et poèmes* qui comprend tous les textes écrits entre 1974 et 1978.
 
-Nous éditons avec Gilles NC - *49.78 / Volume 1, NC-49.69*. Ce livre retrace les vingt premières années de la vie de Nicolas, notre frère. Le texte principal est de Nicolas, rédigé vraisemblablement entre 1972 et 1973, à la demande de son médecin. 
+Nous éditons avec Gilles *NC - 49.78 / Volume 1, NC-49.69*. Ce livre retrace les vingt premières années de la vie de Nicolas, notre frère. Le texte principal est de Nicolas, rédigé vraisemblablement entre 1972 et 1973, à la demande de son médecin. 
+ ![Couverture de NC -49.78 <Vol1 ](./_images/imgnc2.jpg)
+Chez [The BokkEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 ---
 
@@ -903,8 +924,7 @@ se repoussent, magnifient tout ce qui tremble en nous, dans les allers-retours q
 Avez-vous remarqué que rien n’est vraiment stable ou durable ou certain ? Ce ne sera jamais comme avant est l’horizon indécidable de l’esprit qui pense, qui croit avancer, qui avance, qui efface les certitudes et se satisfait mal des simples croisements. Ils sont trop unidimensionnels. 
 Il faut ajouter ou empiler plusieurs dimensions pour fragmenter ce jamais comme avant qui est la pierre angulaire du changement et de la différence.
 C’est bien d’altérité qu’il s’agit. Que l'on imagine quelque changement dans la forme ou la position de l'objet connu : en glissant sur lui avec sa rapidité ordinaire, le sens percevra tout de suite le changement, et s'arrêtera dans sa course ; mais le rapport d'altérité suppose bien celui d'identité perçue auparavant. (Maine de Biran, De l'influence de l'habitude sur la faculté de penser).
-Affichons un principe d’indécidabilité qui sera la ligne des accidents (comme des rêves accidentels) de notre 
-perception. (Indécidabilité : propriété d'une théorie 
+Affichons un principe d’in-décidabilité qui sera la ligne des accidents (comme des rêves accidentels) de notre perception. (Indécidabilité : propriété d'une théorie 
 dans laquelle il n'existe pas de procédé effectif permettant de décider, pour toute formule, si elle est ou non démontrable.)
 Ce que dit l’altérité c’est que ce ne sera jamais comme avant.
 Note de fin de soirée : Il y a toujours un regard tiers dans une photo, qui pourrait être étranger ou voyeur, qui ne l’est pas, qui participe par son regard (sa photo) à la scène. 
@@ -916,6 +936,7 @@ Rien ne me prouve que les événements en question sont la suite (la bonne suite
 Tout cela est bien alambiqué, on peut donc dire indécidable car il n’y a pas (selon le principe d’indécidabilité) de procédé permettant de décider s’il existe une vérité démontrable de cette suite des événements (au sens où il pourrait y avoir une suite qui serait démontrée vraie OU une suite démontrée fausse ou en dialectique quantique, vrai ET fausse à la fois, ce qui serait une singularité des événements, un trou noir !). Je ne sais pas si la suite des événements est vraie ou fausse.
 
 Demain, je m’attaque à la poésie.
+
 5 janvier
 Pas eu le temps de penser poésie. La vision que j’en ai est délicate. C’est quoi un poète ? C’est quoi un poème ? Y en a qui parle de poétique. C’est quoi ?
 J’invoquerai quelques sources et ressources.
@@ -1004,9 +1025,7 @@ Ou ce que nous disons
 Quelle conséquence ?
 
 19 janvier
-Les rêves ne tombent jamais en vrac. La structure 
-hiérarchique compositionnelle.  La compositionnalité existe car il y a des lois, sinon Dieu existe. (Application de l’organisation hiérarchique du discours - linguistique - au domaine du fonctionnement de l’intelligence - voir : [http://www.analyse-du-discours.com/structure-hierarchique-du-discours]. Un auteur est un catalyseur de silences 
-entrelacés de ne pouvoir les raconter.
+Les rêves ne tombent jamais en vrac. La structure hiérarchique compositionnelle.  La compositionnalité existe car il y a des lois, sinon Dieu existe. (Application de l’organisation hiérarchique du discours - linguistique - au domaine du fonctionnement de l’intelligence - voir : [http://www.analyse-du-discours.com/structure-hierarchique-du-discours]. Un auteur est un catalyseur de silences entrelacés de ne pouvoir les raconter.
 
 20 janvier 
 Tu es la première de mes énièmes…
@@ -1038,8 +1057,7 @@ La destruction des cadeaux.
 Le tri, le classement, l’attribution, le rangement, les résolutions de dernière minute. Ce qu’il faut d’indécision pour terminer un héritage. 
 
 6 février
-Les minutes de la réalité sont parfois difficilement 
-imaginables. Ce qui tombe droit dans l’horreur est toujours de l’horreur.
+Les minutes de la réalité sont parfois difficilement imaginables. Ce qui tombe droit dans l’horreur est toujours de l’horreur.
 
 7 février
 Bleu est un collage. Une décision picturale et scripturale rigoureuse, droite. Il en reste les larmes de la fin, devenues. Ce sera un des volumes à venir dans la série Les dissonances. 
@@ -1052,8 +1070,7 @@ Arborescence de la solitude, ça part évidemment dans tous les sens. Didier Loc
 Tout ça nous dépasse, bien évidemment. Ce qui en restera tiendra dans une tête d’épingle, l’univers quoi !
 
 19 février
-Ce matin, 6h30.
-Mon cerveau m’a empêché de prendre conscience ou de comprendre quelque chose au sujet de la mort. Senti physiquement un effacement de mes pensées, efface-ment et lissage méthodique de toutes les strates de synapses de mon cerveau. C’était très construit et déterminé, ça a duré une fraction de seconde que j’ai ressentie, comme un ébranlement des restes de la nuit.
+Ce matin, 6h30.Mon cerveau m’a empêché de prendre conscience ou de comprendre quelque chose au sujet de la mort. Senti physiquement un effacement de mes pensées, efface-ment et lissage méthodique de toutes les strates de synapses de mon cerveau. C’était très construit et déterminé, ça a duré une fraction de seconde que j’ai ressentie, comme un ébranlement des restes de la nuit.
 Le cerveau fonctionne selon des strates ou des disques empilé.e.s de haut en bas. Tous.tes ont vibrillé.e.s, l’un.e après l’autre pour effacer ce que j’étais en train de comprendre (était-ce un reset ?). J’allais voir la mort, ce que mon cerveau n’a pu admettre. Pour me mettre à l’abri ? Pour me cacher autre chose, la suite de la vie ?
 La sensation était à la fois une soulagement et une frustration. J’étais provisoirement sauvé mais au prix d’un savoir qui m’était soustrait. Mon cerveau a fonctionné et réagi indépendamment de ma conscience et de mon propre vouloir. En quelque sorte dépossédé, mais remis à neuf. Etait-ce que j’allais mourir et qu’un instinct plus fort a ré-agencé la vie en moi ?
 
@@ -1136,8 +1153,7 @@ Je suis assez d’accord pour dire que matière et sentiments ont quelque chose 
 Et pourtant combien sont puissants nos sentiments qui, toute notre vie, se sont battus pour nous redresser et nous donner à penser. Matière et sentiments, la peur de comprendre. Car nous manquons singulièrement d’esprit, d’a-propos et d’intelligence.
 
 17 mai
-Au fond du ciel, ce qui n’est pas une vision devient un mot puis d’autres mots, une suite, des suites qui se 
-succèdent, qui découlent de cette absence de vision, qui était une vision quand même de quelque chose d’important, peut-être de fondamental, participation nécessaire à une vision qui ne dit pas son nom. Et la suite de mots égrène seule ce qu’elle a à dire. Quelles sont les significations qui n’ont pas besoin de vision, de cette vision qui n’en est pas une et pourtant vient du fond du ciel comme tous les mots qui ont été son support, sa manière d’apparaitre.
+Au fond du ciel, ce qui n’est pas une vision devient un mot puis d’autres mots, une suite, des suites qui se succèdent, qui découlent de cette absence de vision, qui était une vision quand même de quelque chose d’important, peut-être de fondamental, participation nécessaire à une vision qui ne dit pas son nom. Et la suite de mots égrène seule ce qu’elle a à dire. Quelles sont les significations qui n’ont pas besoin de vision, de cette vision qui n’en est pas une et pourtant vient du fond du ciel comme tous les mots qui ont été son support, sa manière d’apparaitre.
 
 9 juin
 Il n’y a pas de différence entre le réalisme et le fictionnel. Tous deux sont des principes de description de la réalité. Il n’y a rien d’autre en dehors de ça.
@@ -1159,8 +1175,7 @@ Profond ennui, ennui profond. Rien de décidable !
 Un petit mieux, lecture. On n’écrit pas tout.
 
 15 août
-Décidément, persévérance nulle, de la pure réactivité négative, de la paranoïa rudimentaire, tourner en rond 
-et s’assoupir. Triste présage, triste érosion.
+Décidément, persévérance nulle, de la pure réactivité négative, de la paranoïa rudimentaire, tourner en rond et s’assoupir. Triste présage, triste érosion.
 
 Revenir par petites bribes successives. Ce qui n’est pas en doute, ni en interrogation : continuer. Endosser toutes les imperfections, démembrer les rêves.
 
@@ -1181,32 +1196,32 @@ On dit le monde va mal. Il va, simplement, pas toujours comme on le souhaiterait
 1er Septembre
 Je recopie :  
 Titre de livres (Introuvables en librairie) :
-L’injonction à l’orgasme - l’échange amoureux dans la pornographie  
-Le négoce de l’esthétique - Histoire et géographie de l’apparence  
-La destinée trompeuse des apparences, dictionnaire raisonné de la vraisemblance  
-Peter Martin Gregor Heinrich Hellberg alias Igael Tumarkin  
-Du tout mou au très dur, une histoire littéraire de l’érection  
-L’amour et instinct de propriété  
-La dimension spirituelle du dé à coudre. Pour une écologie du raccommodage.  
-La vertu ne serait qu’un pis-aller et la bonté une supercherie  
-Fumer, enfumer - les usages de la cigarette dans l’œuvre de Jim Harrison 
-La génération de l’image. Voir à la place de penser, mais voir en trop  
-Le lifting des petites lèvres (épopée d’une fente fine et sèche)  
-La double injonction, du ménage à la fellation / T1 les années 50  
-La fellation boudeuse ou la fin du ménage / T2 Les années 2000  
-La vie de Sofia Wallon racontée par son père Adrien  
-A la première incartade, récit commenté et illustré des disputes littéraires et autres caprices  
-Une rue de traverse. Généalogie du désir masculin et ses variantes  
-La place de parking ou une mort à bas prix  
-Le répertoire des idées mortes suivi de les-z-enfants-de-la-patrie  
-Le réquisitoire indulgent, Courte histoire de la critique littéraire au XXème siècle  
-Le philosophe abasourdi - le langage de la plainte chez Wittgenstein  
-La post-vérité ou les petits arrangements entre amis avec la réalité   
-Le prénom du père ou le choix cardinal  
-Le cœur scélérat - CG Jung et les femmes (les femmes au risque de l’entomologie jungienne)  
-Le destin, du sacré à l’abattage - Essai sur le sens de la boucherie  
-Les sexes dans tous leurs états - Pour une éducation à la pornographie et autres pratiques dites "déviantes"  
-La fabrique des pyramides
+*L’injonction à l’orgasme - l’échange amoureux dans la pornographie*  
+*Le négoce de l’esthétique - Histoire et géographie de l’apparence*  
+*La destinée trompeuse des apparences, dictionnaire raisonné de la vraisemblance*  
+*Peter Martin Gregor Heinrich Hellberg alias Igael Tumarkin*  
+*Du tout mou au très dur, une histoire littéraire de l’érection*  
+*L’amour et instinct de propriété*  
+*La dimension spirituelle du dé à coudre. Pour une écologie du raccommodage.*  
+*La vertu ne serait qu’un pis-aller et la bonté une supercherie*  
+*Fumer, enfumer - les usages de la cigarette dans l’œuvre de Jim Harrison* 
+*La génération de l’image. Voir à la place de penser, mais voir en trop*  
+*Le lifting des petites lèvres (épopée d’une fente fine et sèche)*  
+*La double injonction, du ménage à la fellation / T1 les années 50*  
+*La fellation boudeuse ou la fin du ménage / T2 Les années 2000*  
+*La vie de Sofia Wallon racontée par son père Adrien*  
+*A la première incartade, récit commenté et illustré des disputes littéraires et autres caprices*  
+*Une rue de traverse. Généalogie du désir masculin et ses variantes*  
+*La place de parking ou une mort à bas prix*  
+*Le répertoire des idées mortes suivi de les-z-enfants-de-la-patrie*  
+*Le réquisitoire indulgent, Courte histoire de la critique littéraire au XXème siècle*  
+*Le philosophe abasourdi - le langage de la plainte chez Wittgenstein*  
+*La post-vérité ou les petits arrangements entre amis avec la réalité*   
+*Le prénom du père ou le choix cardinal*  
+*Le cœur scélérat - CG Jung et les femmes (les femmes au risque de l’entomologie jungienne)*  
+*Le destin, du sacré à l’abattage - Essai sur le sens de la boucherie*  
+*Les sexes dans tous leurs états - Pour une éducation à la pornographie et autres pratiques dites "déviantes"*  
+*La fabrique des pyramides*
 
 Les territoires de l’écriture sont des entrelacements d'échafaudages, d'arguments et de visions. Le reste s'efface à mesure qu'il s'écrit.
 
@@ -1240,10 +1255,14 @@ A Granville.
 Installation à Hauteville-sur-Mer en novembre.
 
 Je publie *Assemblages*, suite de poèmes et collages numériques. Sera suivi en 2021 de *Toucher la terre.* J’aime articuler textes et dessins. Ecrire est un métier d’architecte et de maçon.
+ ![Couverture de Assemblages](./_images/imgassemblages.jpg)
+
+chez [TheBookEdition ](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 Je commence *Reprendre la figuration,* publié en 2020.
 
 Avec Gilles nous publions *NC - 49.78 - Vol 2,* les peintures 65.76 et quelques poèmes qui reprend toutes les peintures de Nicolas
+ ![Couverture de NC -49.78 - les peintures](./_images/imgNC.jpg)
 
 ---
 
@@ -1292,18 +1311,78 @@ J’écris un peu en désordre. Je me disperse aussi ou je tente de rapprocher c
 Je publie la saison 9 de *Monument Valley* avec *Objets mouvants.* J’utiliserai aussi ce texte dans *Digressions du réel.*
 
 Les images et le rapport aux images m’occupent. Comme avec les Everglades.
+ ![Couverture de Les everglades II ](./_images/imgeverglades.jpg)
+
 
 On passe de confinement en confinement. Cela a-t-il du sens ?
 
 Je sors les *Croquis instinctuels*, suite de croquis sur le thème de la partition et de la répétition, deux mécaniques de la création instinctive.
 
-Je publie *Le silence     About You*, suites de dessins et de textes sur le thème des rendez-vous manqués des Everglades.
+---
 
-Je publie *Les tropiques bleus.* Le titre vient de dessins/croquis faits pour accompagner le texte composé en 29 chapitres et écrit à l’aide du générateur de texte aléatoire du site http://enneagon.org.
+
+
+ ![Couverture de Croquis Instincuels](./_images/imgcroquis.jpg)
+chez  [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
+
+Je publie *Le silence     About You*, suites de dessins et de textes sur le thème des rendez-vous manqués des Everglades.
+ ![Couverture de Le silence  about you](./_images/imgAboutyou.jpg)
+
+Je publie *Les tropiques bleus.* Le titre vient de dessins/croquis faits pour accompagner le texte composé en 29 chapitres et écrit à l’aide du générateur de texte aléatoire du site [voir](http://enneagon.org.)
+ ![Couverture de Les tropiques bleus](./_images/imgtropiques.jpg)
+chez [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 Mon journal prend la forme d’un assemblage de croquis (*Grande Suite Noire, Petite Suite Noire, Les Nuits Primaires*) et de textes.
 
 Je commence les encres de *Quelques apparences verticales* que je publierai en 2021
+ ![Couverture de Quelques apparences verticales](./_images/imgapparences.jpg)
+Chez  [The Book Edition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
+
+---
+10 juin  
+Mis un peu d’ordre dans ce journal. Bien des mois manquants ou absents… Jeté le jetable.  
+Où étais-je ? Je fais le tri des images.  
+Depuis septembre en bord de mer. Ça me va.
+
+12 juin  
+Encore quelques jours à tenir ce journal.  
+Probable, improbable, certain, incertain.  
+Trouvé le titre des textes du grand livre illustré  
+Le silence About you.  
+Retour vers les Everglades.  
+Tout ce que j’ai fait avant ou après n’efface pas  
+les lumières des Everglades.
+
+5 septembre  
+Perdu mon huitième carnet ! Retrouver les morceaux !
+
+24 septembre  
+Grand vent, petite fatigue.  
+Oublié de parler de l’infarctus de ces deux mois à  
+reprendre pied. Ce fut épisodique et dépareillé.  
+Pas d’incertitude cependant.  
+Des parutions (sorties), des publications, des dessins.  
+Les tropiques bleus, Le tiers regard, L’empreinte des ombres, Reprendre la figuration…  
+Je me déplie contre les apparences.
+
+6 novembre  
+Parution de Le Silence About You.  
+Sans dédicace, cette fois.
+
+7 novembre  
+Décidément, décidément. Je procrastine avec une ferveur. Tout à l’heure, demain, plus tard, un autre jour, dans l’éternité. Je suis dans un moment musical qui m’empêche d’écrire ou de faire des collages. Silence et vent debout en haut du ciel.
+
+---
+## 2021
+
+A Hauteville-sur-Mer
+
+Je voyage, je dessine, j’écris un peu.
+
+Le sentiment d’arriver au bout d’une histoire de mon écriture.
+
+Je publie _De quelques écritures mises bout à bout, carnet 2011-2020_. Ce n’est pas ce journal, mais des notes au long des jours, des nuits et des routes qui sont entrées dans mes livres. Perdre permet de compiler !
+ ![Couverture de Quelques écritures mises bourà bout, 011-2020 ](./_images/imgquelques.jpg)
 
 ---
 
@@ -1343,18 +1422,6 @@ Décidément, décidément. Je procrastine avec une ferveur. Tout à l’heure, 
 
 ---
 
-## 2021
-
-A Hauteville-sur-Mer
-
-Je voyage, je dessine, j’écris un peu.
-
-Le sentiment d’arriver au bout d’une histoire de mon écriture.
-
-Je publie *De quelques écritures mises bout à bout, carnet 2011-2020*. Ce n’est pas ce journal, mais des notes au long des jours, des nuits et des routes qui sont entrées dans mes livres. Perdre permet de compiler !
-
----
-
 29 mai
 Je n'ai pas de lignes de fuite en mémoire. Les apparences sont trompeuses. Les perspectives sont construites à l’inverse des sentiments. Et les îles comme refuge restent introuvables. Apparence, instinct le plus frustre, il n’y a de secret que dans les silences qui suivent la mort.  
 Apparence, figure des conventions, dans l’amoncellement des larmes et des reflets qui les irisent, c’est promiscuité de pensées fausses, de pensées hagardes, blanches, blanches, amalgame de matins froids et de réminiscences inintelligibles. Il n’y a pas pas d’ivresse sans étonnement, d’inspiration sans exaltation, pas de sentiment sans crainte.  Apparence, emportement et volte-face des vérités, toutes les mues sont des palinodies de l’éternel. 
@@ -1366,9 +1433,6 @@ Elle est convulsive.
 Je suis né en 1954 (le lundi 29 - ou le XXIX.XI.MCMLIV). A ce jour, le 30 mai 2021 à 17h , j’ai vécu 582 936 heures ou 24 289 jours ou 3 469 semaines ou encore 798 mois). Ce jour là, Vénus est en conjonction avec Saturne à 0h, à 2°32’ (mais ça signifie quoi ?).
 
  ![Dans Croquis Instinctuels ](./_images/croquis.jpg)
-
-
-
 
 Le 1er novembre 1954 des attentats éclatent dans toute l’Algérie (la Toussaint rouge). C’est le début de la guerre d’Algérie. Cette guerre, comme toutes celles qui ont suivi dans le monde, m’a été épargnée et j’ai vécu dans un monde relativement calme, loin des atrocités des conflits. Cela fait 70 ans. Je dois aux hommes politiques de l’époque (Robert Schuman et Jean Monnet, Konrad Adenauer et Charles de Gaulle en particulier … et d’autres) la chance de vivre dans une Europe pacifiée, commune, unique. Ce fut la chance de toutes les générations nées après la Seconde Guerre Mondiale. Nous ne mesurons pas suffisamment cette chance qui a donné - aussi - à la France une place encore enviée dans le monde. Je peux témoigner de l’attrait que ce pays 
 garde - encore aujourd’hui - auprès de quelques jeunes générations étrangères. 
@@ -1391,9 +1455,7 @@ Le 29 novembre, Albert Camus est avec le comte Ferdinando Visconti di Modrone au
 
 Henri Matisse et Enrico Fermi meurent en novembre 1954. La même année disparaissent Auguste Lumière, Robert Capa,  Alan Turing, Frida Kahlo, Colette...
 
-On peut dire aussi du 29 novembre 
-que c’était un lundi. Et sous le signe du Sagittaire, je nais.
-Le président américain était Dwight D. Eisenhower (républicain), le premier ministre britannique était Sir Winston Churchill (conservateur), le chancelier allemand est Konrad Adenauer, le pape Pie XII dirigeait l'Église catholique et le premier ministre israélien est Moshe Sharett (un peu oublié, il est un des pères fondateurs de l’orientation sioniste socialiste de l’Etat d’Israël). En France, René Coty est président de la république et Pierre Mendès France, président du Conseil, chef du gouvernement (en juillet 1954, avec les accords de Genève, il mettra fin à la guerre d’Indochine. Il rétrocèdera les cinq comptoirs français à l’Inde). Parmi les personnes plus ou moins connues nées ce jour-là figurent Joel Coen (cinéaste, les Frères Coen) et Dominique Richard (homme politique français). La même année naîtront, entre autres, Angela Merkel, Katherine Pancol, David Grossman. En cette semaine spéciale de novembre, les Américains écoutaient Let Me Go, Lover ! de Joan Weber. Au Royaume-Uni, Let's Have Another Party de Winifred Atwell était dans le top 5 des hits. Deep in My Heart, réalisé par Stanley Donen, est l'un des films les plus vus en 1954, tandis que No Time For Sergeants de Mac Hyman est l'un des livres les plus vendus. En France, J'ai rendez-vous avec vous (Patachou), Putain de toi (Georges Brassens), La goualante du pauvre Jean (Édith Piaf), Le piano du pauvre (Catherine Sauvage), Graine d'ananar (Léo Ferré) figurent au top des chansons les plus écoutées. Et durant cette année, Simone de Beauvoir reçoit le prix Goncourt pour Les mandarins, Pauline Réage publie Histoire d’O et Françoise Sagan Bonjour Tristesse. Et le 1er décembre 1954, Ernest Hemingway reçoit le prix Nobel de littérature.
+On peut dire aussi du 29 novembre que c’était un lundi. Et sous le signe du Sagittaire, je nais. Le président américain était Dwight D. Eisenhower (républicain), le premier ministre britannique était Sir Winston Churchill (conservateur), le chancelier allemand est Konrad Adenauer, le pape Pie XII dirigeait l'Église catholique et le premier ministre israélien est Moshe Sharett (un peu oublié, il est un des pères fondateurs de l’orientation sioniste socialiste de l’Etat d’Israël). En France, René Coty est président de la république et Pierre Mendès France, président du Conseil, chef du gouvernement (en juillet 1954, avec les accords de Genève, il mettra fin à la guerre d’Indochine. Il rétrocèdera les cinq comptoirs français à l’Inde). Parmi les personnes plus ou moins connues nées ce jour-là figurent Joel Coen (cinéaste, les Frères Coen) et Dominique Richard (homme politique français). La même année naîtront, entre autres, Angela Merkel, Katherine Pancol, David Grossman. En cette semaine spéciale de novembre, les Américains écoutaient Let Me Go, Lover ! de Joan Weber. Au Royaume-Uni, Let's Have Another Party de Winifred Atwell était dans le top 5 des hits. Deep in My Heart, réalisé par Stanley Donen, est l'un des films les plus vus en 1954, tandis que No Time For Sergeants de Mac Hyman est l'un des livres les plus vendus. En France, J'ai rendez-vous avec vous (Patachou), Putain de toi (Georges Brassens), La goualante du pauvre Jean (Édith Piaf), Le piano du pauvre (Catherine Sauvage), Graine d'ananar (Léo Ferré) figurent au top des chansons les plus écoutées. Et durant cette année, Simone de Beauvoir reçoit le prix Goncourt pour Les mandarins, Pauline Réage publie Histoire d’O et Françoise Sagan Bonjour Tristesse. Et le 1er décembre 1954, Ernest Hemingway reçoit le prix Nobel de littérature.
 
 5 juin
 CE QUI RESTE DE LA MÉMOIRE
@@ -1426,13 +1488,11 @@ Je reprends ce journal, qui n’est pas un journal. Il y manque la régularité 
 J'écoute Friedrich Gulda et son Concerto for Ursula. Excitant, suivi du Concerto n° 5 de Beethoven, magique.
 
 30 juin
-Bascule, mouvement de bascule.
-Répétiton, mouvement de répétition.
+Bascule, mouvement de bascule. Répétiton, mouvement de répétition.
 La lumière est une lumière de fin du monde. On peut se l’imaginer, enveloppée des derniers bruits et des derniers parfums de la terre.
 Rien ne finit, pourtant. Bascule, répétition.
 Le désir est surveillé, c’est ce qui reste de nos mensonges et de notre civilisation.
-Le printemps se mélange à l’été. Tout revient à cette 
-prémonition des voyageurs : s’égarer, écrire les contes des feuillages et de l’eau, s’évanouir.
+Le printemps se mélange à l’été. Tout revient à cette prémonition des voyageurs : s’égarer, écrire les contes des feuillages et de l’eau, s’évanouir.
 Ecrire avec le loriot éveillant. Garde, garde l’oiseau magique loin de l’instinct mortel qui ébranle le cœur et la matière des sentiments. 
 Bascule et répétition jusqu’au fond du monde.
 
@@ -1449,8 +1509,7 @@ Il n'y a pas d'obstacle
 
 Les interférences sont implacables
 
-Nos rêves sont des silences, des inventions de silence qui n’admettent rien que le tournoiement du ciel, 
-un seul ciel remué, une seule obsession d’un ciel qui ne supporte pas le vide
+Nos rêves sont des silences, des inventions de silence qui n’admettent rien que le tournoiement du ciel, un seul ciel remué, une seule obsession d’un ciel qui ne supporte pas le vide
 
 Où la poussière est devenue une ombre. Et il faut apprendre à respirer dans cette ombre, rester debout.
 
@@ -1497,9 +1556,12 @@ Le 24 février, la Russie envahit l'Ukraine. La folie humaine est illimitée et
 si banale. On aura vécu un peu plus de 70 ans sans conflit majeur sur le territoire européen.
 
 Avec Gilles nous avons repris les livres d'Emile Moselly, notre arrière-grand-père, prix Goncourt 1907, avec l'intention de ré-éditer son œuvre complète. Fascinant travail qui permet de découvrir cette famille lorraine dont nous venons et d'explorer la charnière entre le XIX° et le XX° siècle. 
+[En savoir plus](https://darkness.chenin.fr/emile-moselly/edition/)
 
 Je publie *Figuration de l'absent* écrit en 1978 à la suite de la mort de Nicolas. 
 Il avait 29 ans. J'ai mis du temps à "accepter" ces textes.
+ ![Couverture de Figuration de l'absent](./_images/imgfiguration.jpg)
+Chez[The BookEdition](https://www.thebookedition.com/fr/figuration-de-l-absent-p-392306.html?search_query=chenin&results=48)
 
 Je publie aussi *Avant de tomber* qui rassemble une grande partie des poèmes écrits entre 2013 et 2021.
 
@@ -1507,8 +1569,7 @@ Je termine l'année avec *La Morte aux Charmes* (que je reprendrai l'année suiv
 
 Après 2022, il n’y a plus de journal.
 
- Il y a quatorze ans j’ai commencé ce journal. Je n'y 
-suis pas, je viens, je prends, je pars, j'évite, je me déroute. 
+ Il y a quatorze ans j’ai commencé ce journal. Je n'y suis pas, je viens, je prends, je pars, j'évite, je me déroute. 
 Pas vraiment fait pour ça. Faire fin.
 
 Ce que nous devinons du temps. 
@@ -1559,7 +1620,7 @@ La suite à la main… Faudra saisir, se ressaisir pour dessaisir la parole de s
 Grande campagne !!
 Ne pas oublier les intercalaires de l'avant et de l'après.
 
-[En écoutant la musique de Zbigniew Preisner du film A woman in Berlin]
+(En écoutant la musique de Zbigniew Preisner du film A woman in Berlin)
 
 Arrêter les jours, accroitre l'incertitude. Préférer l'absence de datation. Il n'y a pas d'archéologie de l'écriture vagabonde, de suite en suite. Un archivage par empilement.
 
@@ -1575,13 +1636,13 @@ Ce qui serait une défense, un argument supplémentaire pour se démettre, s'év
 retombent. La magie est antérieure au silence qui en revient. Surprise et balancement. Une folie qui ne dit pas son nom, sa redevance. Martel en tête du désordre sur la place d'abondance. Frange et vents contraires.
 
 Journal - Sans la durée, sans l'espace, sans les balises qui nous situaient
-		entre les îles
-		dans les yeux
-		qui se déroutent
-		des regards.
-		Réel vs réalité
+entre les îles
+dans les yeux
+qui se déroutent
+des regards.
+Réel vs réalité
 Journal d'une réserve dépassée
-		Représentation vs perception
+Représentation vs perception
 Ecrire en déplacement.
 Ecrire où les chemin s'enchevêtrent.
 
@@ -1595,12 +1656,11 @@ Que ferions-nous si nous avions toute la mémoire de tout à notre disposition ?
 
 POSSIBLE VÉRITÉ 
 
-Où se trouve la porte qui permet de  passer les intempéries, les brusques détours des orages ou du mental, des orgies mentales et des mises à jour
-mais nous ne sommes pas vraiment vivants     nous nous déplaçons     nous exultons     et si     et si     et si 
+Où se trouve la porte qui permet de  passer les intempéries, les brusques détours des orages ou du mental, des orgies mentales et des mises à jour mais nous ne sommes pas vraiment vivants     nous nous déplaçons     nous exultons     et si     et si     et si 
 nous ne sommes pas dominés, nous nous égarons entre les tombes et les arbres 
 décharnés, nous dansons parfois
 et nous avons oublié les pas d'un tango ou d'une salsa. nous devenons muets et mélancoliques. Nous sommes muets et mélancoliques. 
-	nous dériverons 
+nous dériverons 
 un piano - Waldstein, second mouvement  
 A-t-on besoin de verité ? cette vérité
 Nous parlons peu ou pas réellement ou dans le désordre des circonstances, dans une intimité dérangeante, ancienne, très loin de nos sentiments.
@@ -1661,12 +1721,12 @@ des réverbérations
 infinies. Tête haute, toujours des vertiges à n'en plus finir, des vagues sur 
 des vagues, des vagues sur les crêtes du vent, des vagues amoncelées sur les 
 lumières des soubassements  
-                       Parfois  
-                       les vents sont contraires  
-                       et on renverse les arguments  
-                       on devient pauvre hésitation  
-                       du renoncement.  
-                             
+   Parfois  
+   les vents sont contraires  
+   et on renverse les arguments  
+   on devient pauvre hésitation  
+   du renoncement.  
+ 
 Parfois si on oublie, martel en tête des révolutions à  
 venir, martel en tête des noyades et des enlisements. 
 Fenêtre sur les rives basses de la rivière, ouverture 
@@ -1704,16 +1764,17 @@ en travers, de toutes parts
 on ne faisait plus semblant 
 s'arrimer est encore une solution au moment où tout s'efface 
 l'instabilité n'est jamais naturelle elle organise 
-													les fuites 
-                                                     les arrangements  
-                                                      les détournements  
-                                                      les appareillages  
+les fuites 
+ les arrangements  
+les détournements  
+  les appareillages  
 l'instabilité est par nature une revendication. 
 Tous ces mirages qui sont devenus nos chemins d'assemblage.  Nous avons tant à nous dire et nous avons pris le temps de poser les balises, d'allumer des feux adjacents, d'étoiler l'horizon en face de nous. Nous avons pris le temps de cet assemblage, de reporter nos souffrances à d'autres endroits, pour plus tard, d'effacer cette rancœur qui nous défigure, d'apaiser nos ressentiments, de les élever en aveu.   
 
 Question... ... ... ... ... ... 
 
 La répétition  LOVE LIFE LOVE LIFE LOVE LIFE LOVE LIFE LOVE LIFE LOVE LIFE LOVE sur le  mur  assoiffé de soleil. Reprise à temps. 
+ ![Couverture de Love life, Collages](./_images/imglovelife.jpg)
 Nous n'étions certains de rien. Notre avance était 
 incommensurable, elle tenait dans l'infini de nos rêves. Nous pouvions bousculer l'univers d'un coup d'épaule. 
 La matière s'amasse dans les ombres. Elle en devient vivante, immensément vivante, et elle tient si peu de place que notre corps lui suffit. 
@@ -1735,14 +1796,14 @@ séparent, nous éloignent, nous dépossèdent.
 Nous avons renoncé à nos revendications. Les huées montent en grappes racoleuses. ECHO ECHO ECHO. La dévotion est une erreur. La dévotion est une élimination brutale du cœur en nous.
 
 Mais avions-nous encore un cœur
-                      un désir d'abandon  
-                                un point de départ, une évidence  
+un désir d'abandon  
+   un point de départ, une évidence  
 Dessus, dessous, monter, descendre 
-                              le bourdonnement est incessant  
-                                                            aliénant, bruit  
+  le bourdonnement est incessant  
+  aliénant, bruit  
 Les nitescences de la lumière sont les postiches d'un arsenal qui nous détruira. 
 Nous ne serons même pas dans la confidence 
-                     l'étymologie de confidence est confiance.  
+ l'étymologie de confidence est confiance.  
 
 Il nous restera à déguerpir de ces nuits frelatées 
 		DE PROFUNDIS 
@@ -1759,14 +1820,12 @@ Elle sera démontée pièce par pièce. Décomposition des structures qu'elle ab
 
 Sais-tu où nous sommes cachés ? Tu nous cherches, 
 il nous cherche. La machine est  en réalité une incidence au mouvement de la terre. Il n'y a rien à chercher. Il n'y a rien à dire. 
-Une insouciance répétée, qui prend la forme d'une 
-escapade.  Oui, j'ai pensé à une fugue et aux couleurs d'un ciel fermé. A la fin du visible, il y a encore des traces noires qui effilent le ciel, qui s'ébruitent dans l'infini. Qui dessinent les filigranes des feuillages du vide. Le temps est silence, le temps est muet, ainsi il nous immobilise ou nous traîne vers des îles désertées, mouvantes contre les vagues qui les portent encore. Le temps n'est jamais une parole, jamais des mots, juste le silence. 
+Une insouciance répétée, qui prend la forme d'une escapade.  Oui, j'ai pensé à une fugue et aux couleurs d'un ciel fermé. A la fin du visible, il y a encore des traces noires qui effilent le ciel, qui s'ébruitent dans l'infini. Qui dessinent les filigranes des feuillages du vide. Le temps est silence, le temps est muet, ainsi il nous immobilise ou nous traîne vers des îles désertées, mouvantes contre les vagues qui les portent encore. Le temps n'est jamais une parole, jamais des mots, juste le silence. 
  
 Les apparences sont contre nous, dit-on. Les apparences sont des jeux de pouvoir dans les réalités qui viennent jusqu'à nous. Où des jeux de miroir qui, tendus de toutes les directions que nous tentons de prendre, explosent. Exploser en plein vol, dit-on. Magie des destinations que nous ignorons encore. Magie des répétitions qui nous submergent de sa houle bleu-noir, sirop sombre du ciel qui s'y engloutit. Je n'ai pas vraiment peur. Il faut aimer les invectives même vides (laisser une ligne vide), invectives gratuites des masses humaines, invectives du fond du monde sombre. 
 Toujours les apparences sont contre nous. 
 Ne raconte pas ce que tu sais. Ne dis rien. Joue sur les mots, donne plusieurs versions pour brouiller les pistes, mélange les heures, les lieux, les sensations et les sentiments. Ne te laisse pas aller aux confidences ou alors des confidences déportées, intraduisibles. Sois bruyant excessivement, reste silencieux profondément. Martèle que le vide est ce qui reste du souffle du monde, défends une vision de nos relations arrachée des limbes les plus lointaines. Fuis, fuis les instants qui ne viennent plus naturellement. 
-Affecte de penser que ta parole n'est pas sûre. Affiche ton doute. Des bras pour soulever la terre, du souffle pour remonter le silence.  Après la nuit est une façade, un bout de muraille que personne ne sait franchir, ou une vitrine sur des poinçons fichés dans le fond noir du magasin. Les enfants aiment les étoiles des bords de leurs rêves. Ils savent où placer leurs mains pour les 
-ramasser, devenir en somme, devenir ce dont ils n'ont jamais douté        des rivières        du ciel. 
+Affecte de penser que ta parole n'est pas sûre. Affiche ton doute. Des bras pour soulever la terre, du souffle pour remonter le silence.  Après la nuit est une façade, un bout de muraille que personne ne sait franchir, ou une vitrine sur des poinçons fichés dans le fond noir du magasin. Les enfants aiment les étoiles des bords de leurs rêves. Ils savent où placer leurs mains pour les ramasser, devenir en somme, devenir ce dont ils n'ont jamais douté        des rivières        du ciel. 
 DU CIEL, BIEN ÉVIDEMMENT    Ils ont martel en tête, comme moi, comme toi, ils miroitent et bouleversent l'ordre autorisé, le seul ordre possible. Ils ne savent pas, alors ils dérangent et changent l'ordre souvent indécent de la réalité. 
 RÉPÉTER : IL FAUT S'ATTACHER À NOS DÉRIVES ET 
 DÉBUSQUER LES FAUX RÊVES ET LES DERNIERS DÉSIRS. ÊTRE DANS LE FEU, ÊTRE LE FEU. 
@@ -1804,8 +1863,7 @@ Une boîte sans couvercle ni serrure.
 Elle est à elle-même son secret. 
 Les transitions sont les secrets de cette histoire.  
 Les passages, les couloirs, passerelles et escaliers.  
-Au bout d'un crescendo inévitable, fou, barbare l'impression fugace d'une explosion, un fort tremblement dans la
-poitrine, un sentiment fugace - tout aussi - d'évasion.
+Au bout d'un crescendo inévitable, fou, barbare l'impression fugace d'une explosion, un fort tremblement dans la poitrine, un sentiment fugace - tout aussi - d'évasion.
 C'est un rappel des MOTS SILENCIEUX avec encombrement du langage dans les creux du cerveau.
 	Te souviens-tu ? 
 Les mots sont indélébiles à la matière. 
@@ -1830,8 +1888,7 @@ C'est une interprétation des manques à gagner de nos habitudes. Nous sommes de
 Raconte, raconte-moi              Donne les coïncidences 
 
 Tu tombes, mais tu te relèves immédiatement, tu ne retiens pas ton souffle, tu as les gestes précis, ton visage ne laisse rien voir, tu tombes encore et encore tu te 
-redresses, tu as passé une limite, celles des aveux qui plongent aux racines de ton être, tu vis bouleversé, 
-tu entres dans un nouveau monde où les obstacles sont imaginaires mais tu trébuches, tu tombes cette fois plus lourdement et tu reviens meurtri, ton bras gauche 
+redresses, tu as passé une limite, celles des aveux qui plongent aux racines de ton être, tu vis bouleversé, tu entres dans un nouveau monde où les obstacles sont imaginaires mais tu trébuches, tu tombes cette fois plus lourdement et tu reviens meurtri, ton bras gauche 
 a encaissé une forte secousse et cette douleur qui 
 vient à ton esprit te laisse haletant, désemparé aussi, 
 presque honteux, tu reprends position, tu n’as pas 
