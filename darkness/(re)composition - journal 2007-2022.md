@@ -87,13 +87,13 @@ Je pense commencer un journal pour raconter ce qui vient. Mais je tarde à m'y m
 
 Comme je vis seul, je me déroute ailleurs.
 
-J'écris peu cette année là. J'ai terminé en 2006 *Les royaumes-à-demi* et *Alep* qui figureront dans le volume *[Figures de la disparition](https://darkness.chenin.fr/darkness/figure-disparition/)* publié dans sa version définitive en 2012. 
+J'écris peu cette année là. J'ai terminé en 2006 *Les royaumes-à-demi* et *Alep* qui figureront dans le volume *Figures de la disparition]* publié dans sa version définitive en 2012. 
 
 La première version de *Figures de la Disparition* (le Vol. 1 comprend *Quentin, Roman, Exeat, Saisons, Sur la route*) paraitra en quatre petits volumes en 2008.
 
 Je travaille sur *Les Qualités Discrètes*, texte commencé en 1998 et que je terminerai en 2010 et qui figurera dans le volume *Figures des sentiments* publié en 2014.
 
-Je commence *A la pointe d'Uzès* que je terminerai en 2010 aussi et qui figurera dans *[Figure Out, suites américaines](https://darkness.chenin.fr/darkness/figures-out/)* publié en 2015.
+Je commence *A la pointe d'Uzès* que je terminerai en 2010 aussi et qui figurera dans *Figure Out, suites américaines* publié en 2015.
 
 2007 est la fin du cycle dit "la disparition". Sans vraiment en avoir une claire idée le cycle qui commence est celui des "sentiments".
 
@@ -197,7 +197,7 @@ en marge : Ton orgueil est sans mesure, ce que tu prétends être n'est pas, ce 
 
 Toujours à Courcy, le journal n'avance pas. Je sais que ce n'est pas ma tasse de thé, pour ainsi dire.
 
-En réalité très occupé à écrire la première version du *[Mouvement du Monde](https://darkness.chenin.fr/darkness/requiem/#le-mouvement-du-monde)*, texte qui sera complété plusieurs fois les années suivantes.
+En réalité très occupé à écrire la première version du *Mouvement du Monde*, texte qui sera complété plusieurs fois les années suivantes.
 
 Je commence *Grandeur Nature des Sentiments* repris dans *Figures des Sentiments*, publié en 2014, ainsi que *Quelques jours après Albuquerque*, repris dans *Figure Out* publié en 2015
 
