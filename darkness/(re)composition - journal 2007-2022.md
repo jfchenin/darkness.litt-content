@@ -889,7 +889,7 @@ en 2022.
 Cette année là je publie *Compositions, notes et poèmes* qui comprend tous les textes écrits entre 1974 et 1978.
 
 Nous éditons avec Gilles *NC - 49.78 / Volume 1, NC-49.69*. Ce livre retrace les vingt premières années de la vie de Nicolas, notre frère. Le texte principal est de Nicolas, rédigé vraisemblablement entre 1972 et 1973, à la demande de son médecin. 
- ![Couverture de NC -49.78 <Vol1 ](imgnc2.jpg)
+ ![Couverture de NC -49.78 <Vol1 ](_images/imgnc2.jpg)
 Chez [The BokkEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 ---
@@ -1322,7 +1322,7 @@ Je sors les *Croquis instinctuels*, suite de croquis sur le thème de la partiti
 
 
 
- ![Couverture de Croquis Instincuels](imgcroquis.jpg)
+ ![Couverture de Croquis Instincuels](_images/imgcroquis.jpg)
 chez  [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 Je publie *Le silence     About You*, suites de dessins et de textes sur le thème des rendez-vous manqués des Everglades.
