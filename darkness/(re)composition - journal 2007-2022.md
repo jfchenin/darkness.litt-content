@@ -889,7 +889,7 @@ en 2022.
 Cette année là je publie *Compositions, notes et poèmes* qui comprend tous les textes écrits entre 1974 et 1978.
 
 Nous éditons avec Gilles *NC - 49.78 / Volume 1, NC-49.69*. Ce livre retrace les vingt premières années de la vie de Nicolas, notre frère. Le texte principal est de Nicolas, rédigé vraisemblablement entre 1972 et 1973, à la demande de son médecin. 
- ![Couverture de NC -49.78 <Vol1 ](./_images/imgnc2.jpg)
+ ![Couverture de NC -49.78 <Vol1 ](imgnc2.jpg)
 Chez [The BokkEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 ---
@@ -1262,7 +1262,7 @@ chez [TheBookEdition ](https://www.thebookedition.com/fr/recherche?controller=se
 Je commence *Reprendre la figuration,* publié en 2020.
 
 Avec Gilles nous publions *NC - 49.78 - Vol 2,* les peintures 65.76 et quelques poèmes qui reprend toutes les peintures de Nicolas
- ![Couverture de NC -49.78 - les peintures](./_images/imgNC.jpg)
+ ![Couverture de NC -49.78 - les peintures](imgnc.jpg)
 
 ---
 
