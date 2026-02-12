@@ -1322,7 +1322,7 @@ Je sors les *Croquis instinctuels*, suite de croquis sur le thème de la partiti
 
 
 
- ![Couverture de Croquis Instincuels](./_images/imgcroquis.jpg)
+ ![Couverture de Croquis Instincuels](imgcroquis.jpg)
 chez  [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 Je publie *Le silence     About You*, suites de dessins et de textes sur le thème des rendez-vous manqués des Everglades.
