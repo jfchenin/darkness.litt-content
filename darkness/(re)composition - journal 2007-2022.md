@@ -1326,7 +1326,7 @@ Je sors les *Croquis instinctuels*, suite de croquis sur le thème de la partiti
 chez  [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 Je publie *Le silence     About You*, suites de dessins et de textes sur le thème des rendez-vous manqués des Everglades.
- ![Couverture de Le silence  about you](./_images/imgAboutyou.jpg)
+ ![Couverture de Le silence  about you](./_images/imgaboutyou.jpg)
 
 Je publie *Les tropiques bleus.* Le titre vient de dessins/croquis faits pour accompagner le texte composé en 29 chapitres et écrit à l’aide du générateur de texte aléatoire du site [voir](http://enneagon.org.)
  ![Couverture de Les tropiques bleus](./_images/imgtropiques.jpg)
