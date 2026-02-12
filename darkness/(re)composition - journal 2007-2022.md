@@ -1262,7 +1262,7 @@ chez [TheBookEdition ](https://www.thebookedition.com/fr/recherche?controller=se
 Je commence *Reprendre la figuration,* publié en 2020.
 
 Avec Gilles nous publions *NC - 49.78 - Vol 2,* les peintures 65.76 et quelques poèmes qui reprend toutes les peintures de Nicolas
- ![Couverture de NC -49.78 - les peintures](imgnc.jpg)
+ ![Couverture de NC -49.78 - les peintures](images/imgnc.jpg)
 
 ---
 
