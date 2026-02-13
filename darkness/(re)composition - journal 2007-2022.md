@@ -88,12 +88,19 @@ Je pense commencer un journal pour raconter ce qui vient. Mais je tarde à m'y m
 Comme je vis seul, je me déroute ailleurs.
 
 J'écris peu cette année là. J'ai terminé en 2006 *Les royaumes-à-demi* et *Alep* qui figureront dans le volume *Figures de la disparition* publié dans sa version définitive en 2012. 
-
+![Couverture de figures de la dispartion ](./_images/couvdisparition.jpg)
 La première version de *Figures de la Disparition* (le Vol. 1 comprend *Quentin, Roman, Exeat, Saisons, Sur la route*) paraitra en quatre petits volumes en 2008.
 
 Je travaille sur *Les Qualités Discrètes*, texte commencé en 1998 et que je terminerai en 2010 et qui figurera dans le volume *Figures des sentiments* publié en 2014.
 
+ ![Couverture de les qualités discrètes ](./_images/imgqualite.jpg)
+
+
+
 Je commence *A la pointe d'Uzès* que je terminerai en 2010 aussi et qui figurera dans *Figure Out, suites américaines* publié en 2015.
+
+ ![Couverture de A la pointe d'uzès ](./_images/imguzes.jpg)
+
 
 2007 est la fin du cycle dit "la disparition". Sans vraiment en avoir une claire idée le cycle qui commence est celui des "sentiments".
 
@@ -201,6 +208,9 @@ En réalité très occupé à écrire la première version du *Mouvement du Mond
 
 Je commence *Grandeur Nature des Sentiments* repris dans *Figures des Sentiments*, publié en 2014, ainsi que *Quelques jours après Albuquerque*, repris dans *Figure Out* publié en 2015
 
+ ![Couverture de Quelques jours aaprès albuquerque ](./_images/imgalbuquerque.jpg)
+
+
 Je sais en septembre que je repartirai en poste l'année suivante. Où ? Je ne le sais pas encore. Ce ne sera qu'en février 2009 que je connaitrai ma destination : aux U.S.A., à Miami.
 
 ---
@@ -284,6 +294,9 @@ Entre le départ de Courcy et l’installation à Miami, j'ai peu de temps pour 
 
 Je commence *Les Adolescences meurent sur les Talus* que je terminerai en 2010 et qui sera repris dans *Figures des Sentiments* publié en 2014.
 
+ ![Couverture de Les adolescences meurent sur les talus ](./_images/imgtalus.jpg)
+
+
 J'écris *Chant Premier*, ma version du *Cantique des Cantiques*.
 
  ![Couverture de chant premier](./_images/imgcantiq.jpg)
@@ -298,7 +311,9 @@ En réalité, j'accumule des notes dans ce journal ou dans d’autres carnets sa
 
 Et je me plais dans cette écriture fragmentaire qui me va bien. Beaucoup de suites que je publierai plus tard ont pour origine l'année 2009, comme *Nous sommes des silencieux, Flyovers, En dehors des retours.*
 
-A suivre
+ ![Couverture de Flyovers](./_images/imgflyovers.jpg)
+
+
 
 ---
 
@@ -346,6 +361,9 @@ Je termine *A la Pointe d'Uzès.* Il m'a fallu quatre ans pour trouver la forme 
 En exergue de *A la pointe d'Uzès,* je reporte ces remarques écrites dans mon journal : Je partageais ma vie avec des ombres qui me sont revenues de leurs rêves, des rêves en moi qui ne disaient plus rien que la présence de ces ombres et, tenu par la promesse de les extraire de la douleur qui les enserrait au tréfonds de leur réalité, j’ai réparé ce qu’elles ne disaient qu’à moi, qui me soulevait de terre.
 
 Je commence *Flyovers* qui paraîtra d'abord sous le titre de *Suites à Miami* puis repris dans dans *Figure Out* publié en 2015. Il s'agit d'instantanés journaliers sur les lieux que je visite et les personnes que je côtoie, en quelque sorte un journal dans mon journal.
+
+ ![Couverture de Suites à Miami ](./_images/imgmiami.jpg)
+
 
 Je joins à ce texte *Aparté* qui sera repris et complété sous le titre *Nous sommes des Silencieux* dans *Flyovers*.
 
@@ -411,14 +429,12 @@ De Marcel Schwob : Et parce que la douceur de l'amour est dans la caresse des ye
 Il est temps de partager nos sentiments et nos actes contre l'ignominie. Prenons date et rompons les liens. Ce qui vient sera à l'opposé de notre nature à espérer une terre sans frontières.
 
 19 septembre
-La vision d'un silence déchiré. La vision éructée d'un 
-sentiment qu'il faudra faire mourir, la vision même qui se défait et entame ce qu'elle imaginait au-delà d'elle-même. S'y reprendre à deux fois pour respirer, basculer dans l'entre-temps où se succèdent disparition, effacement, résolution du renoncement, dans l'entre-deux des craintes de perdre et du désir - enfin - de fermer les yeux.  
+La vision d'un silence déchiré. La vision éructée d'un sentiment qu'il faudra faire mourir, la vision même qui se défait et entame ce qu'elle imaginait au-delà d'elle-même. S'y reprendre à deux fois pour respirer, basculer dans l'entre-temps où se succèdent disparition, effacement, résolution du renoncement, dans l'entre-deux des craintes de perdre et du désir - enfin - de fermer les yeux.  
 A côté, de côté, sur les bas-côtés de nous mêmes, juste au bord de l'effondrement. Mais rien ne sera ainsi.
 Mais rien ne sera ainsi. Tout débutera.
 
 23 octobre
-Ne soyons pas avares de nos sentiments, ils sont rares, ils n'en restent pas beaucoup. Ne mettons pas dans la 
-balance, ne pesons pas le pour et l'avec ; le contre et le pourtant. Quand on peut regarder avec clarté, quand on peut dire sans aparté, dans l'arrière-pensée du désir... du désir, oui ! Mais qui pourrait nous croire, nous qui sommes astreints à défaire et à défaire, à perdre au bout du compte, à taire à bout de sentiment.
+Ne soyons pas avares de nos sentiments, ils sont rares, ils n'en restent pas beaucoup. Ne mettons pas dans la balance, ne pesons pas le pour et l'avec ; le contre et le pourtant. Quand on peut regarder avec clarté, quand on peut dire sans aparté, dans l'arrière-pensée du désir... du désir, oui ! Mais qui pourrait nous croire, nous qui sommes astreints à défaire et à défaire, à perdre au bout du compte, à taire à bout de sentiment.
 
 ***
 
@@ -437,7 +453,13 @@ Tous mes textes deviennent sincères avec le temps.
 
 *Requiem*, sans les collages,sera repris dans *Figure Out* publié en 2015.
 
+![Couverture de Figures Out, suites américaines ](./_images/couvfigureout.jpg)
+
 A la fin de l’année, je commence *Au(x) Demeurant(s)*. Suite que je considère la plus aboutie de ce que je vis et pense. Ce texte sera repris dans  *Figure Out*.
+
+ ![Couverture de au(x) demeurant(s)](./_images/imgdemeurants.jpg)
+
+
 
 *Requiem* est la délivrance des sentiments anciens. Quand la nuit basculée ouvre ses portes sur le feu errant.
 
@@ -644,6 +666,10 @@ Chez  [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=s
 
 J’écris *Le Jardin Capital*, texte que je reprendrai dans le livre 1 de *Digressions du Réel* publié en 2022. Je sais, en écrivant cette suite, que le *Cantique des Cantiques* est encore à l’œuvre.
 
+ ![Couverture de Le jardin capital ](./_images/imgjardin.jpg)
+
+
+
 Je fais acte de solitude au Sind Club et je bois beaucoup en compagnie chez Okra ou Côte-Rôti. Ma vie ne se désemplit pas de ses langueurs.
 
 ---
@@ -685,6 +711,10 @@ De fortes douleurs dans le dos, persistantes et inexpliquées, m’obligent à a
 Je reviens à Karachi en septembre. Je loge alors dans une petite maison chez mon ami Naseer. Les parfums et les couleurs qui m’attachent à ce pays me reprennent et m’enchainent un peu plus.
 
 J’écris un seul livre *Entre-deux* commencé à l’hôpital de Dijon, alors encore sous morphine. Ce texte figure comme livre 1 dans *Les Dissonances* publiés en 2019.
+
+ ![Couverture de Entre-deux ](./_images/imgentredeux.jpg)
+
+
 
 Le journal accueille toutes sortes de tentatives graphico-scripturales comme Le Carré. Ces exercices me reposent.
 
@@ -729,10 +759,15 @@ Septembre, retour en France. Je m'installe à Granville.
 Les derniers mois au Pakistan, j'ai surtout voyagé dans le Nord et l'Ouest du pays.
 Je me souviens des étendues empierrées et désertiques au nord de Gwadar vers la frontière iranienne.
 
+
 Je commence *Il n'y a rien c'est-à-dire il y a quelque chose de caché,* que je termine en 2018 et qui sera le livre 2 de *Digressions du Réel* publié en 2022.
+
+ ![Couverture de Il n'y a rien c'est-àdire il y a quelque chose de caché](./_images/imgyarien.jpg)
 
 *Un parfum hologramme* est écrit durant les premiers mois en France et je commence à rassembler les textes de *Ecrire & Ecriture* qui sera le livre 2 des 
 *Dissonances* paru en 2019.
+
+ ![Couverture de un parfum hologramme et autres suites](./_images/imghologramme.jpg)
 
 Le temps qu'il fait revient souvent dans ce journal.
 
@@ -883,11 +918,14 @@ J’écris, je dessine.
 
 Je prépare *Les Dissonances* (qui comprend *Entre-deux, Ecrire & Ecriture, Un parfum hologramme et autres suites, Dimension(s)*), livre édité en 2019.
 
-J’entame *Digressions du réel* (avec *Le jardin capital suivi de La réalité apparente du feu, il n’y a rien c’est-à-dire il y a quelques chose de caché, A minima - récit d’une digression et Le tiers regard suivi de l’empreinte des ombres*), qui sortira 
-en 2022.
+ ![Couverture de les dissonances](./_images/dissonancescouv.jpg)
+J’entame *Digressions du réel* (avec *Le jardin capital suivi de La réalité apparente du feu, il n’y a rien c’est-à-dire il y a quelques chose de caché, A minima - récit d’une digression et Le tiers regard suivi de l’empreinte des ombres*), qui sortira en 2022.
+
+ ![Couverture de digressions du réel](./_images/digressionscouv.jpg)
 
 Cette année là je publie *Compositions, notes et poèmes* qui comprend tous les textes écrits entre 1974 et 1978.
 
+![Couverture de Compositions, notes & poèmes ](./_images/couvpoeme.jpg)
 Nous éditons avec Gilles *NC - 49.78 / Volume 1, NC-49.69*. Ce livre retrace les vingt premières années de la vie de Nicolas, notre frère. Le texte principal est de Nicolas, rédigé vraisemblablement entre 1972 et 1973, à la demande de son médecin. 
  ![Couverture de NC -49.78 <Vol1 ](_images/imgnicolas.jpg)
 Chez [The BokkEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
@@ -1252,7 +1290,10 @@ Et encore, commencé Commencer (titre provisoire), une suite sur la peinture, le
 
 A Granville.
 
-Installation à Hauteville-sur-Mer en novembre.
+Installation à Hauteville-sur-Mer en novembre. Je publie *Thomas Moselly, une incidence ou l'invention des livres*
+
+ ![Couverture de Thomas Moselly, une incidence ou l'invention des livres](./_images/imgincidence.jpg)
+
 
 Je publie *Assemblages*, suite de poèmes et collages numériques. Sera suivi en 2021 de *Toucher la terre.* J’aime articuler textes et dessins. Ecrire est un métier d’architecte et de maçon.
  ![Couverture de Assemblages](./_images/imgassemblages.jpg)
@@ -1377,7 +1418,11 @@ Décidément, décidément. Je procrastine avec une ferveur. Tout à l’heure, 
 
 A Hauteville-sur-Mer
 
-Je voyage, je dessine, j’écris un peu.
+Je voyage, je dessine, j’écris un peu. Je termine *Toucher la terre* une nouvelle suite de poèmes et collages numériques
+
+ ![Couverture de Toucher la eterre](./_images/imgtoucher.jpg)
+
+
 
 Le sentiment d’arriver au bout d’une histoire de mon écriture.
 
@@ -1523,8 +1568,8 @@ Regarder le vie en face et la connaître pour ce qu'elle est
 et puis…. s'en défaire (Hours, film de Stephen Daldry).
 
 24 juillet
-Mon grand-père maternel, Papa Guillaume, était vannier. Un beau, très beau métier qui ne lui a pas rapporté grand chose. Je regrette de ne pas avoir appris auprès de lui quelques gestes de ce métier alors que j’avais eu tout le loisir de le faire ayant vécu un an avec mes grands-parents à Lavelanet. J’étais plus intéressé par les métiers à tisser des usines Dumont où travaillait, comme contre-maître, Tonton Marius. J’allais assez souvent dans l’atelier de Tonton Maurice, son frère, aussi tisserand, qui avait trois métiers qu’il partageait avec Claude, son fils. 
-Je rêvais à cette époque (j’ai 8-9 ans) de construire un métier à tisser et j’avais mis de côté, grâce à Tonton Marius des navettes, des lices et tout un lot de pièces diverses dans l’espoir d’en bâtir un, tout aussi performant que les machines que je voyais dans les ateliers de l’usine où j’aimais rester, passé maître en observation.
+Mon grand-père maternel, Papa Guillaume, était vannier. Un beau, très beau métier qui ne lui a pas rapporté grand chose. Je regrette de ne pas avoir appris auprès de lui quelques gestes de ce métier alors que j’avais eu tout le loisir de le faire ayant vécu un an avec mes grands-parents maternels à Lavelanet. J’étais plus intéressé par les métiers à tisser des usines Dumont où travaillait, comme contre-maître, Tonton Marius. J’allais assez souvent dans l’atelier de Tonton Maurice, son frère, aussi tisserand, qui avait trois métiers qu’il partageait avec Claude, son fils. 
+Je rêvais à cette époque (j’ai 8-9 ans) de construire un métier à tisser et j’avais mis de côté, grâce à l'oncle Marieus des navettes, des lices et tout un lot de pièces diverses dans l’espoir d’en bâtir un, tout aussi performant que les machines que je voyais dans les ateliers de l’usine où j’aimais rester, passé maître en observation.
 
 1er septembre
 Saul, Marcel, fils de Pauline Maucort et de Baptiste Chénin, est né dans la nuit du 31 août 2021 à 1h51.
@@ -1560,14 +1605,19 @@ Avec Gilles nous avons repris les livres d'Emile Moselly, notre arrière-grand-p
 
 Je publie *Figuration de l'absent* écrit en 1978 à la suite de la mort de Nicolas. 
 Il avait 29 ans. J'ai mis du temps à "accepter" ces textes.
+
  ![Couverture de Figuration de l'absent](./_images/imgfiguration.jpg)
 Chez[The BookEdition](https://www.thebookedition.com/fr/figuration-de-l-absent-p-392306.html?search_query=chenin&results=48)
 
 Je publie aussi *Avant de tomber* qui rassemble une grande partie des poèmes écrits entre 2013 et 2021.
 
 Je termine l'année avec *La Morte aux Charmes* (que je reprendrai l'année suivante dans *I95 ou la mémoire d'une nuit*). Que sommes-nous d'autre qu'une hésitation à fuir et une tentative de nous désassembler ?
+ ![Couverture de La morte aux charmes](./_images/imglamorte.jpg)
+
 
 Après 2022, il n’y a plus de journal.
+
+---
 
  Il y a quatorze ans j’ai commencé ce journal. Je n'y suis pas, je viens, je prends, je pars, j'évite, je me déroute. 
 Pas vraiment fait pour ça. Faire fin.
@@ -1587,8 +1637,6 @@ Je ne sais pas où on va, interminablement.
  ![dans Avant de tomber](./_images/assemblage.jpg)
 
 
-
-
 Ce que je sais de l'espace qui tremble, qui redevient une perle d'eau bleue, qui est la mémoire de la vague, une vague sans mesure. Cette mémoire qui vient comme une mémoire en réponse et d'autres qui sont ma parentèle.
 Toujours continuer à dire les pages, à poursuivre l'effeuillement, les rencontres et les plus improbables.
 
@@ -1596,8 +1644,8 @@ Entre-temps des naissances : EZRA, SAUL.
 Entre-temps quelques bribes d'époques passées, presque oubliées, à la charnière des jours perdus. Je mettrai tout ça à la fin.  Aucun mystère ne sera levé.
 Dans un livre de poche pour ne plus y penser.
 Un journal 	sans date
-		sans reprise
-		juste des détours
+sans reprise
+juste des détours
 ça occupe la place qu'il faut.
 
 Entre-temps des enfants sont venus nous trouver. 
@@ -1897,11 +1945,112 @@ la porte, il faut y mettre la forme et dans l’entre-deux
 où tu avances, tu énonces les décalages qui anticipent 
 tes pas, place tes rêves où ils doivent être, relève-toi, 
 relève-les, mais tu tombes et tu n'as plus le choix, garde en mémoire les instants où se tenir debout ne demandait pas d'effort, place haut ce que tu veux atteindre, et d'autres qui décident de l'avenir, des horizons très proches comme des lointains voyages, tu tombes.
-
 30 novembre 2022
 
+---
 
+10 décembre 2022
+je fais la liste de tous mes écrit, par date
+**inCOMPOSITIONS, NOTES ET POEMES, 1974-1978 (Edition 2018)**
+Vivaldi - Composition pour un été (1974)
+Uzès Devenue - Composition pour un Midi Sonnant (1974)
+Cathédrale (1974)
+Envoûtement de l’atelier - Notes pour un visage de Nicolas de Staël (1975)
+La fenêtre majeure (1975)
+L’âge illicite (1975)
+L’été, la mer - Composition pour un enfantement suivi de Notes et poèmes pour l’été, la mer (1976) 
+La porte battante ou une mémoire éventuelle (1975-1978)
+La nuit et la répétition (1978)
 
+**In FIGURES DE LA DISPARITION, 1975-2006 (Edition 2012)**
+Voisins des arpents (1975-1977)
+Quentin (1978)
+Nous voilà rencontrés, la terre et nous (1978)
+Une maison aiguisée (1980)
+Le droit-fil (1983-1996)
+Je ne mourrai pas (1994)
+In Fine (1996)
+Ce que tu fais (1995)
+Les sculptures chantent (1997)
+Saisons (1998)
+La table des étoiles (1998-1999)
+Roman (2000-2001)
+Exeat (2002)
+Dans l’atelier (2003)
+Les royaumes à-demi (2005-2006)
+Frontières (2004-2005)
+Alep (2006)
+
+**In FIGURES DES SENTIMENTS, 1998-2012 (Edition 2014)**
+Être humain (1998-2005)
+Grandeur nature des sentiments (2008)
+Les adolescences meurent sur les talus (2009-2010)
+Les qualités discrètes (1998-2010)
+En dehors des retours (2012)
+
+**In FIGURE OUT, SUITES AMÉRICAINES, 2008-2013 (Edition 2015)**
+Le mouvement du monde (2008)
+Quelques jours après Albuquerque (2008)
+À la pointe d’Uzès (2010)
+Nous sommes des silencieux (2010)
+Flyovers (2011)
+Requiem (2011)
+Au(x) Demeurant(s) (2012)
+À Renoir (2013), 
+La partition (2013)
+
+**LES DISSONANCES, 2017-2019** 
+Livre 1 - Entre-deux (2017)
+Livre 2 - Écrire & Écriture (2018)
+Livre 3 - Un parfum hologramme et autres suites (2018)
+Livre 4 - Dimension(s) (2019)
+
+**DIGRESSIONS DU RÉEL, 2015-2020 (Edition 2022)**
+Livre 1 - Le jardin capital (2015) suivi de la réalité apparente du feu (2019)
+Livre 2 - Il n’y a rien c’est-à-dire il y a quelque chose de caché (2018)
+Livre 3 - A minima, récit d’une digression (2019)
+Livre 4 - Le tiers regard suivi de L’empreinte des ombres (2020)
+
+**REPRENDRE LA FIGURATION (2020)**
+I - Dans les marges
+II - Le jeu des particularités
+III - Reprendre la figuration
+IV - La dernière fois ou l’apprentissage des rêves
+V - La célébration des anges
+VI - Possible vérité
+VII - Les ascendants telluriques
+VIII - Les dépendances
+IX - Le dernier réel
+X - Dénombrement d’un profil discret
+
+**CURCUMA** (Photos, 2009)
+**CHANT PREMIER** (2009)
+**LE DERNIER ROMAN** (2012)
+**DONNER UN CORPS** (avec Ainee Khalid, artiste peintre, 2014)
+**KHI ou DÉPOSITION D’UNE VILLE** (2016)
+**KHI or THE DESCENT OF THE CITY** (version anglaise, 2017)
+**DE QUELQUES ÉCRITURES MISES BOUT À BOUT** (2021)
+**ASSEMBLAGES** (2019)
+**TOUCHER LA TERRE** (2021)
+**AVANT DE TOMBER**, Poèmes 2013-2021 (2022)
+**LA MORTE AUX CHARMES - ÉPILOGUE** (2022)
+
+***COLLAGES ET DESSINS***
+MONUMENT VALLEY - Saison 1 (Collages digitaux, 2014)
+MONUMENT VALLEY - Saisons 2, 3 & 4 / Les triptyques 2013-2017 (Collages, H.C. 2022)
+MONUMENT VALLEY - Extraits des saisons 5, 6, 7 & 8 (Collages, 2019)
+MONUMENT VALLEY - Saison 9, Objets mouvants (Collages, 2020)
+MONUMENT VALLEY - Saison 10, Mouvements de bascule (Collages digitaux, 2022)
+MONUMENT VALLEY - Saison 11, La charge de la preuve (collages, 2022)
+MONUMENT VALLEY - Saison 12, Ce que j'en sais 2018-2021 (Collages digitaux, H.C. 2022)
+LUX TESTIMONY avec Baptiste Chénin (2001)
+THOMAS MOSELLY, une incidence ou l’invention des livres (2019)
+LES TROPIQUES BLEUS (2020)
+CROQUIS INSTINCTUELS (2020)
+LE SILENCE    ABOUT YOU (2020)
+QUELQUES APPARENCES VERTICALES 1 (2021)
+QUELQUES APPARENCES VERTICALES 2 (2021)
+LOVE LIFE (collages, H.C. 2022)
 
 
 
