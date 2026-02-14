@@ -927,7 +927,7 @@ Cette année là je publie *Compositions, notes et poèmes* qui comprend tous le
 
 ![Couverture de Compositions, notes & poèmes ](./_images/couvpoeme.jpg)
 Nous éditons avec Gilles *NC - 49.78 / Volume 1, NC-49.69*. Ce livre retrace les vingt premières années de la vie de Nicolas, notre frère. Le texte principal est de Nicolas, rédigé vraisemblablement entre 1972 et 1973, à la demande de son médecin. 
- ![Couverture de NC -49.78 <Vol1 ](_images/imgnicolas.jpg)
+ ![Couverture de NC -49.78 - Vol1 ](_images/imgnicolas.jpg)
 Chez [The BokkEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 ---
@@ -1163,7 +1163,7 @@ Pas le temps de vraiment y voir !
 Dans l’attente de cette naissance. Mathilde fait la vie avec détermination, patience et douceur. Elle a une vision d’elle-même. Elle est une résolution par elle-même. Elle construit. Les rois mages sont éparpillés dans le monde comme les anges qui nous envient notre destin mortel. Les rois mages ont cet avantage de ne rien croire et de venir seulement quand c’est nécessaire. Ils apportent l'or, l’encens et la myrrhe. Seul le dernier cadeau est signe d’humanité.
 
 1er avril
-Pluie, pluie, pluie… Fini Un parfum hologramme. Ça se tient. Ajout des Trois moments qui donne les antériorités et les à-côtés. J’avais oublié ce passage sur la mort, le cerveau et le reset. 
+Pluie, pluie, pluie… Enfin fini Un parfum hologramme. Ça se tient. Ajout des Trois moments qui donne les antériorités et les à-côtés. J’avais oublié ce passage sur la mort, le cerveau et le reset. 
 Retour à Lacan que je reprends après vingt ans d’oubli. Du langage, du discours, de l’écoute, de l’auto-écoute, de la mise en cercle, ça tourne donc.
 A la première heure de toutes les vies qui suivront, reviendra cette mémoire du voyage inachevé. En réalité, il n’y a pas un seul voyage inachevé mais plusieurs qui m’ont pris 20 ans de ma vie à rester en arrière. Inutile de les nommer.
 La lumière est matérielle, elle s’agite, va et vient, laisse des traces de ses passages. Elle est une voix qui soulève, une main qui modère, une vision traçante. Je l’héberge.
@@ -1363,7 +1363,7 @@ Je sors les *Croquis instinctuels*, suite de croquis sur le thème de la partiti
 
 
 
- ![Couverture de Croquis Instincuels](_images/imgcroquis.jpg)
+ ![Couverture de Croquis Instinctuels](_images/imgcroquis.jpg)
 chez  [The BookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
 
 Je publie *Le silence     About You*, suites de dessins et de textes sur le thème des rendez-vous manqués des Everglades.
@@ -1524,7 +1524,7 @@ REQUIEM
 L’histoire d’une mort et d’une naissance, de tous les morts en nous qu’on laisse mourir et une naissance seule. J’irai de la mort à la naissance, d’une fin à un début. J'irai seul. Mais ce ne sont pas les mêmes pages ni les mêmes haltes. Rien de commun avec nos destinations. Mort ou naissance, c'est la destination. Les morts sont des rives assombries ou des abîmes, des sonates répétées puis oubliées. Et les morts s'arc-boutent dans les pensées qu'ils nous laissent. Les morts dans les vies. Les vies sont parallèles comme les écrits, les vies se séparent et les mots disent cet écart qui grandit.
 
 28 juin
-L’écriture fragmentaire me va bien. Si l’on en croit R. Barthes - dit François Susini-Anastopoulos - orfèvre en la matière, la fragmentation serait le meilleur moyen d’exalter et de vivre ‘le bonheur du hasard, mais d’un hasard très voulu, très pensé ; épié en quelque sorte’. Cette capture, cette ‘drague’ des phrases, des citations, des formules et des fragments serait un véritable voyage du désir. (in l’écriture fragmentaire de François Susini-Anastopoulos).
+L’écriture fragmentaire me va bien. Si l’on en croit R. Barthes - dit François Susini-Anastopoulos - orfèvre en la matière, la fragmentation serait le meilleur moyen d’exalter et de vivre ‘le bonheur du hasard, mais d’un hasard très voulu, très pensé ; épié en quelque sorte’. Cette capture, cette ‘drague’ des phrases, des citations, des formules et des fragments serait un véritable voyage du désir. (in *l’écriture fragmentaire* de François Susini-Anastopoulos).
 Plus loin, citant P. Quignard : les fragments seraient alors comparables à ces petites flaques d’eau qui sont déposées sur le chemin après l’averse et que la terre n’a pas bues. Chacune d’entre elles reflètent tout le ciel, les nuages qui se sont déchirés et qui passent, le soleil qui luit de nouveau. 
 Une grande mare, ou tout l’océan, n’auraient répété le ciel qu’une fois. (in Une gêne technique à l’égard des fragments).
 
