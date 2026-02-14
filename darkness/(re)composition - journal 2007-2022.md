@@ -2015,7 +2015,7 @@ Au(x) Demeurant(s) (2012)
 À Renoir (2013), 
 La partition (2013)
 
-**LES DISSONANCES, 2017-2019** 
+**LES DISSONANCES, (2017-2019)** 
 Livre 1 - Entre-deux (2017)
 Livre 2 - Écrire & Écriture (2018)
 Livre 3 - Un parfum hologramme et autres suites (2018)
