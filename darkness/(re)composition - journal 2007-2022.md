@@ -555,6 +555,10 @@ ment du dernier train, plus loin, sans voyageur, que des
 marchandises, le roulis de la nuit et la mer bleu-vert, 
 en souvenir.
 
+ ![poèmes A l'aveugle ](./_images/nuits.jpg)
+
+
+
 ---
 
 ## 2013
@@ -770,6 +774,11 @@ Je commence *Il n'y a rien c'est-à-dire il y a quelque chose de caché,* que je
  ![Couverture de un parfum hologramme et autres suites](./_images/imghologramme.jpg)
 
 Le temps qu'il fait revient souvent dans ce journal.
+J'entreprend *Les suites noires*
+
+ ![Couverture de ](./_images/imgsuitesnoires.jpg)
+
+
 
 ---
 
@@ -926,6 +935,7 @@ J’entame *Digressions du réel* (avec *Le jardin capital suivi de La réalité
 Cette année là je publie *Compositions, notes et poèmes* qui comprend tous les textes écrits entre 1974 et 1978.
 
 ![Couverture de Compositions, notes & poèmes ](./_images/couvpoeme.jpg)
+
 Nous éditons avec Gilles *NC - 49.78 / Volume 1, NC-49.69*. Ce livre retrace les vingt premières années de la vie de Nicolas, notre frère. Le texte principal est de Nicolas, rédigé vraisemblablement entre 1972 et 1973, à la demande de son médecin. 
  ![Couverture de NC -49.78 - Vol1 ](_images/imgnicolas.jpg)
 Chez [The BokkEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin&p=2)
@@ -1282,7 +1292,7 @@ Comment décrire cette réalité du vivant ?
 Octobre
 Un journal en trop... Impossible à suivre en réalité… Et pour cause j’ai commencé une suite au Jardin Capital et j’ai largement avancé Dimension(s), le quatrième volume des Dissonances et… la table de la suite (100 feuilles de mots-clés ou phrases-partitions et de petits dessins).
 Le seuil bleu de la réalité est dressé…
-Et encore, commencé Commencer (titre provisoire), une suite sur la peinture, les photos, les collages… Histoire de relier tout ça.  Alors, ce journal va aller à son rythme. Mais c’est de moins en moins un journal. J’y reprends ce que j’omets dans d’autres textes. Ça fera un tout un jour (peut-être) je ne cherche pas forcément à exposer tout ça. Un an et un mois de retraite. Inexorablement, le temps me fuit.
+Et encore, commencé *Commencer* (titre provisoire), une suite sur la peinture, les photos, les collages… Histoire de relier tout ça.  Alors, ce journal va aller à son rythme. Mais c’est de moins en moins un journal. J’y reprends ce que j’omets dans d’autres textes. Ça fera un tout un jour (peut-être) je ne cherche pas forcément à exposer tout ça. Un an et un mois de retraite. Inexorablement, le temps me fuit.
 
 ---
 
@@ -1355,7 +1365,12 @@ Les images et le rapport aux images m’occupent. Comme avec les Everglades.
  ![Couverture de Les everglades II ](./_images/imgeverglades.jpg)
 
 
-On passe de confinement en confinement. Cela a-t-il du sens ?
+On passe de confinement en confinement. Cela a-t-il du sens ? je publie *le tiers regard* suvi de *l'empreinte des ombres*
+
+ ![Couverture de ](./_images/imgtiersregard.jpg)
+
+
+
 
 Je sors les *Croquis instinctuels*, suite de croquis sur le thème de la partition et de la répétition, deux mécaniques de la création instinctive.
 
@@ -1949,9 +1964,10 @@ relève-les, mais tu tombes et tu n'as plus le choix, garde en mémoire les inst
 
 ---
 
-10 décembre 2022
-je fais la liste de tous mes écrit, par date
-**inCOMPOSITIONS, NOTES ET POEMES, 1974-1978 (Edition 2018)**
+
+Pour finir cette année, je fais la liste par date de tous mes écrits au 10 décembre 2022
+
+**in COMPOSITIONS, NOTES ET POEMES, 1974-1978 (Edition 2018)**
 Vivaldi - Composition pour un été (1974)
 Uzès Devenue - Composition pour un Midi Sonnant (1974)
 Cathédrale (1974)
@@ -2005,13 +2021,7 @@ Livre 2 - Écrire & Écriture (2018)
 Livre 3 - Un parfum hologramme et autres suites (2018)
 Livre 4 - Dimension(s) (2019)
 
-**DIGRESSIONS DU RÉEL, 2015-2020 (Edition 2022)**
-Livre 1 - Le jardin capital (2015) suivi de la réalité apparente du feu (2019)
-Livre 2 - Il n’y a rien c’est-à-dire il y a quelque chose de caché (2018)
-Livre 3 - A minima, récit d’une digression (2019)
-Livre 4 - Le tiers regard suivi de L’empreinte des ombres (2020)
-
-**REPRENDRE LA FIGURATION (2020)**
+**REPRENDRE LA FIGURATION (Edition 2020)**
 I - Dans les marges
 II - Le jeu des particularités
 III - Reprendre la figuration
@@ -2022,6 +2032,12 @@ VII - Les ascendants telluriques
 VIII - Les dépendances
 IX - Le dernier réel
 X - Dénombrement d’un profil discret
+
+**DIGRESSIONS DU RÉEL, 2015-2020 (Edition 2022)**
+Livre 1 - Le jardin capital (2015) suivi de la réalité apparente du feu (2019)
+Livre 2 - Il n’y a rien c’est-à-dire il y a quelque chose de caché (2018)
+Livre 3 - A minima, récit d’une digression (2019)
+Livre 4 - Le tiers regard suivi de L’empreinte des ombres (2020)
 
 **CURCUMA** (Photos, 2009)
 **CHANT PREMIER** (2009)
