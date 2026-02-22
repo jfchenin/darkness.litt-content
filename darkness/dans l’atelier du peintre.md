@@ -4,6 +4,7 @@ published: 2026-02-22
 author: JFC
 updated: 2011-11-30
 tags:
+  - suites
 draft: false
 pin: 1
 toc: true
