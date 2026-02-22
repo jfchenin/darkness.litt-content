@@ -112,6 +112,6 @@ Aurait-il aimé sans étonnement ces temps si durs et si vides d’idéal, où t
 
 9.7.28 - Travailler, pour lui. Ne pas croire que l’imiter est le meilleur moyen de le servir.
 
- ![François Chénin dan la classe e son père, Lycée voltaire1911](./_images/classevoltaire.jpg)
+ ![François Chénin dans la classe de son père, Lycée voltaire,1911](./_images/classevoltaire.jpg)
 
 
