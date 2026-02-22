@@ -10,13 +10,14 @@ toc: true
 lang: fr
 abbrlink: atelierpeintre
 ---
-*J'ai compris que je ne vivrais pas éternellement. Il faut longtemps pour apprendre ça, mais, une fois qu'on le découvre, le changement intérieur est complet, on ne peut plus jamais redevenir tel qu'on était.* 
-Paul Auster, Moon Palace
 
----
 
 # dans l’atelier du peintre
 **à Mia**
+
+---
+*J'ai compris que je ne vivrais pas éternellement. Il faut longtemps pour apprendre ça, mais, une fois qu'on le découvre, le changement intérieur est complet, on ne peut plus jamais redevenir tel qu'on était.* 
+Paul Auster, Moon Palace
 
 ---
 
