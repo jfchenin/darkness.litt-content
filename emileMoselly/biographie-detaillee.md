@@ -69,7 +69,7 @@ Mercredi 17 octobre 1887 ‐ Vient d'entrer comme boursier d'internat au Lycée 
 
 Reçu à ce concours à la Faculté des Lettres de Nancy. De la rentrée 1889 à juillet 1891, il habite en meublé à Nancy et y prépare sa licence.
 
-### 1891 / Nancy ‐ Fort de Lucey [^1] 
+### 1891 / Nancy ‐ Fort de Lucey   1
 
 19              janvier ‐ Une lettre à ses parents porte l'adresse 10, rue Eugène Ferry (cahier N°4 ‐  J'habitais une maison près de la Pépinière). 21 février ‐ (lettre à ses parents) Allusion à une première œuvre que son ami Armand Blocq [5] portera à Lemerre [6].
 
@@ -359,6 +359,8 @@ La maison de Chaudeney reste vide ; il n'y retournera plus.
 
 Juillet ‐ Quelque temps dans la forêt de Fontainebleau. 
 
+16 août - L'Allemagne déclare la guerre à la France. 5-12 septembre - Bataille de la Marne.
+
 Vacances à Eaubonne.
 
 ### 1916 / Asnières
@@ -436,42 +438,43 @@ Inhumation provisoire à Lorient.
 
 1 Il convient de garder à l'esprit que l'Alsace (Bas-Rhin, Haut-Rhin) et une partie de la Lorraine (la quasi totalité de la Moselle de l'époque et une partie de la Meurthe de l'époque) sont sous régime allemand depuis le Traité de Francfort du 10 mai 1871. La partie restée française deviendra la Meurthe-et-Moselle en 1871. La frontière avec l'Allemagne s'est donc considérablement rapprochée de Nancy, Toul et Chaudeney. E.M. ne connaitra jamais une "Alsace-Lorraine" revenue à la France puisque l'Alsace et la Lorraine seront restituées en 1919.
 
-211 août 1876 - l'assemblée vote des crédits pour la formation de 19 comités d'études et de vigilance contre le phylloxéra qui ravage les vignobles français.  Originaire de l’Est des Etats-Unis, le phylloxera est un insecte piqueur apparenté aux pucerons. Il fut signalé pour la première fois en France en 1863. Au XIXème siècle, le phylloxera eut une importance économique et sociale dramatique sur la viticulture française et européenne, qui fut dévastée et qui dut intégralement se reconstruire. Le phylloxera a aujourd’hui colonisé presque tous les vignobles du monde.
+2 11 août 1876 - l'assemblée vote des crédits pour la formation de 19 comités d'études et de vigilance contre le phylloxéra qui ravage les vignobles français.  Originaire de l’Est des Etats-Unis, le phylloxera est un insecte piqueur apparenté aux pucerons. Il fut signalé pour la première fois en France en 1863. Au XIXème siècle, le phylloxera eut une importance économique et sociale dramatique sur la viticulture française et européenne, qui fut dévastée et qui dut intégralement se reconstruire. Le phylloxera a aujourd’hui colonisé presque tous les vignobles du monde.
 
-[3]: Armand Abraham Blocq, connu sous le pseudonyme de Gaston Danville, est né à Toul le 18 novembre 1870, décédé à Paris le 4 septembre 1933 et inhumé à Toul le 16 septembre 1933. Figure littéraire de la fin du XIXe siècle, il est surtout resté  le collaborateur fidèle des premières années du célèbre _Mercure de France_,  revue littéraire à laquelle il participe dès 1891 et dans laquelle il publie ses _Contes d’au-delà_, particulièrement précieux pour qui étudie de près le fantastique fin-desiècle et ses airs de corruption. Armand Blocq sera un des témoins de mariage de E.M. avec Marie Barthélémy.
+3 Armand Abraham Blocq, connu sous le pseudonyme de Gaston Danville, est né à Toul le 18 novembre 1870, décédé à Paris le 4 septembre 1933 et inhumé à Toul le 16 septembre 1933. Figure littéraire de la fin du XIXe siècle, il est surtout resté  le collaborateur fidèle des premières années du célèbre _Mercure de France_,  revue littéraire à laquelle il participe dès 1891 et dans laquelle il publie ses _Contes d’au-delà_, particulièrement précieux pour qui étudie de près le fantastique fin-desiècle et ses airs de corruption. Armand Blocq sera un des témoins de mariage de E.M. avec Marie Barthélémy.
 
-[3]:Alphonse-Pierre Lemerre, né le 9 avril 1838 à Canisy, mort le 15 octobre 1912  à Paris. Editeur français réputé pour ses éditions des poètes parnassiens.  Il publia également des anthologies de grands auteurs classiques et romantiques.
+4 Alphonse-Pierre Lemerre, né le 9 avril 1838 à Canisy, mort le 15 octobre 1912  à Paris. Editeur français réputé pour ses éditions des poètes parnassiens.  Il publia également des anthologies de grands auteurs classiques et romantiques.
 
-[5]:Le fort de Lucey est construit au nord de la place en rive gauche de la Moselle.
+5 Le fort de Lucey est construit au nord de la place en rive gauche de la Moselle.
 
-[6]:Le camp de Châlons, connu également sous le nom de camp de Mourmelon,  est un camp militaire français se situant à Mourmelon, à proximité de la ville de Châlons-en-Champagne (Marne).
+6 Le camp de Châlons, connu également sous le nom de camp de Mourmelon,  est un camp militaire français se situant à Mourmelon, à proximité de la ville de Châlons-en-Champagne (Marne).
 
-[7]:Albert-Xavier-Émile Mathiez, né le 10 janvier 1874 à La Bruyère (Haute-Saône), mort le 25 février 1932 à Paris, est un historien français, spécialiste de la Révolution française.
+7 Albert-Xavier-Émile Mathiez, né le 10 janvier 1874 à La Bruyère (Haute-Saône), mort le 25 février 1932 à Paris, est un historien français, spécialiste de la Révolution française.
 
-[8]:Charles Pierre Péguy, né le 7 janvier 1873 à Orléans (Loiret) et mort pour la France le premier jour de la première bataille de l'Ourcq, le 5 septembre 1914 à Villeroy (Seine-et-Marne), est un écrivain, poète, essayiste et officier de réserve français. Il est également connu sous les noms de plume de Pierre Deloire et Pierre Baudouin. Son œuvre, multiple, comprend des _mystères_ d'inspiration médiévale en vers libres, comme _Le Porche du Mystère de la deuxième vertu_ (1912), et des recueils de poèmes en vers réguliers, comme _La Tapisserie de Notre-Dame_ (1913), d'inspiration mystique. C'est aussi un intellectuel engagé : après avoir été militant socialiste libertaire, anticlérical, puis dreyfusard au cours de ses études, il se rapproche à partir de 1908 du catholicisme et du nationalisme ; il reste connu pour sa poésie et ses essais, notamment _Notre Jeunesse_ (1910) ou _L'Argent_ (1913), où il exprime ses préoccupations sociales et son rejet de l'âge moderne. Il fonda et dirigea la revue _Les Cahiers de la quinzaine_ de 1900 à 1914.
+8 Charles Pierre Péguy, né le 7 janvier 1873 à Orléans (Loiret) et mort pour la France le premier jour de la première bataille de l'Ourcq, le 5 septembre 1914 à Villeroy (Seine-et-Marne), est un écrivain, poète, essayiste et officier de réserve français. Il est également connu sous les noms de plume de Pierre Deloire et Pierre Baudouin. Son œuvre, multiple, comprend des _mystères_ d'inspiration médiévale en vers libres, comme _Le Porche du Mystère de la deuxième vertu_ (1912), et des recueils de poèmes en vers réguliers, comme _La Tapisserie de Notre-Dame_ (1913), d'inspiration mystique. C'est aussi un intellectuel engagé : après avoir été militant socialiste libertaire, anticlérical, puis dreyfusard au cours de ses études, il se rapproche à partir de 1908 du catholicisme et du nationalisme ; il reste connu pour sa poésie et ses essais, notamment _Notre Jeunesse_ (1910) ou _L'Argent_ (1913), où il exprime ses préoccupations sociales et son rejet de l'âge moderne. Il fonda et dirigea la revue _Les Cahiers de la quinzaine_ de 1900 à 1914.
 
-[9]:André Bourgeois (1871-1944), ami de Péguy et administrateur des Cahiers de la Quinzaine.
+9 André Bourgeois (1871-1944), ami de Péguy et administrateur des Cahiers de la Quinzaine.
 
-[10]:Stanislas de Guaïta est né le 6 avril 1861 à Tarquimpol (Moselle) et mort dans cette même ville le 19 décembre 1897. Stanislas de Guaïta est issu d’une famille noble italienne, installée en Lorraine au début du XIXème siècle. Auteur d’essais et de poèmes, il se met à écrire très tôt et ne sort pas beaucoup de son appartement. Esprit tourmenté, il est accablé par la barbarie des Hommes. Ce sentiment de dégoût pour la société se retrouve dans certains de ses poèmes de l’époque. Le XIXème siècle est porté par une science qui combat la religion et Stanislas de Guaïta affirme que la discorde ne peut amener la beauté. Il commence à s’intéresser aux sciences occultes et au martinisme au travers des écrits de Peladan ou d'Éliphas Lévi. Inspiré par le mysticisme chrétien, il fonde avec Papus et Joséphin Péladan l’Ordre Kabbalistique de la Rose-Croix en 1889.
+10 Stanislas de Guaïta est né le 6 avril 1861 à Tarquimpol (Moselle) et mort dans cette même ville le 19 décembre 1897. Stanislas de Guaïta est issu d’une famille noble italienne, installée en Lorraine au début du XIXème siècle. Auteur d’essais et de poèmes, il se met à écrire très tôt et ne sort pas beaucoup de son appartement. Esprit tourmenté, il est accablé par la barbarie des Hommes. Ce sentiment de dégoût pour la société se retrouve dans certains de ses poèmes de l’époque. Le XIXème siècle est porté par une science qui combat la religion et Stanislas de Guaïta affirme que la discorde ne peut amener la beauté. Il commence à s’intéresser aux sciences occultes et au martinisme au travers des écrits de Peladan ou d'Éliphas Lévi. Inspiré par le mysticisme chrétien, il fonde avec Papus et Joséphin Péladan l’Ordre Kabbalistique de la Rose-Croix en 1889.
 
-[11]:  René Perrout, né à Épinal le 26 janvier 1868, et mort dans la même ville le 11 septembre 1920, à 52 ans, est un avocat et un écrivain régionaliste. Ami de Maurice Barrès et de Charles Sadoul, il est considéré comme l'historien et le chantre d’Épinal. De son œuvre, constituée principalement d'études, de récits et de romans en rapport avec l'histoire de la Lorraine et même presque exclusivement de la région d’Épinal, émergent notamment le recueil de récits _Autour de mon clocher_ (1905), le roman historique _Goëry Coquart bourgeois d'Épinal_ (1906).
+13 René Perrout, né à Épinal le 26 janvier 1868, et mort dans la même ville le 11 septembre 1920, à 52 ans, est un avocat et un écrivain régionaliste. Ami de Maurice Barrès et de Charles Sadoul, il est considéré comme l'historien et le chantre d’Épinal. De son œuvre, constituée principalement d'études, de récits et de romans en rapport avec l'histoire de la Lorraine et même presque exclusivement de la région d’Épinal, émergent notamment le recueil de récits _Autour de mon clocher_ (1905), le roman historique _Goëry Coquart bourgeois d'Épinal_ (1906).
 
-[12]:  Edmond Richardin (1846-1917) est né Vaucouleurs (Meuse) le 26 octobre 1847 et mort à Bagnères-de-Bigorre (Hautes-Pyrénées) le 10 août 1917. Ecrivain, éditeur,
+13 - 31 juillet - Assassinat de Jaurès / 2 août : ordre de mobilisation générale en France et en Allemagne.
 
-[13] 31 juillet - Assassinat de Jaurès / 2 août : ordre de mobilisation générale en France et en Allemagne.
+14 Edmond Richardin (1846-1917) est né Vaucouleurs (Meuse) le 26 octobre 1847 et mort à Bagnères-de-Bigorre (Hautes-Pyrénées) le 10 août 1917. Ecrivain, éditeur,surtout connu pour _La Cuisine française du XIVe au XXe siècles (l'art du bien manger_, suivi... des _aphorismes de Brillat-Savarin_…). Édition accompagnée de dessins expliqués par Gustave Gefroy contenant plus de 2.000 recettes.
 
-(15) Albert Kahn, né Abraham Kahn à Marmoutier en Alsace le 3 mars 1860 et mort à Boulogne-Billancourt le 14 novembre 1940, est un banquier et philanthrope français. Il a rassemblé un important fonds iconographique intitulé Archives de la Planète, collection constituée d’autochromes (photographies en couleurs sur plaques de verre) la plus importante au monde, et de films en noir et blanc, fonds conservé au musée départemental Albert-Kahn (Boulogne-Billancourt). [Voir]([https://fr.wikipedia.org/wiki/Albert_Kahn_(banquier](https://fr.wikipedia.org/wiki/Albert_Kahn_\(banquier) et : [http://judaisme.sdv.fr/perso/akahn.htm](http://judaisme.sdv.fr/perso/akahn.htm)) et sur la [Fondation](https://rencontresamismuseealbertkahn.fr/leprojet-albert-kahn-en-quelques-mots/)
+15 Albert Kahn, né Abraham Kahn à Marmoutier en Alsace le 3 mars 1860 et mort à Boulogne-Billancourt le 14 novembre 1940, est un banquier et philanthrope français. Il a rassemblé un important fonds iconographique intitulé Archives de la Planète, collection constituée d’autochromes (photographies en couleurs sur plaques de verre) la plus importante au monde, et de films en noir et blanc, fonds conservé au musée 
+départemental Albert-Kahn (Boulogne-Billancourt). [Voir]([https://fr.wikipedia.org/wiki/Albert_Kahn_(banquier](https://fr.wikipedia.org/wiki/Albert_Kahn_\(banquier) et : [http://judaisme.sdv.fr/perso/akahn.htm](http://judaisme.sdv.fr/perso/akahn.htm)) et sur la [Fondation](https://rencontresamismuseealbertkahn.fr/leprojet-albert-kahn-en-quelques-mots/)
 
-(16) Edmond Richardin (1846-1917) est né Vaucouleurs (Meuse) le 26 octobre 1847 et mort à Bagnères-de-Bigorre (Hautes-Pyrénées) le 10 août 1917. Ecrivain, éditeur,surtout connu pour _La Cuisine française du XIVe au XXe siècles (l'art du bien manger_, suivi... des _aphorismes de Brillat-Savarin_…). Édition accompagnée de dessins expliqués par Gustave Gefroy contenant plus de 2.000 recettes.
+16 Alfred Saﬀrey, critique littéraire, ami de Péguy, a contribué à faire connaitre les
+correspondances entre Péguy et Romain Rolland, entre Péguy et Moselly. - Voir
+"l'amitié C.Péguy", article de A.Saﬀrey sur E.M. et sa relation à Péguy (Feuillets du15 mars 1966).
 
-[17]:août - L'Allemagne déclare la guerre à la France. 5-12 septembre - Bataille de la Marne.
+18  Sur Les Rosières de La Mothe Saint-Héray [voir](https://lamothesaintheray.123.fr/lesrosieres.html) et sur Charles Benjamin Chameau [voir](https://lamothesaintheray.123.fr/charlesbenjaminchameau.html)
 
-[18):Sur Les Rosières de La Mothe Saint-Héray [voir](https://lamothesaintheray.123.fr/lesrosieres.html) et sur Charles Benjamin Chameau [voir](https://lamothesaintheray.123.fr/charlesbenjaminchameau.html)
+19 Antonin Lavergne, né Pierre-Antoine Lavergne le 5 juin 1863 à Aniane (Hérault) et mort le 6 mars 1941 à Saint-André-de-Sangonis (Hérault) est un écrivain et
 
-[19]:Antonin Lavergne, né Pierre-Antoine Lavergne le 5 juin 1863 à Aniane (Hérault) et mort le 6 mars 1941 à Saint-André-de-Sangonis (Hérault) est un écrivain et
+20 - 21 février - 18 décembre - Bataille de Verdun.
 
-[20]:février - 18 décembre - Bataille de Verdun.
+21 Référence sans doute à Béatrice Dussan, dite Béatrix Dussane, née le 9 mars 1888 dans le 5e arrond. de Paris et morte le 3 mars 1969 dans le 14e. Actrice française. Entrée à la Comédie-Française en 1903, elle en devient la 363e sociétaire en 1922 et sociétaire honoraire à partir de 1942.
 
-[21]:Référence sans doute à Béatrice Dussan, dite Béatrix Dussane, née le 9 mars 1888 dans le 5e arrond. de Paris et morte le 3 mars 1969 dans le 14e. Actrice française. Entrée à la Comédie-Française en 1903, elle en devient la 363e sociétaire en 1922 et sociétaire honoraire à partir de 1942.
-
-[22]:Maurice Genevoix, né le 29 novembre 1890 à Decize (France) et mort le 8 septembre 1980 à Xàbia (Espagne), est un écrivain et poète français, membre de l'Académie française. L’ensemble de son œuvre témoigne des relations d’accord entre les Hommes, entre l’Homme et la nature, mais aussi entre l'Homme et la mort. Son œuvre est marquée par le traumatisme de la Grande Guerre (19141918), particulièrement dans _Ceux de 14_, recueil de récits de guerre rassemblés en 1949, considéré comme l'un des plus grands témoignages de ce conflit.  M. Genevoix a été élève de E.M. à Orléans. 22 6 avril - Entrée en guerre des USA
+22 Maurice Genevoix, né le 29 novembre 1890 à Decize (France) et mort le 8 septembre 1980 à Xàbia (Espagne), est un écrivain et poète français, membre de l'Académie française. L’ensemble de son œuvre témoigne des relations d’accord entre les Hommes, entre l’Homme et la nature, mais aussi entre l'Homme et la mort. Son œuvre est marquée par le traumatisme de la Grande Guerre (19141918), particulièrement dans _Ceux de 14_, recueil de récits de guerre rassemblés en 1949, considéré comme l'un des plus grands témoignages de ce conflit.  M. Genevoix a été élève de E.M. à Orléans. 22 6 avril - Entrée en guerre des USA
