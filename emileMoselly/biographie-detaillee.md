@@ -71,7 +71,7 @@ Reçu à ce concours à la Faculté des Lettres de Nancy. De la rentrée 1889 à
 
 ### 1891 / Nancy ‐ Fort de Lucey [^1] 
 
-19              janvier ‐ Une lettre à ses parents porte l'adresse 10, rue Eugène Ferry (cahier N°4 ‐  J'habitais une maison près de la Pépinière). 21 février ‐ (lettre à ses parents) Allusion à une première œuvre que son ami Armand Blocq [^3]portera à Lemerre [^4].
+19              janvier ‐ Une lettre à ses parents porte l'adresse 10, rue Eugène Ferry (cahier N°4 ‐  J'habitais une maison près de la Pépinière). 21 février ‐ (lettre à ses parents) Allusion à une première œuvre que son ami Armand Blocq [5] portera à Lemerre [6].
 
 20              juin ‐ _On m'a renvoyé mon manuscrit avec refus d'éditer_. (Lettre à ses parents). 
 
@@ -81,7 +81,7 @@ Reçu à ce concours à la Faculté des Lettres de Nancy. De la rentrée 1889 à
 
 ### 1892 / Fort de Lucey ‐ Lyon
 
-Juin‐juillet ‐ Séjour au camp de Châlons [^6]
+Juin‐juillet ‐ Séjour au camp de Châlons [8]
 
 18 septembre ‐ Fin du Service Militaire.
 
@@ -141,7 +141,7 @@ En septembre, promenade à Metz (alors sous régime allemand).
 
 E.M. et sa femme ont passé Noël et le Nouvel An à Paris.  10 août ‐ 6 septembre ‐ Période militaire à Toul.
 
-11 novembre ‐ Naissance d'un fils, François C. (220, faubourg Saint Denis, Paris Xème, chez la mère de sa femme). E.M. se lie d'amitié avec Albert Mathiez [^7]
+11 novembre ‐ Naissance d'un fils, François C. (220, faubourg Saint Denis, Paris Xème, chez la mère de sa femme). E.M. se lie d'amitié avec Albert Mathiez [8]
 
 Novembre ‐ E.M. va à Paris à l'occasion de la naissance de son fils.    
 
@@ -175,9 +175,9 @@ Septembre ‐ Boulogne‐sur‐Mer.
 
 Vacances en Lorraine.
 
-14 octobre ‐ Arrêté accordant une bourse d'études auprès de la Faculté des Lettres de Paris, pour un an. (E.M. restera 2 ans à Paris, soit que la bourse ait été prolongée, soit qu'il ait pris un congé.) 18 au 21 octobre ‐ Malade à Orléans (lettres à Péguy [^8].
+14 octobre ‐ Arrêté accordant une bourse d'études auprès de la Faculté des Lettres de Paris, pour un an. (E.M. restera 2 ans à Paris, soit que la bourse ait été prolongée, soit qu'il ait pris un congé.) 18 au 21 octobre ‐ Malade à Orléans (lettres à Péguy [10].
 
-27 décembre ‐ Emménage  à  Paris 67, avenue de la République (lettre à M. Bourgeois [[9]](#_ftn9), aux Cahiers).
+27 décembre ‐ Emménage  à  Paris 67, avenue de la République (lettre à M. Bourgeois (11), aux Cahiers).
 
 ### 1903 / Paris
 
@@ -217,7 +217,7 @@ Nouvel An à Chaudeney. 
 
 31 mars Pâques à Chaudeney.
 
-23 mai ‐ Prix Stanislas de Guaïta [^10]. 
+23 mai ‐ Prix Stanislas de Guaïta [12]. 
 
 5 décembre ‐ Prix Goncourt (attribué pour ses livres et en particulier _Jean des brebis_).
 
@@ -233,7 +233,7 @@ Pentecôte ‐ Voyage en Bretagne (Dol, Mont Saint Michel) Sa femme à Chaudeney
 
 Chaudeney ‐ Il prolonge son séjour auprès de son père à l'agonie.
 
-6 septembre ‐ Visite à Epinal à Perrout [^11].
+6 septembre ‐ Visite à Epinal à Perrout [13].
 
 7 novembre ‐ Mort de Achille Chénin (73 ans), père de E.M.
 
@@ -251,9 +251,9 @@ Vacances en Lorraine.
 
 ### **1910 / Eaubonne, puis Rouen** 
 
-Mars ‐ Visite à Richardin [^12].
+Mars ‐ Visite à Richardin [14].
 
-12 juin ‐ Visite à la fondation Kahn.
+12 juin ‐ Visite à la fondation Kahn (15).
 
 16 juillet ‐ Nomination au lycée de Rouen. 
 
@@ -291,7 +291,7 @@ Vacances à Chaudeney.
 
 23 janvier ‐ Naissance Jean‐Pierre C. (son dernier fils) au 210, Boulevard Voltaire.
 
-5 avril et 24 mai ‐ Conversations avec Saffrey[^15]. 
+5 avril et 24 mai ‐ Conversations avec Saffrey[16]. 
 
 11 mai ‐ Pentecôte à Chaudeney.
 
@@ -300,8 +300,6 @@ Vacances à Chaudeney.
 Début juillet ‐ Fin de l'année scolaire à Eaubonne. 
 
 13 juillet ‐ Distribution des prix.
-
-14 Albert Kahn, né Abraham Kahn à Marmoutier en Alsace le 3 mars 1860 et mort à Boulogne-Billancourt le 14 novembre 1940, est un banquier et philanthrope français. Il a rassemblé un important fonds iconographique intitulé Archives de la Planète, collection constituée d'autochromes (photographies en couleurs sur plaques de verre) la plus importante au monde, et de films en noir et blanc, fonds conservé au musée départemental Albert-Kahn (Boulogne-Billancourt). [Voir](https://fr.wikipedia.org/wiki/Albert_Kahn_(banquier et : http://judaisme.sdv.fr/perso/akahn.htm) et sur la [Fondation](https://rencontresamismuseealbertkahn.fr/leprojet-albert-kahn-en-quelques-mots/)
 
 15 Alfred Saffrey, critique littéraire, ami de Péguy, a contribué à faire connaitre les correspondances entre Péguy et Romain Rolland, entre Péguy et Moselly. - Voir "l'amitié C.Péguy", article de A.Saffrey sur E.M. et sa relation à Péguy (Feuillets du 15 mars 1966).
 
@@ -335,7 +333,7 @@ Mi‐juillet ‐ Recherche d'un appartement. Séjour à Eaubonne. 
 
 29‐30 juillet ‐ Chaudeney.
 
-31 juillet [^14]‐  Retour à Paris. Il ramène sa mère agée de 75 ans. 
+31 juillet [17]‐  Retour à Paris. Il ramène sa mère agée de 75 ans. 
 
 La maison de Chaudeney reste vide ; il n'y retournera plus.
 
@@ -349,7 +347,7 @@ La maison de Chaudeney reste vide ; il n'y retournera plus.
 
 17 août ‐ Eaubonne (promenades, garde civique).
 
-7 septembre / 30 septembre ‐ La famille se réfugie à La Mothe SaintHéray [^15], Poitou (rue du Barabas, chez Mme Marie Poussard).
+7 septembre / 30 septembre ‐ La famille se réfugie à La Mothe SaintHéray [18], Poitou (rue du Barabas, chez Mme Marie Poussard).
 
 7 octobre ‐ Fait sa première classe au Lycée Pasteur. Sa famille est encore à La Mothe.
 
@@ -365,9 +363,9 @@ Vacances à Eaubonne.
 
 ### 1916 / Asnières
 
-Dimanche 30 janvier ‐ Dîner chez Antonin Lavergne [^16]
+Dimanche 30 janvier ‐ Dîner chez Antonin Lavergne [19]
 
-Février [[17]](#_ftn17)19 ‐ Thé chez Lavergne ‐ Croquis de Dussanne, sous le nom de Sylvia [[18]](#_ftn18)
+Février (20) ‐ Thé chez Lavergne ‐ Croquis de Dussanne, sous le nom de Sylvia (21)
 
 Mars ‐ Névralgies dentaires.
 
@@ -375,7 +373,7 @@ Mai ‐ Promenades (Ville d'Avray, Versailles, Saint Germain). Juillet ‐ septe
 
 28 octobre ‐ Engagement de son fils François.
 
-19 novembre ‐ Visite à Descaves (Candidature de Genevoix [^19]  au Prix Goncourt).
+19 novembre ‐ Visite à Descaves (Candidature de Genevoix [22]  au Prix Goncourt).
 
 Décembre ‐ _Je remets au net et complète des notes sur Péguy, pour en faire un article. Le petit Genevoix est resté en panne_ (au prix Goncourt) _avec 2 voix, celle de Descaves et quis alter ?_ 
 
@@ -434,9 +432,11 @@ Inhumation provisoire à Lorient.
 
 ---
 
-[^1]: 11 août 1876 - l'assemblée vote des crédits pour la formation de 19 comités d'études et de vigilance contre le phylloxéra qui ravage les vignobles français.  Originaire de l’Est des Etats-Unis, le phylloxera est un insecte piqueur apparenté aux pucerons. Il fut signalé pour la première fois en France en 1863. Au XIXème siècle, le phylloxera eut une importance économique et sociale dramatique sur la viticulture française et européenne, qui fut dévastée et qui dut intégralement se reconstruire. Le phylloxera a aujourd’hui colonisé presque tous les vignobles du monde.
 
-[^2]: Il convient de garder à l'esprit que l'Alsace (Bas-Rhin, Haut-Rhin) et une partie de la Lorraine (la quasi totalité de la Moselle de l'époque et une partie de la Meurthe de l'époque) sont sous régime allemand depuis le Traité de Francfort du 10 mai 1871. La partie restée française deviendra la Meurthe-et-Moselle en 1871. La frontière avec l'Allemagne s'est donc considérablement rapprochée de Nancy, Toul et Chaudeney. E.M. ne connaitra jamais une "Alsace-Lorraine" revenue à la France puisque l'Alsace et la Lorraine seront restituées en 1919.
+
+1 Il convient de garder à l'esprit que l'Alsace (Bas-Rhin, Haut-Rhin) et une partie de la Lorraine (la quasi totalité de la Moselle de l'époque et une partie de la Meurthe de l'époque) sont sous régime allemand depuis le Traité de Francfort du 10 mai 1871. La partie restée française deviendra la Meurthe-et-Moselle en 1871. La frontière avec l'Allemagne s'est donc considérablement rapprochée de Nancy, Toul et Chaudeney. E.M. ne connaitra jamais une "Alsace-Lorraine" revenue à la France puisque l'Alsace et la Lorraine seront restituées en 1919.
+
+211 août 1876 - l'assemblée vote des crédits pour la formation de 19 comités d'études et de vigilance contre le phylloxéra qui ravage les vignobles français.  Originaire de l’Est des Etats-Unis, le phylloxera est un insecte piqueur apparenté aux pucerons. Il fut signalé pour la première fois en France en 1863. Au XIXème siècle, le phylloxera eut une importance économique et sociale dramatique sur la viticulture française et européenne, qui fut dévastée et qui dut intégralement se reconstruire. Le phylloxera a aujourd’hui colonisé presque tous les vignobles du monde.
 
 [^3]: Armand Abraham Blocq, connu sous le pseudonyme de Gaston Danville, est né à Toul le 18 novembre 1870, décédé à Paris le 4 septembre 1933 et inhumé à Toul le 16 septembre 1933. Figure littéraire de la fin du XIXe siècle, il est surtout resté  le collaborateur fidèle des premières années du célèbre _Mercure de France_,  revue littéraire à laquelle il participe dès 1891 et dans laquelle il publie ses _Contes d’au-delà_, particulièrement précieux pour qui étudie de près le fantastique fin-desiècle et ses airs de corruption. Armand Blocq sera un des témoins de mariage de E.M. avec Marie Barthélémy.
 
@@ -460,11 +460,13 @@ Inhumation provisoire à Lorient.
 
 [^13]:31 juillet - Assassinat de Jaurès / 2 août : ordre de mobilisation générale en France et en Allemagne.
 
-[^14']Edmond Richardin (1846-1917) est né Vaucouleurs (Meuse) le 26 octobre 1847 et mort à Bagnères-de-Bigorre (Hautes-Pyrénées) le 10 août 1917. Ecrivain, éditeur,surtout connu pour _La Cuisine française du XIVe au XXe siècles (l'art du bien manger_, suivi... des _aphorismes de Brillat-Savarin_…). Édition accompagnée de dessins expliqués par Gustave Gefroy contenant plus de 2.000 recettes.
+15 Albert Kahn, né Abraham Kahn à Marmoutier en Alsace le 3 mars 1860 et mort à Boulogne-Billancourt le 14 novembre 1940, est un banquier et philanthrope français. Il a rassemblé un important fonds iconographique intitulé Archives de la Planète, collection constituée d’autochromes (photographies en couleurs sur plaques de verre) la plus importante au monde, et de films en noir et blanc, fonds conservé au musée départemental Albert-Kahn (Boulogne-Billancourt). [Voir]([https://fr.wikipedia.org/wiki/Albert_Kahn_(banquier](https://fr.wikipedia.org/wiki/Albert_Kahn_\(banquier) et : [http://judaisme.sdv.fr/perso/akahn.htm](http://judaisme.sdv.fr/perso/akahn.htm)) et sur la [Fondation](https://rencontresamismuseealbertkahn.fr/leprojet-albert-kahn-en-quelques-mots/)
 
-[^14]:août - L'Allemagne déclare la guerre à la France. 5-12 septembre - Bataille de la Marne.
+(14) Edmond Richardin (1846-1917) est né Vaucouleurs (Meuse) le 26 octobre 1847 et mort à Bagnères-de-Bigorre (Hautes-Pyrénées) le 10 août 1917. Ecrivain, éditeur,surtout connu pour _La Cuisine française du XIVe au XXe siècles (l'art du bien manger_, suivi... des _aphorismes de Brillat-Savarin_…). Édition accompagnée de dessins expliqués par Gustave Gefroy contenant plus de 2.000 recettes.
 
-[^15]:Sur Les Rosières de La Mothe Saint-Héray [voir](https://lamothesaintheray.123.fr/lesrosieres.html) et sur Charles Benjamin Chameau [voir](https://lamothesaintheray.123.fr/charlesbenjaminchameau.html)
+[^15]:août - L'Allemagne déclare la guerre à la France. 5-12 septembre - Bataille de la Marne.
+
+[18]:Sur Les Rosières de La Mothe Saint-Héray [voir](https://lamothesaintheray.123.fr/lesrosieres.html) et sur Charles Benjamin Chameau [voir](https://lamothesaintheray.123.fr/charlesbenjaminchameau.html)
 
 [^16]:Antonin Lavergne, né Pierre-Antoine Lavergne le 5 juin 1863 à Aniane (Hérault) et mort le 6 mars 1941 à Saint-André-de-Sangonis (Hérault) est un écrivain et
 
