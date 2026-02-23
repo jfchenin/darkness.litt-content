@@ -432,7 +432,7 @@ Inhumation provisoire à Lorient.
 
 ---
 
-
+## NOTES
 
 1 Il convient de garder à l'esprit que l'Alsace (Bas-Rhin, Haut-Rhin) et une partie de la Lorraine (la quasi totalité de la Moselle de l'époque et une partie de la Meurthe de l'époque) sont sous régime allemand depuis le Traité de Francfort du 10 mai 1871. La partie restée française deviendra la Meurthe-et-Moselle en 1871. La frontière avec l'Allemagne s'est donc considérablement rapprochée de Nancy, Toul et Chaudeney. E.M. ne connaitra jamais une "Alsace-Lorraine" revenue à la France puisque l'Alsace et la Lorraine seront restituées en 1919.
 
