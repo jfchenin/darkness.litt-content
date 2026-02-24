@@ -11,6 +11,10 @@ toc: true
 lang: fr
 abbrlink: articclesurmoselly
 ---
+# Quelques articles sur Emile Moselly
+
+---
+
 [Charles Daudier : Moselly, chantre de la Lorraine 1, Le Pays Lorrain, Avril 1920 (12ème année, n°4)](https://www.calameo.com/read/00602640644653e1b9830?authid=0cj327a7bHS1)
 
 [Charles Daudier : Moselly, chantre de la Lorraine 2, Le Pays Lorrain, Septembre 1920 (12ème année, n°9)](https://www.calameo.com/read/0060264062b2011236230?authid=C5l6ZzObsoKg)
