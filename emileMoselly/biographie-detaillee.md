@@ -417,7 +417,7 @@ Gantois, à Asnières. 
 
 2 octobre ‐ Mort de E. Moselly dans le train entre Quimper et Lorient.
 
-Inhumation provisoire à Lorient.
+Inhumation provisoire à Lorient (cimetière de Kerentrech).
 
 11 novembre ‐ Armistice
 

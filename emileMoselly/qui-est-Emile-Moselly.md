@@ -53,9 +53,9 @@ La maison d'Émile Moselly, située au 18 rue du Commandant-Fiatte à Chaudeney-
 
 ![landscape Plaques Commémoratives. Il y est inscrit : "Dans cette maison Emile Chénin Moselly 1870-1918 a passé sa jeunesse et a écrit la plupart de ses ouvrages lorrains. Association des écrivains lorrains et ses concitoyens (1928)"](./_images/Plaque-EM.jpg)
 
-Le Cercle d'études local du Toulois [CELT](https://celt-toul.blogspot.com/)décerne chaque année en hommage à Émile Moselly un prix [PRIX MOSELLY](https://www.etudes-touloises.fr/moselly/pmoselly.html)récompensant une nouvelle ayant pour cadre la Lorraine .
+Le Cercle d'études local du Toulois [CELT](https://celt-toul.blogspot.com/) décerne chaque année en hommage à Émile Moselly un prix [PRIX MOSELLY](https://www.etudes-touloises.fr/moselly/pmoselly.html) récompensant une nouvelle ayant pour cadre la Lorraine .
 
-Le CELT a consacré des dizaines de pages sur  [EMILE MOSELLY](https://www.etudes-touloises.fr/moselly/emoselly.html)à travers sa revue [ETUDES TOULOISES](https://www.etudes-touloises.fr/) (en consultation gratuite sur le site du CELT).
+Le CELT a consacré des dizaines de pages sur  [EMILE MOSELLY](https://www.etudes-touloises.fr/moselly/emoselly.html) à travers sa revue [ETUDES TOULOISES](https://www.etudes-touloises.fr/) (en consultation gratuite sur le site du CELT).
 
 Plusieurs rues portent le nom d'Emile Moselly en Lorraine : à Epinal (88000), à Chaudeney-sur-Moselle (54122), Essey-lès-Nancy (54184), Faulx (54760), Ludres (54710), Nancy (54000), Bois-de-Haye (54840), Pont-à-Mousson (54700 - Allée Moselly), Carling (57490 - Place Moselly).
 
@@ -98,7 +98,7 @@ On retrouve l'intégralité de cette notice sur [WIKIPEDIA](https://fr.wikipedia
 
 ### Bibliographie
 
-- Maurice Pellisson, commentaires sur :L’Aube fraternelle, Cahiers de la Quinzaine, 1902 ; Jean des Brebis ou le livre de la Misère, Cahiers de la Quinzaine, 1904, Plon, 1907 ; Les Retours, Cahiers de la Quinzaine, 1906 ; Terres Lorraines, Plon, 1907 ; Le Rouet d’Ivoire, Cahiers de la Quinzaine, 1907, Plon, 1908, par E. Moselly. », _La Revue pédagogique_, vol. 52,‎ 1908, p. 397-400
+- Maurice Pellisson, commentaires sur : L’Aube fraternelle, Cahiers de la Quinzaine, 1902 ; Jean des Brebis ou le livre de la Misère, Cahiers de la Quinzaine, 1904, Plon, 1907 ; Les Retours, Cahiers de la Quinzaine, 1906 ; Terres Lorraines, Plon, 1907 ; Le Rouet d’Ivoire, Cahiers de la Quinzaine, 1907, Plon, 1908, par E. Moselly. », _La Revue pédagogique_, vol. 52,‎ 1908, p. 397-400
 - Charles Daudier, _Moselly, chantre de la Lorraine 1_, Le Pays Lorrain, Avril 1920 (12ème année, n°4)
 - Charles Daudier, _Moselly, chantre de la Lorraine 2_, Le Pays Lorrain, Septembre 1920 (12ème année, n°9)
 - Charles Daudier, _Moselly, chantre de la Lorraine 3_, Le Pays Lorrain, Avril 1921 (13ème année, n°4)
