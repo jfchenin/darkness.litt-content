@@ -41,8 +41,7 @@ Grandeur des petites déroutes, rémission de l'apesanteur, sommeil parfait. C'e
 
 <div align="center">⁂</div>
 
-Nous sommes des silencieux, des feux perdus, des soldats désarmés à la recherche d'un abri, mais un réceptacle qui grandirait avec nos émotions et nos pleurs, une anfractuosité respirante à la mesure de nos retournements. Nous sommes transhumants et nous brûlons. L'espace autour de nous n'y suffit pas. Ce qui change ne revient pas. Nous sommes des silencieux. Nous reculons parfois et les feux sont loin et parce que les lumières - scintilleuses - ne sont pas des feux, nous perdons nos repères et nous restons blessés. Notre parole meurt. Mais c'est un autre silence, un faux-semblant en arrière-goût quand tout se tait en nous. Qu'il est insupportable parfois d'avancer ! Le pas est sans poids et les quelques souvenirs qui nous tiennent - fin du tréfonds - nous répugnent tant nous 
-savons qu'ils sont vains. Nous sommes des silencieux, des natures généreuses au bord du gouffre où nous allons tomber. Nous nous précipitons sur nos faux-pas. Nous sommes des feux perdus, dispersés, éloignés les uns des autres. Nous surgissons au hasard, mais notre volonté n'y est pour rien, seulement l'instinct, le très-bas instinct de ne pas s'éteindre. Il nous sauvera, nous donnera à revivre ce que nous redoutions mais que nous avons accepté - de bon gré - exactement où nous avons surgi la première fois, dans un saut de l'air sur l'air qui fait notre clarté et notre dissidence, mais notre évidence et notre fragilité. Combien sommes-nous ainsi ? 
+Nous sommes des silencieux, des feux perdus, des soldats désarmés à la recherche d'un abri, mais un réceptacle qui grandirait avec nos émotions et nos pleurs, une anfractuosité respirante à la mesure de nos retournements. Nous sommes transhumants et nous brûlons. L'espace autour de nous n'y suffit pas. Ce qui change ne revient pas. Nous sommes des silencieux. Nous reculons parfois et les feux sont loin et parce que les lumières - scintilleuses - ne sont pas des feux, nous perdons nos repères et nous restons blessés. Notre parole meurt. Mais c'est un autre silence, un faux-semblant en arrière-goût quand tout se tait en nous. Qu'il est insupportable parfois d'avancer ! Le pas est sans poids et les quelques souvenirs qui nous tiennent - fin du tréfonds - nous répugnent tant nous savons qu'ils sont vains. Nous sommes des silencieux, des natures généreuses au bord du gouffre où nous allons tomber. Nous nous précipitons sur nos faux-pas. Nous sommes des feux perdus, dispersés, éloignés les uns des autres. Nous surgissons au hasard, mais notre volonté n'y est pour rien, seulement l'instinct, le très-bas instinct de ne pas s'éteindre. Il nous sauvera, nous donnera à revivre ce que nous redoutions mais que nous avons accepté - de bon gré - exactement où nous avons surgi la première fois, dans un saut de l'air sur l'air qui fait notre clarté et notre dissidence, mais notre évidence et notre fragilité. Combien sommes-nous ainsi ? 
 Combien sommes-nous à gagner sur le feu qui nous ronge et nous consume, à devenir le trou noir qui nous absorbera ? Nous avons touché des mains sans pouvoir les saisir et - malgré nous - nous revenons aux racines en partie détruites de nos éclats. C'est cela : nos éclats et nos rêves d'incendie tout au long des horizons et des faîtes que nous souhaitions franchir. Nous sommes des feux perdus.
 
 <div align="center">⁂</div>
@@ -86,8 +85,7 @@ Nous sommes les restes bleus d'un ciel qui se défait. De toutes parts qu’on r
 
 <div align="center">⁂</div>
 
-A défaut. Commencer par à défaut. La pensée est vide quand elle s'emballe. Seuls les coups pleuvent à mauvais escient. Nous nous sommes battus pour rien et rien n'est à sa place. Grandeur du sentiment quand il cède la place, légèreté du sentiment quand il croit renoncer. Nous serons traversés de nos doutes et de nos absences. Éreintés de nous-mêmes. Nous restons à la surface, incapables de passer l'onde de choc qui nous sert de barrière. La limite est en nous, les frontières nous partagent. Nous agonisons de pouvoir nous rejoindre. Il faudra se rendre heureux. La vie est en quinconce, abrupte, à l'à-pic d'une autre vie plus silencieuse mais plus réelle - disons 
-nécessaire - au droit-fil d'une autre vie, plus instinctive, majestueuse. Nous avons perdu les mots, nous donnons des coups quand la parole n'y suffit plus. La violence est dans nos silences, volontaires ou imposés, le souffle coupé. La vie est en vrac, nous nous quittons.
+A défaut. Commencer par à défaut. La pensée est vide quand elle s'emballe. Seuls les coups pleuvent à mauvais escient. Nous nous sommes battus pour rien et rien n'est à sa place. Grandeur du sentiment quand il cède la place, légèreté du sentiment quand il croit renoncer. Nous serons traversés de nos doutes et de nos absences. Éreintés de nous-mêmes. Nous restons à la surface, incapables de passer l'onde de choc qui nous sert de barrière. La limite est en nous, les frontières nous partagent. Nous agonisons de pouvoir nous rejoindre. Il faudra se rendre heureux. La vie est en quinconce, abrupte, à l'à-pic d'une autre vie plus silencieuse mais plus réelle - disons nécessaire - au droit-fil d'une autre vie, plus instinctive, majestueuse. Nous avons perdu les mots, nous donnons des coups quand la parole n'y suffit plus. La violence est dans nos silences, volontaires ou imposés, le souffle coupé. La vie est en vrac, nous nous quittons.
 
 <div align="center">⁂</div>
 
@@ -115,7 +113,7 @@ Elle a préparé la mer, par petits morceaux ajustés, elle a préparé le ciel,
 
 <div align="center">⁂</div>
 
-Pascal Quignard écrit : Celui qui écrit est celui qui cherche à dégager le gage. A désengager le langage. A rompre le dialogue. A désubordonner la domestication. A s'extraire de la fratrie et de la patrie. A délier toute religion. Devenir nomade, en somme, détaché des horizons particuliers.
+Pascal Quignard écrit : *Celui qui écrit est celui qui cherche à dégager le gage. A désengager le langage. A rompre le dialogue. A désubordonner la domestication. A s'extraire de la fratrie et de la patrie. A délier toute religion. Devenir nomade, en somme, détaché des horizons particuliers.*
 
 <div align="center">⁂</div>
 
@@ -136,8 +134,7 @@ Je ne suis pas silencieux. Je suis grandeur nature.
 Et parce que la douceur de l'amour est dans la caresse des yeux mi-ouverts et la pression tendre de la main et l'arôme de la chair embaumée parmi l'ivresse de la mort, je mêlai tout mon corps au sien depuis le pourpre de sa bouche jusqu'aux ténèbres chaudes d'entre ses jambes ouvertes et croisées sur mes reins. Marcel Schwob, Maua
 
 <div align="center">⁂</div>
-Elle dort en pelote dans des nuages d'oreillers mauves et blancs. Je la vois de la fenêtre. Elle soulève l'horizon 
-majestueusement et, à mesure que le ciel avance, elle glisse résolument dans ses désirs. Ses yeux sourient quand elle rêve au firmament d'elle-même.
+Elle dort en pelote dans des nuages d'oreillers mauves et blancs. Je la vois de la fenêtre. Elle soulève l'horizon majestueusement et, à mesure que le ciel avance, elle glisse résolument dans ses désirs. Ses yeux sourient quand elle rêve au firmament d'elle-même.
 
 <div align="center">⁂</div>
 
@@ -152,14 +149,12 @@ Les avions décollent, les femmes ont perdu leur raison d'aimer.
 Je rêve d'une humanité sans frontière, aux portes et tables
  ouvertes. Je rêve d'une humanité irradiante où l'ordre céderait enfin au silence, réverbéré et incalculé. 
 Les avions décollent, les enfants pleurent, oubliés et inquiets.
-Je rêve d'une humanité créole, éparse, instantanée où les 
-plaisirs seraient les creux et les pleins d'un ciel effervescent. Je rêve d'une humanité interlope, masquée, dansante, soudain élevée dans un grand soir d'été pour une fête qui n'exigerait rien d'autre que d'aimer, incroyablement. 
+Je rêve d'une humanité créole, éparse, instantanée où les plaisirs seraient les creux et les pleins d'un ciel effervescent. Je rêve d'une humanité interlope, masquée, dansante, soudain élevée dans un grand soir d'été pour une fête qui n'exigerait rien d'autre que d'aimer, incroyablement. 
 Les avions décollent, les hommes pleurent, inassouvis.
 
 <div align="center">⁂</div>
 
-I - Un grand coup de vent a chassé les nuages, rétabli l'aplat bleu instantané du ciel, un ciel brusque, lavé, et à force de le regarder, devenu une planche, une table. Un grand coup de vent a balayé les feuilles, les cartes, ouverts les livres, a fait table rase.  Décidément repartir à zéro, compter les jours à l'envers. Cet envers d'un ciel nu, retourné sur lui-même, ayant ramassé ses plis en bordure d'horizon. Déjà quelques lumières, une différence dans les tons, légère différence qui le sépare du reste du monde, grand aplat fusant de toute sa couleur, qui passe, qui passe forcément, va se rétracter dans un orgasme noir. le ciel est un orgasme et, par magie, éclairé de l'intérieur, de l'intérieur de sa chair devenue violacé, il faut s'y prendre à deux fois pour l'embrasser, se répéter, se 
-dédoubler, jeter loin ce pauvre regard qui nous accroche à lui. Apaiser enfin ce regard en lui.
+I - Un grand coup de vent a chassé les nuages, rétabli l'aplat bleu instantané du ciel, un ciel brusque, lavé, et à force de le regarder, devenu une planche, une table. Un grand coup de vent a balayé les feuilles, les cartes, ouverts les livres, a fait table rase.  Décidément repartir à zéro, compter les jours à l'envers. Cet envers d'un ciel nu, retourné sur lui-même, ayant ramassé ses plis en bordure d'horizon. Déjà quelques lumières, une différence dans les tons, légère différence qui le sépare du reste du monde, grand aplat fusant de toute sa couleur, qui passe, qui passe forcément, va se rétracter dans un orgasme noir. le ciel est un orgasme et, par magie, éclairé de l'intérieur, de l'intérieur de sa chair devenue violacé, il faut s'y prendre à deux fois pour l'embrasser, se répéter, se dédoubler, jeter loin ce pauvre regard qui nous accroche à lui. Apaiser enfin ce regard en lui.
 
 II - Martel en tête n'a pas de mot pour se souvenir, rétablir les ponts, les arches et les coursives des déambulatoires mentaux où, bouleversé, il gagne sur l'oubli. Martel en tête comme un reflet insistant qui traverse le tain des miroirs morts, martel en tête à profusion. Que sait-on de ce qu'on a perdu ? Que sait-on des routes qui ne mènent pas à destination ? Errance ! Errance ! Le grand marteau n'a pas perdu de sa force, le poing qui le tient ne lâchera pas, ne s'ouvrira pas. Mais il tape à côté, il frappe à mal escient sur le vide qui s'ouvre. C'est en nous que nous perdons nos rêves. Moratoire du destin, suspension des horizons jusqu'au prochain point de rencontre. Les ralliements sont vains dans cette mémoire encombrée, devenue blanche, inerte, ingravée. Ecoute le chant s'est tu du plaisir de s'arrêter et de retrouver et la main est froide qui caresse l'herbe des talus. Martel en tête au fond de soi.
 

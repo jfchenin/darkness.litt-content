@@ -89,6 +89,7 @@ Comme je vis seul, je me déroute ailleurs.
 
 J'écris peu cette année là. J'ai terminé en 2006 *Les royaumes-à-demi* et *Alep* qui figureront dans le volume *Figures de la disparition* publié dans sa version définitive en 2012. 
 ![Couverture de figures de la dispartion ](./_images/couvdisparition.jpg)
+
 La première version de *Figures de la Disparition* (le Vol. 1 comprend *Quentin, Roman, Exeat, Saisons, Sur la route*) paraitra en quatre petits volumes en 2008.
 
 Je travaille sur *Les Qualités Discrètes*, texte commencé en 1998 et que je terminerai en 2010 et qui figurera dans le volume *Figures des sentiments* publié en 2014.
@@ -187,7 +188,7 @@ Deviens incontournable, heurte-toi à ce qui reste du ciel en toi. Tu mourras da
 Aller sans arriérés. Journal à venir, 2008 et 366 jours 
 à combler. Une image par jour, un mot, une phrase, 
 un texte. 
-Faire des alignements comme exercice de soi. Se désaliéner après. Attendre 2009 intelligemment, avec candeur et douceur, mener pourtant un train d'enfer, ignorer la 
+Faire des alignements comme exercice de soi. Se désaliéner après. Attendre 2008 intelligemment, avec candeur et douceur, mener pourtant un train d'enfer, ignorer la 
 rancœur, donner du cœur.
 
 HAUT LE cœur
@@ -204,7 +205,7 @@ en marge : Ton orgueil est sans mesure, ce que tu prétends être n'est pas, ce 
 
 Toujours à Courcy, le journal n'avance pas. Je sais que ce n'est pas ma tasse de thé, pour ainsi dire.
 
-En réalité très occupé à écrire la première version du *Mouvement du Monde*, texte qui sera complété plusieurs fois les années suivantes.
+En réalité très occupé à écrire la première version du *Mouvement du Monde*, texte qui sera complété plusieurs fois les années suivantes. [voir](https://darkness.chenin.fr/darkness/requiem/)
 
 Je commence *Grandeur Nature des Sentiments* repris dans *Figures des Sentiments*, publié en 2014, ainsi que *Quelques jours après Albuquerque*, repris dans *Figure Out* publié en 2015
 
@@ -302,7 +303,7 @@ J'écris *Chant Premier*, ma version du *Cantique des Cantiques*.
  ![Couverture de chant premier](./_images/imgcantiq.jpg)
 
 
-Et je publie *Curcuma* en début d'année - je suis encore à Courcy -, un album de photos prises en Inde avec des commentaires sur chaque photo.
+Et je publie *Curcuma* en début d'année - je suis encore à Courcy -, un album de photos prises en Inde accompagnées de commentaires pour chaque photo.
 
  ![Couverture de curcuma](./_images/imgcurcuma.jpg)
 
@@ -365,7 +366,7 @@ Je commence *Flyovers* qui paraîtra d'abord sous le titre de *Suites à Miami* 
  ![Couverture de Suites à Miami ](./_images/imgmiami.jpg)
 
 
-Je joins à ce texte *Aparté* qui sera repris et complété sous le titre *Nous sommes des Silencieux* dans *Flyovers*.
+Je joins à ce texte *Aparté* qui sera repris et complété sous le titre *Nous sommes des Silencieux* dans *Flyovers*. [voir](https://darkness.chenin.fr/darkness/atelierpeintre/)
 
 Ecrire est devenu une activité principalement nocturne ou arrêté au bord de la route quand je vais à Key West ou dans les Everglades
 
@@ -423,7 +424,7 @@ Nous avons perdu les mots, nous donnons des coups quand la parole n'y suffit plu
 Au détour de cette route - une fois achevée une cigarette -, au détour des enclaves et des rixes fugitives, au détour de ce qui ressemble à des pleurs, mais des pleurs sans larme, juste un gémissement, au détour des jardins clos - illusoires abris - que chacun envie, où il n'entrera jamais, au détour des quais, des entrepôts et des impasses blanches, au détour des entre-deux et des arrière-cours, là-bas une porte est ouverte laissant filer une lumière, ici une autre, fermée à double tour depuis longtemps, pour preuve cette chaine rouillée, au détour des sentiments qui n'en peuvent plus, las, au détour de la prochaine cigarette, empoché le reste de cette certitude qui rend seul au monde, qui tombe mal, au détour d'une nuit à la dérive - la nuit manque d'horizon - dans les bas-fonds du ciel, au détour d'une controverse, rarement il faut se battre, mais se débattre, au détour d'un silence qui revient, opportunément, au détour des rêves et de la transe des rêves - ce qui n'est jamais qu'un rêve -, je n'ai pas la vie qu'on me prête, mais bien d'autres à trouver.
 
 20 juin
-De Marcel Schwob : Et parce que la douceur de l'amour est dans la caresse des yeux mi-ouverts et la pression tendre de la main et l'arôme de la chair embaumée parmi l'ivresse de la mort, je mêlai tout mon corps au sien depuis le pourpre de sa bouche jusqu'aux ténèbres chaudes d'entre ses jambes ouvertes et croisées sur mes reins. (*Maua* - La Table ronde).
+De Marcel Schwob : *Et parce que la douceur de l'amour est dans la caresse des yeux mi-ouverts et la pression tendre de la main et l'arôme de la chair embaumée parmi l'ivresse de la mort, je mêlai tout mon corps au sien depuis le pourpre de sa bouche jusqu'aux ténèbres chaudes d'entre ses jambes ouvertes et croisées sur mes reins*. (*Maua* - La Table ronde).
 
 22 août - Céreste
 Il est temps de partager nos sentiments et nos actes contre l'ignominie. Prenons date et rompons les liens. Ce qui vient sera à l'opposé de notre nature à espérer une terre sans frontières.
@@ -458,7 +459,6 @@ Tous mes textes deviennent sincères avec le temps.
 A la fin de l’année, je commence *Au(x) Demeurant(s)*. Suite que je considère la plus aboutie de ce que je vis et pense. Ce texte sera repris dans  *Figure Out*.
 
  ![Couverture de au(x) demeurant(s)](./_images/imgdemeurants.jpg)
-
 
 
 *Requiem* est la délivrance des sentiments anciens. Quand la nuit basculée ouvre ses portes sur le feu errant.
