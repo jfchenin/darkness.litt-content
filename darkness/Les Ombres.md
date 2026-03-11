@@ -123,7 +123,7 @@ Les mots ne sont jamais dans la demi-mesure. Des berges d'élancement vers les a
 
 ---
 
-### **DÉNOMBREMENT D'UN PROFIL DISCRET
+## Dénombrement d'un profil discret
 
 *Dénombrement d'un profil discret* est dédié à NK dite Renoir
 
