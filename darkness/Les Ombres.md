@@ -120,3 +120,117 @@ L'incarnation du désir est dans les mots balancés avec force à la face d'un m
 incidences encore possibles d'une vision et d'un désir qui s'y logent.
 La matière vivante a besoin d'un langage pour achever son oeuvre d'irisation et elle sait qu'il n'y a pas de territoire sans les mots qui l'irriguent, le soulèvent et en extirpent ce qui reste de particules mortes de ses voyages. Elle les conçoit et les assemble sans jamais les prononcer.
 Les mots ne sont jamais dans la demi-mesure. Des berges d'élancement vers les appuis plus élevés du ciel, ce ciel à répétition de nos rêves, nos dérives et nos chutes. Ils sont les petites mains du royaume où nous sommes si égarés et nous ramènent une fois la scène vidée de nos peurs.
+
+---
+
+### **DÉNOMBREMENT D'UN PROFIL DISCRET
+
+*Dénombrement d'un profil discret* est dédié à NK dite Renoir
+
+<div align="center">1 </div>
+
+Qui, ma compagne ? Qui ?
+Le corps apparent, le corps mélangé, la double **contrainte**
+La fiction est un leurre du réel 
+Il n'y a rien, c'est-à-dire il y a quelque chose de caché
+La part de l'autre est une part voisine et provisoire
+J’habite un vouloir obscur, dit Aimé Césaire, 
+j’habite un long silence 
+Rupture mentale dans le Concerto No. 2 in 
+A major, S. 125 de Liszt
+Rupture mentale confirmée
+Et entamer une provision de rêves dématérialisés 
+Je me souviens :elle s'appelle Anne de Bretagne 
+et j'ai 20 ans
+Rond, chaud et luminescent
+A l'abandon d'une matinée 
+Tout ce qui a été perdu est destiné à être trouvé
+Et la réalité n'a rien à dire que des faits différés
+Partir sans faire de bruit, faire semblant
+On veut l'amour mais quand il se montre, on freine, on a peur d'y aller
+Il manque à ma vie une femme 
+Cette femme, c'est vous
+La vérité est merdeuse...
+Meurtres à la volée et dépendance de l'oubli
+Les étourneaux tuent les chiens, dépassionnés
+Le maître du jeu ne possède rien que les mots, des mots libérés des arguments, des mots si puissants
+Qu'est ce que nous sommes...? 
+Qui m'accompagne ? Qui ?
+C'est du silence qui ne vient pas
+Les règles du silence, l'application d'une procédure et la recherche des opportunités
+Au bord des trous du ciel où tournent les milans
+A l'abandon des jours gris rehaussés de bleu
+Avec l'ostentation
+Tout un étalage ludique
+Vous me traversez comme du vent, écrivait-elle et ce n'était plus elle
+Ces textes ont été oubliés dans un cartable
+Les aéroports sont les nouvelles cathédrales avec leurs coursives, toutes ces arches, ces déambulatoires. Les cathédrales des voyages et du temps 
+suspendu
+Du temps suspendu à t'attendre
+Mon histoire commence dans les lignes ensoleillées d'une perspective et d'une apparition rousse
+Dans la chaleur du matin, une chaleur de début de monde, encore inconnue, impartagée. Je ne suis pas revenue, dit-elle
+Les passions sont indicibles qui ne seraient pas déraisonnables
+Retour
+Les places détachées de leur temps, indépendantes et déroutantes
+Alerte contre lui-même 
+Vous devez me trouver bien pathétique et pitoyable. Je me ressens ainsi. Les hommes sont comme ça : grotesques quand ils s'accrochent, pathétiques quand ils insistent, pitoyables quand ils persistent
+Je devrais me taire et vous laisser tranquille. Tout devient compliqué dans ces contractions des sentiments
+Le prix à payer, c'est l'oubli ou le voyage ou la dérision
+C'est la peur d'être seul, sans la vision ralentie de l'attachement. Double absence. Grand à côté vide. Ni une marge, ni une échappée sur le ciel
+Ah cette vie ! Elle est le tombeau ouvert du ciel qui y déverse son trop plein de feu roulant et de misère
+Comment tiennent les ailes au dos des anges ?
+Et si je reviens vers toi, que de patience !
+Mais si tu reviens ? Trop d'espace !
+C'est une musique au-delà. Doucement martelée de la tête au pied, coupable, oui !
+
+<div align="center">2</div>
+
+Qui est mon silence ? Qui ?
+Ne pas liquider les histoires de voyage, les pointer
+Elle se déshabillait en intimité et me parlait
+Il faut s'occuper de la sécurité des corridors
+L'obsécration est ou n'est pas une réponse
+Rendre visite fait souffrir, s'en aller fait souffrir
+Il n'y a pas de relâchement ni de pitié dans les guerres improvisées
+Viol et volée de bois vert sans réclamation
+C'est inaudible
+Tout serait derrière nous
+Infranchissable. Tout est définition d'une existence ou d'une relation
+Elle a passé le seuil dématérialisé de la lumière
+C'est à ce moment qu'on a compris nos contradictions et notre mal d'écrire
+On revient en arrière, certains de l'inconséquence du geste
+Changer les personnages, brûler les décors, jouer sur le vide
+Les répétitions seront longues à la mesure de la 
+dimension des partitions, de leur nombre et de leur continuité
+Elle me parlait de vies inconnues dans des pays 
+inconnus, des vies toutes empreintes de silence 
+et d'attente
+Qui est ma fuite ? Qui ?
+Je n'ai pas attendu les voyages pour m'égarer
+Avec elle, c'était plus facile et plus vrai, dans l'immédiat
+Lever les bras quand il est encore temps
+Quand la nature prend le dessus
+C'est une suite d'escaliers et de coursives, des embrasements en colimaçon
+Et la magie est toute contenue dans un silence, une porte ouverte, des lumières plus loin
+Ai-je bien entendu ? Ce n'était qu'un souffle
+Ai-je bien compris ? C'était encore un souffle
+Il n'y a pas de répétition possible des certitudes 
+ni des silences qui leur succèdent, pas de rebond
+C'est une nuit de musiques apparentées dans 
+les hauteurs d'Uzès
+C'est une nuit par-dessus la tête, indéfinissable
+Je t'ai donné un autre prénom mais l'identité n'était pas une réponse
+Il n'y a pas de vérité entre nous. Nous sommes des assemblages de sentiments, parfois à la dérive
+Rien n'est irréprochable. Il suffisait de reprendre le dernier voyage et d'être dans la prochaine étape quand le ciel devient délicat et s'efface.
+Qui est mon évidence ? Qui ?
+Qui est ma singularité ? Qui ?
+Elle donnait si peu de mots, si peu d'attaches
+Et les cimaises restaient vides
+Les seuils sont des places tristes. Il faut les franchir
+Nous étions le détail substantiel de notre mémoire
+Et dans la série des vagues qui se recouvrent, l'une après l'autre, l'une sur l'autre inévitablement
+Tu es la nuit viscérale, l'ombre indéchirable
+La légitimité féérique de l'ordinaire
+Ni plainte, ni regret, rien d'anormal, tout est 
+évanescent
+Qui est mon évidence? Qui ?
