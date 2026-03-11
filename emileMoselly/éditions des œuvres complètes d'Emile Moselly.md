@@ -33,7 +33,7 @@ chez[ **TheBookEdition.com**](https://www.thebookedition.com/fr/recherche?contro
 L’action se situe dans une Lorraine encore marquée par les conséquences de la guerre de 1870 et par la question de l’Alsace-Lorraine. Les jeunes personnages portent en eux un fort sentiment patriotique et moral. Ils rêvent d’un monde plus juste, plus solidaire, fondé sur l’honneur, l’amitié et le sacrifice.
 Le récit met en scène de jeunes hommes engagés dans le service militaire. Cependant Le service militaire n’est pas seulement un décor, il structure l’idéal du roman. Et La fraternité raconté par Moselly prend ici une dimension : morale (amitié virile, loyauté), et civique (engagement envers la nation), elle est presque spirituelle (foi dans une régénération par la jeunesse). À travers un récit transcrit dans un carnet où le "jeune aspirant", note ses impressions et relate les relations avec ses compagnons
 Le cadre militaire n’est pas un simple décor : il structure les relations, il crée une fraternité concrète (vie commune, discipline, épreuves partagées), et donne une dimension patriotique au récit.
-La Lorraine devient un lieu symbolique : terre blessée, et portznt porteuse d’espérance.
+La Lorraine devient un lieu symbolique : terre blessée, et pourtant porteuse d’espérance.
 Mais le cœur symbolique du roman est le carnet : Il contient les pensées intimes de son auteur. et conserve, à Travers lui, l’idéal des jeunes soldats. Il fixe par l’écriture leurs élans fraternels, et représente la mémoire d’un moment d’enthousiasme. Il a aussi une forte fonction dramatique : en montrant  l’écart entre les idéaux écrits et la réalité vécue. Il symbolise la fragilité de l’« aube ».
 
 ---
