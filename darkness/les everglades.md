@@ -6,14 +6,13 @@ updated: 2026-03-11
 tags:
   - suites
 draft: false
-pin: 1
+pin: 0
 toc: true
 lang: fr
 abbrlink: everglades
 ---
 # LES EVERGLADES
-récit graphiques
-
+récit graphique
  ![](./_images/everglades_1.jpg)
 
 ![](./_images/everglades_2.jpg)
