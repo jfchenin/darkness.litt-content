@@ -1,5 +1,5 @@
 ---
-title:
+title: les everglades
 published: 2023-07-02
 author: JFC
 updated: 2026-03-11
