@@ -15,7 +15,7 @@ Biographie établie par françois chénin (1966-1967), complétée par Jfrançoi
 
 ---
 
-### (### 1870-1873[^2] / Paris
+### (### 1870-1873 / Paris
 
 **12 août 1870** ‐ Naissance à la Bibliothèque Nationale, rue de Richelieu, où son père est gardien, de Emile François Achille Chénin, fils de Auguste François Achille Chénin et de Marguerite Joséphine Gantois. 14 mai 1871 ‐ Baptême à Chaudeney. Parrain : Victor Gantois, son oncle. Marraine : Léonie Chénin, sa tante.
 
@@ -27,7 +27,7 @@ Mai ‐ Joséphine Chénin et son fils viennent s'installer dans la maison de Ch
 
 Octobre ‐ Achille Chénin les rejoint.
 
-### **1876‐1881** [^1] **/ Chaudeney**
+### **1876‐1881**  **/ Chaudeney**
 
 A l'école communale
 
@@ -440,17 +440,17 @@ Inhumation provisoire à Lorient (cimetière de Kerentrech).
 
 2 11 août 1876 - l'assemblée vote des crédits pour la formation de 19 comités d'études et de vigilance contre le phylloxéra qui ravage les vignobles français.  Originaire de l’Est des Etats-Unis, le phylloxera est un insecte piqueur apparenté aux pucerons. Il fut signalé pour la première fois en France en 1863. Au XIXème siècle, le phylloxera eut une importance économique et sociale dramatique sur la viticulture française et européenne, qui fut dévastée et qui dut intégralement se reconstruire. Le phylloxera a aujourd’hui colonisé presque tous les vignobles du monde.
 
-3 Armand Abraham Blocq, connu sous le pseudonyme de Gaston Danville, est né à Toul le 18 novembre 1870, décédé à Paris le 4 septembre 1933 et inhumé à Toul le 16 septembre 1933. Figure littéraire de la fin du XIXe siècle, il est surtout resté  le collaborateur fidèle des premières années du célèbre _Mercure de France_,  revue littéraire à laquelle il participe dès 1891 et dans laquelle il publie ses _Contes d’au-delà_, particulièrement précieux pour qui étudie de près le fantastique fin-desiècle et ses airs de corruption. Armand Blocq sera un des témoins de mariage de E.M. avec Marie Barthélémy.
+5 Armand Abraham Blocq, connu sous le pseudonyme de Gaston Danville, est né à Toul le 18 novembre 1870, décédé à Paris le 4 septembre 1933 et inhumé à Toul le 16 septembre 1933. Figure littéraire de la fin du XIXe siècle, il est surtout resté  le collaborateur fidèle des premières années du célèbre _Mercure de France_,  revue littéraire à laquelle il participe dès 1891 et dans laquelle il publie ses _Contes d’au-delà_, particulièrement précieux pour qui étudie de près le fantastique fin-desiècle et ses airs de corruption. Armand Blocq sera un des témoins de mariage de E.M. avec Marie Barthélémy.
 
-4 Alphonse-Pierre Lemerre, né le 9 avril 1838 à Canisy, mort le 15 octobre 1912  à Paris. Editeur français réputé pour ses éditions des poètes parnassiens.  Il publia également des anthologies de grands auteurs classiques et romantiques.
+6 Alphonse-Pierre Lemerre, né le 9 avril 1838 à Canisy, mort le 15 octobre 1912  à Paris. Editeur français réputé pour ses éditions des poètes parnassiens.  Il publia également des anthologies de grands auteurs classiques et romantiques.
 
-5 Le fort de Lucey est construit au nord de la place en rive gauche de la Moselle.
+7 Le fort de Lucey est construit au nord de la place en rive gauche de la Moselle.
 
 6 Le camp de Châlons, connu également sous le nom de camp de Mourmelon,  est un camp militaire français se situant à Mourmelon, à proximité de la ville de Châlons-en-Champagne (Marne).
 
-7 Albert-Xavier-Émile Mathiez, né le 10 janvier 1874 à La Bruyère (Haute-Saône), mort le 25 février 1932 à Paris, est un historien français, spécialiste de la Révolution française.
+8 Albert-Xavier-Émile Mathiez, né le 10 janvier 1874 à La Bruyère (Haute-Saône), mort le 25 février 1932 à Paris, est un historien français, spécialiste de la Révolution française.
 
-8 Charles Pierre Péguy, né le 7 janvier 1873 à Orléans (Loiret) et mort pour la France le premier jour de la première bataille de l'Ourcq, le 5 septembre 1914 à Villeroy (Seine-et-Marne), est un écrivain, poète, essayiste et officier de réserve français. Il est également connu sous les noms de plume de Pierre Deloire et Pierre Baudouin. Son œuvre, multiple, comprend des _mystères_ d'inspiration médiévale en vers libres, comme _Le Porche du Mystère de la deuxième vertu_ (1912), et des recueils de poèmes en vers réguliers, comme _La Tapisserie de Notre-Dame_ (1913), d'inspiration mystique. C'est aussi un intellectuel engagé : après avoir été militant socialiste libertaire, anticlérical, puis dreyfusard au cours de ses études, il se rapproche à partir de 1908 du catholicisme et du nationalisme ; il reste connu pour sa poésie et ses essais, notamment _Notre Jeunesse_ (1910) ou _L'Argent_ (1913), où il exprime ses préoccupations sociales et son rejet de l'âge moderne. Il fonda et dirigea la revue _Les Cahiers de la quinzaine_ de 1900 à 1914.
+9 Charles Pierre Péguy, né le 7 janvier 1873 à Orléans (Loiret) et mort pour la France le premier jour de la première bataille de l'Ourcq, le 5 septembre 1914 à Villeroy (Seine-et-Marne), est un écrivain, poète, essayiste et officier de réserve français. Il est également connu sous les noms de plume de Pierre Deloire et Pierre Baudouin. Son œuvre, multiple, comprend des _mystères_ d'inspiration médiévale en vers libres, comme _Le Porche du Mystère de la deuxième vertu_ (1912), et des recueils de poèmes en vers réguliers, comme _La Tapisserie de Notre-Dame_ (1913), d'inspiration mystique. C'est aussi un intellectuel engagé : après avoir été militant socialiste libertaire, anticlérical, puis dreyfusard au cours de ses études, il se rapproche à partir de 1908 du catholicisme et du nationalisme ; il reste connu pour sa poésie et ses essais, notamment _Notre Jeunesse_ (1910) ou _L'Argent_ (1913), où il exprime ses préoccupations sociales et son rejet de l'âge moderne. Il fonda et dirigea la revue _Les Cahiers de la quinzaine_ de 1900 à 1914.
 
 9 André Bourgeois (1871-1944), ami de Péguy et administrateur des Cahiers de la Quinzaine.
 
@@ -471,7 +471,7 @@ correspondances entre Péguy et Romain Rolland, entre Péguy et Moselly. - Voir
 
 18  Sur Les Rosières de La Mothe Saint-Héray [voir](https://lamothesaintheray.123.fr/lesrosieres.html) et sur Charles Benjamin Chameau [voir](https://lamothesaintheray.123.fr/charlesbenjaminchameau.html)
 
-19 Antonin Lavergne, né Pierre-Antoine Lavergne le 5 juin 1863 à Aniane (Hérault) et mort le 6 mars 1941 à Saint-André-de-Sangonis (Hérault) est un écrivain et
+19 Antonin Lavergne, né Pierre-Antoine Lavergne le 5 juin 1863 à Aniane (Hérault) et mort le 6 mars 1941 à Saint-André-de-Sangonis (Hérault) est un écrivain et poète français. Son roman _Jean Coste ou l'Instituteur du village_, qui décrit les conditions de vie et d’exercice diﬃciles des hussards noirs de la République, eut à l’époque un grand retentissement.
 
 20 - 21 février - 18 décembre - Bataille de Verdun.
 
