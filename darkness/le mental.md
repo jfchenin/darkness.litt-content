@@ -1,5 +1,5 @@
 ---
-title: le mentzl
+title: le mental
 published: 2026-03-15
 author: JFC
 updated: 2026-03-15
