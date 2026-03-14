@@ -14,7 +14,7 @@ abbrlink: bess
 # **BESS**
 ou l’écriture de la danse
 
-*Bess ou l'écriture de la danse* figure dans le volume *les ombres* (2024) qui reprend
+*Bess ou l'écriture de la danse* figure dans le volume *les ombres* (2024) qui comprend
 *Avant de tomber,* (2013-2021)
 *Reprendre la figuration,* (2020)	
 *Bess suivi de L’idée du monde,* (2023)
@@ -24,6 +24,7 @@ ou l’écriture de la danse
 chez [TheBookEdition](https://www.thebookedition.com/fr/les-ombres-p-411032.html)
 
 <div align="center">⁂</div>
+
 
 J'ai connu Bess lors de mon troisième séjour à Kathmandu, en 2014. C’était un an avant le tremblement de terre qui détruisit une partie des trésors historiques de la ville. 
 
@@ -40,6 +41,7 @@ Mettre de l’ordre dans ces notes que je pensais égarées a pris du temps. Ell
 *Novembre 2022*
 
 <div align="center">⁂</div>
+
 
 La lune sombre, une, déplacée et désarticulée. En bord de mer, au bord d’un gouffre éruptif. La place majestueuse d’un souffle s’élargit. Une ombre, une ombre qui tombe en travers. C’est l’effleurement d’une ressemblance, le rêve identifié d’une séparation ou d’un renoncement. Ne parlons pas de sacrifice. Comme les feux d’artifice qui délogent les oiseaux et les amants, démonstration habile d’une parole libre, qui tient en suspension, qui ne soumet plus rien, résolue au désordre et aux frôlements inopportuns. 
 
@@ -72,6 +74,7 @@ Avec des mots sans précaution, Bess est attachée à cette rencontre intime de 
 
 <div align="center">⁂</div>
 
+
 Une petite imperfection dans le silence défait les lignes, rompt le pas ou le dénoue, remet en jeu la partition, introduit un doute ou un danger, scinde l’histoire et fragmente la vie. Bess s’arrime aux enchainements de son histoire, aux pas croisés quand les rives sont atteintes. Et voilà l'ajour du seuil, l’alerte que tout commence enfin. A l’encontre de l’habitude ou des regrets. Elle n’est jamais de circonstance. Il n’y a que des questions, des enfilades apparemment en désordre de gestes, de sauts, de corps arc-boutés les uns aux autres, des corps qui répètent l’élévation originelle, qui s’estompent vers le ciel. Des questions sans redondance et sans réponse. Des sensations disparates, des fluidités agencées pour se soustraire des rêves défaits, s’extraire du feu mouvant, effacer provisoirement les corps, leur rictus ou leur défaite. Des sensations qui remontent d’un monde ancien avec leurs lambeaux de naissance qui réveillent toute l’évidence de la lumière. Pas d’errance, pas de chute. Des perceptions arrangées de façon à tourner autour des rêves, ceux qui reviennent, jusqu’à l’imperceptible, jusqu’à cette naissance qui revendique, jusqu’au désir qui dérive. Place blanche et bleue d’un éveil ou d’une certitude, celle-là qui nous emporte au loin. 
 
 Bess est un souffle particulier, une incidence. Pas d’obstacle, pas de révélation plus outrageuse qui effacerait les premiers pas, pas d’instant plus opportun qui serait l’ombre indépassable des prochains silences. Rien de plus miraculeux que cette distance qui élève jusqu’au ciel, saut élancé jusqu’au réveil. Bess est sur un fil, au seuil d’une preuve infranchissable. Ce qui était son désir. Où la lumière devient une arme ou une arche. Bess penchée sur le gouffre enveloppée d’un murmure revenu de la terre, terre elle-même qui bouscule l’ordre des firmaments, qui s’amoncelle en larmes, dans les derniers vertiges qui l’emportent à l’à-pic des tombeaux ouverts. Bess s’échappe. Demain l'enfance, le réveil, l’enfance de l’art, pense-t-elle, une dédicace pour un souvenir, une indispensable révérence pour remercier et se démettre. Une grille, loin devant, l’ouverture du parc est imminente. Des nouveautés, des ombres par-dessus les toits, par-dessus les mains magiciennes du silence. Un pas de danse, toujours devant. Un pas de danse qui n’attend pas. Ce que la douleur ne sait pas faire, en un instant tellement ramassé sur lui même qu’il n’est plus rien, ni un geste, ni un regard, ni un souffle. Tout est perdu. Cette rencontre impossible entre le ciel et le reste des rêves, abandon des idées. 
@@ -81,6 +84,7 @@ Un corps de toutes les histoires qui la traversent mais d’une seule allitérat
 
 <div align="center">⁂</div>
 
+
 Un jour il faut revenir, rentrer chez soi, ouvrir la porte de la maison, finir par s’asseoir. Passer outre les désordres du retour, de la perte de la mémoire. Nous ne devrions pas être là à attendre, à répondre aux rêves immémoriaux. Alors on tremble. On s’habitue si peu à cet endroit pourtant familier. On est de retour. Le désordre dans les partitions viennent des rêves qui s’égarent en elles. Les rêves sont des revenants perpétuels. Nous circulons dans les ruptures de l’espace sur le temps. Et dans les brèches ainsi ouvertes nous tombons à grands coups de désir et nous revenons. Les dimensions de l’espace ne remplacent pas les visions dans lesquelles nous évoluons, libre-ment. C’est l’histoire de l’espace et des oiseaux de Nicolas de Staël. C’est l’histoire d’un bonheur qu’on n’a pas vu, ou ressenti, ou vécu, un bonheur en échange de toutes nos absences au bon moment. Les oiseaux s’envolent et balaient de leurs ailes de craie le fond noir du ciel. Nous avons fait tant de voyages, toujours à l’abri des revirements ou des incertitudes. Nous étions sur le qui-vive, déjouant les fausses rivières, les pièges des tableaux frelatés, les embuscades tendues entre nous pour nous séparer. L’esprit se scinde en deux quand il est seul. L’esprit n’est pas une force dans ces moments mais une dérive, un balancement pour trouver un équilibre, en s’égayant, en se désagrégeant pour respirer et nous sommes l’instant attendu d’une réverbération de plus, qui nous relèvera, qui nous sauvera, qui explosera. 
 
 Bess n’attend pas le silence, elle l’escorte ou le porte et franchit le seuil. Pour Bess ce n’est jamais une histoire, ni un ressentiment, ni un regret, tout est dans cette avance vers le vide qui la retient, où elle dérive ou semble dériver. On n’est jamais sûr de ce qu’elle arpente et du dessein final. On sait qu’on est devant la porte, quelle va être ouverte, qu’il y a un souffle qui nous rassure, que nous n’attendions pas et Bess redonne la mesure naturelle de l’enfantement, une naissance délicate, douce, juste prévisible pour l’espérer possible, Bess s’abat comme une pluie irrésistible, survivante et enflammée dans un frisson tournoyant. Les partitions ne sont jamais sereines et on échoue parfois à comprendre les omissions qu’elles proposent comme des défauts ou des failles qu’il faudrait échafauder. On déchiffre de travers quand on pense exhausser le cosmos qui s’assemble devant nous. 
@@ -89,15 +93,16 @@ la terre.
 
 <div align="center">⁂</div>
 
+
 Le réel est en désordre, dérivant, en fin de course, égaré et trébuchant. Un réel qui ne donne plus d’images, qui en est envahi et les enfouit loin de visions possibles, un réel aveuglé d’un trop-plein de lui-même. Et in terra pax depuis la profondeur du réel. Ce qui monte à la surface est un silence, un presque silence d’un début de monde, une naissance dans le souffle des voix, les voix parcourues des aurores et des crépuscules. Il y a des nuits qu’on ne bouscule pas, qu’on devine, qui chantent le ciel en elles, tout autour d’elles, voiles, voilures et nuages qui s’évanouissent en elles, froissées des traces de l’ombre et du sillage des étoiles, jusqu’au linceul qui les recouvre, pour attendre la venue de nouveaux mots plus justes pour les nommer. Ce que je sais des nuits n’est pas en elles, mais de ce qui les porte et les élève, ce petit morceau d’univers dans les yeux. 
 Chaque nuit est une nuit bienvenue, chaque nuit un morceau de l’histoire, chaque nuit sort d’une coïncidence, d’un enlèvement et d’une rencontre, chaque nuit qui vient, jamais à rebours et Bess a trouvé chaque pas de cette danse qui change à chaque nuit bienvenue. Bess déjà happée par les lumières nécessaires aux ombres réverbérées du vide, à chaque soulèvement d’une respiration de la terre, Bess se tient au début de la danse du monde dans la nuit qui monte. Oui, la nuit monte et s’élève partout où Bess trouve les pas pour le dire. Ce qui vient est trouble-fête dans le ciel suspendu, à l’orée des souffles qui vont bientôt le parcourir et nous happer, et nous déposséder de nos secrets, et nous dessaisir d’une vie. Bess roule au-dessus des heurts prévisibles, évite les leurres du silence et des chants d’oiseaux mêlés, s’accroche aux irrégularités des murmures du fond du ciel, âprement, exposée sans dissimulation aux déchirures d’une nuit peuplée de traverses 
 invisibles. Bess danse. 
 
 <div align="center">⁂</div>
 
+
 Un aperçu des défauts du désir, un vide qui s’estompe, un vide retombé, déplacé. C’est une question de perception, des avantages qu’apportent les sensations répercutantes. 
-Elle dit : 
-Les grands bonheurs sont des gouffres, des gouffres d’apparence. La réalité n’a plus d’importance quand à chaque pas, les sauts, les entrechats sont les leurres d’un grand changement. Il n’y pas d’obstacle infranchissable sauf, parfois, la peur. Apprivoiser le changement même, voilà le secret de la danse.
+Elle dit : Les grands bonheurs sont des gouffres, des gouffres d’apparence. La réalité n’a plus d’importance quand à chaque pas, les sauts, les entrechats sont les leurres d’un grand changement. Il n’y pas d’obstacle infranchissable sauf, parfois, la peur. Apprivoiser le changement même, voilà le secret de la danse.
 
 La couleur bleue des jours est suspendue aux étoiles invisibles du temps comme un espace vertical de pas à pas. La vitesse de la lumière n’est pas une constante dans les arabesques éclatées des jours contre la nuit. Bess ne lui doit rien. Elle est ce don à la lumière d’un mouvement vivant singulier. L’unicité du réel est en elle, un seul point à l’assaut des ombres. 
 
@@ -116,8 +121,7 @@ La naissance de l’horizon est son chant, sa venue. La légèreté l’emporte,
 Un chant de loin, qui se rapproche selon des lignes qu’elle seule devine, des lignes réfléchissantes, étrangement simplifiées, ourlant les vents de fils gris et noirs, elle est cette graminée tremblante, cette vie innombrable, immense qui monte en elle, qu’elle laisse surgir, ressentir, s’égarer, qui la dévore, un chant d’une force insoupçonnable qui enroule sans la courber,  elle est le chant mystérieux au milieu du mouvement sans fin des apparences. La nuit, les obstacles sont dispersés, rien d’original dans ces tentatives d’enracinement, puis de soulèvement, cette illusion, parfois sincère, d’être une épaule, un bras, une poitrine, tout un portefaix d’une mer sans matière, un effritement de l’existence. Elle aura égueulé les ombres qui la séparent du ciel,  pour passer une main, tout le bras jusqu’à devenir ce corps tout entier libéré dans la réverbération revenues des couleurs.
 Bess fredonne les chants qui la rassurent, le contrepoint des ondes amoncelées dans l’étroite lueur qui rehausse la voix, donne le souffle, grandit le geste parcouru encore de tremblements. Elle se défait des rives et des vagues jetées de front à son visage. Elle s’évade, son corps est un voile qui s’effile entre les étoiles, elle est son assomption.
 
-Bess dit : 
-Il n'y a pas de douleur plus forte que l’absence de pas, plus intense que la 
+Bess dit : Il n'y a pas de douleur plus forte que l’absence de pas, plus intense que la 
 disparition de l’émotion, plus tragique que l’immobilité sous-jacente à tout mouvement. La danse est parfois une caricature de ce qu’elle veut signifier, mais tout est dans le retrait en soi, dans cette capacité à leurrer les faux mouvements et à effacer les leurres de l’émotion. Je danse par amour, pas par nécessité.
 
 Ma dévotion est complète à la recherche de figures simples et majestueuses. Peu importe la technique, peu importe la méthode, je donne des gages aux circonstances qui naissent en moi, qui sont mes motifs de rencontres et d’assouvissement. Technique et méthode viennent et s’effacent de surcroit.
@@ -138,6 +142,10 @@ Bess n'est que musique, abandon, intention, oiseau, flux et reflux, flammes et f
 Bess trace la ligne de faîte des montagnes qui nous cernent et disparait dans les hauteurs d'un ciel noir, toujours plus transparent, plus intelligible. Bess n'est que désir, à tout propos, à tout moment et où la vie est intenable, elle plonge dans les voiles rapprochés d'un plaisir qu'elle assemble et donne. Où la vie est innervée de ses pas.
 A quoi ressemble ma danse ? dit-elle. Y a-t'il des inventions encore plus attachantes ? Je franchis des espaces déjà en moi aussi matériels que possible. Aussi vivants que possible. Dans les ombres bousculées de mes pas, il y a tous les équilibres qui me retiennent de tomber et m'accordent de franchir l'indicible. Je suis les ailes qui m'emportent, je suis le souffle qui me soulève, l'île qui me sauve et me donne la parole.
 
+<div align="center">⁂</div>
+
 A quoi ressemble mon histoire ? dit-elle. Je viens d'un monde estropié, balancé d'erreurs et de douleurs, un monde où je devais être aveugle. Me reste les frôlements de l'envol des oiseaux, le froissement de l'eau à la cascade, toute chute entendue et toute élévation répercutée qui me donnaient le poids du monde. Alors j'ai fait mes premiers pas dans le silence de pièces sombres, mes premiers entrelacs à la fenêtre des étoiles, accompagnée du seul appel des vagues.
 
 Je suis vivante jusqu'au paroxysme, dit-elle. De toute l'exubérance de la vie, dit-elle. Jusqu'au détachement de la vie même, dit-elle. Je suis la matière imprescriptible du vivant en moi. Je suis un parfum volé, des lèvres et des ailes pour dire mon amour, vivante comme un jour d'été toujours prête à m'envoler, vivante jusqu'à la pointe du ciel. Vivante jusqu'à en mourir dans le souffle de la terre.
+
+<div align="center">⁂</div>
