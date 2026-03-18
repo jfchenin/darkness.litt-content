@@ -36,3 +36,7 @@ abbrlink: articclesurmoselly
 [JF Chénin : Emile Moselly et la critique Emile Moselly, vie et œuvres, 2023, The BookEdition](https://www.calameo.com/read/00602640607bf3287141a?authid=dLu74hrpLGfo)
 
 [Patricia Szafranski : Un jeu d’épreuves de Fils de Gueux, roman d’Émile Moselly](https://journals.openedition.org/genesis/1239)
+
+[christian Leroy : La Houle d'Emile Moselly : lecture](https://www.calameo.com/read/006026406794bddc4d641?authid=hAt02xMMDmj0)
+
+---
