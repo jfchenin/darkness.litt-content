@@ -14,7 +14,7 @@ abbrlink: mental
 # LE MENTAL
 
 Les 8 premières pages de *mental* reprennent une partie de mon journal écrit en 2020. 
-[VOIR RECOMPOSITION](https://darkness.chenin.fr/darkness/reccomposition/)Les pages suivantes de *mental* ont été composées après (en 2022 si ma mémoire est bonne.) à partir de la définition de l'habitude reprise du dictionnaire en ligne du CNRLT. Ce texte a accompagné la réalisation des collages de love LIFE [voir LoveLife](https://www.calameo.com/read/00602640602f997101629?authid=LCckmH41KWi1)
+[VOIR RECOMPOSITION](https://darkness.chenin.fr/darkness/reccomposition/) Les pages suivantes de *mental* ont été composées après (en 2022 si ma mémoire est bonne.) à partir de la définition de l'habitude reprise du dictionnaire en ligne du CNRLT. Ce texte a accompagné la réalisation des collages de love LIFE [voir LoveLife](https://www.calameo.com/read/00602640602f997101629?authid=LCckmH41KWi1)
 
 ---
 
