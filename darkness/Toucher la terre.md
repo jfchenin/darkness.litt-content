@@ -61,5 +61,5 @@ Philippe Descola, les formes du visibles, le seuil, 2021
                                     ![](./_images/toucher_41.jpg)
                                      ![](./_images/toucher_42.jpg)
                                       ![](./_images/toucher_43.jpg)
-	                                    ![[./_images/toucher_46.jpg]]
-                                    
+                                       ![](./_images/toucher_46.jpg)
+
