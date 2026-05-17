@@ -35,5 +35,5 @@ A trois enfants et aime s’attarder à la terrasse des cafés.
 Aujourd’hui en Normandie, face à la mer.
 Voyage encore un peu. Ecrit partout où il va [en savoir plus](https://darkness.chenin.fr/darkness/). Dessine la nuit. [en savoir plus](https://darkness.coexpro.com/)
 
-Publie [**ses livres**] (https://www.calameo.com/read/006026406395082c961e9?authid=c1pu5UIixxfh)en édition numérique sur [**theBookEdition**] (https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
+Publie [**ses livres**](https://www.calameo.com/read/006026406395082c961e9?authid=c1pu5UIixxfh) en édition numérique sur [**theBookEdition**](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
 Pour me joindre : jfrancois@chenin.fr
