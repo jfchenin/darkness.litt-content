@@ -17,7 +17,7 @@ JFrançois Chénin, né en 1954, en Lorraine.
 Grâce à un père voyageur, passe son enfance à l’étranger (Grèce, Turquie, Iran…).
 
 Avec un arrière-grand-père Prix Goncourt 1907, Emile Moselly, reste attaché à cette Lorraine rurale, celle de la Moselle et des chènevières de Chaudeney, des écluses d’Ecrouves et des courbes de la Moselle à Pierre-Latreiche, de la Forêt de Haye et des Côtes de Toul.
-A consacré ses dernières années, avec son frère Gilles, à rééditer l’œuvre complète de cet écrivain oublié, en [savoir plus](https://www.calameo.com/read/006026406da048c6f1c9f?authid=z9fxKhAWYYtB)
+A consacré ses dernières années, avec son frère Gilles, à rééditer l’œuvre complète de cet écrivain oublié, en [savoir plus](https://www.calameo.com/read/0060264063d2c0ce31550?authid=9IpYJurt363I)
 
 Entretiendra une correspondance éphémère avec Jean-François Lyotard, René Char, Francis Ponge, Gilles Deleuze, George Mounin, Eugène Guillevic et d’autres, sans suite
 
@@ -35,5 +35,5 @@ A trois enfants et aime s’attarder à la terrasse des cafés.
 Aujourd’hui en Normandie, face à la mer.
 Voyage encore un peu. Ecrit partout où il va [en savoir plus](https://darkness.chenin.fr/darkness/). Dessine la nuit. [en savoir plus](https://darkness.coexpro.com/)
 
-Publie en édition numérique sur [theBookEdition](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
+Publie [**ses livres**](https://www.calameo.com/read/006026406395082c961e9?authid=c1pu5UIixxfh)en édition numérique sur [**theBookEdition**](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
 Pour me joindre : jfrancois@chenin.fr
