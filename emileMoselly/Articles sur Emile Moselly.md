@@ -41,7 +41,7 @@ abbrlink: articlesurmoselly
 
 [JF Chénin : Place et signification du *journal de Gottfried Mauser* d'Emile Moselly dans les grands récits de la guerre de 14-18](https://www.calameo.com/read/006026406d10b43fed6f9?authid=iC9bpUFK1foq)
 
-[JF Chénin : L'expérience de l'humanité chez Emile Moselly, A travers *L'Aube fraternelle* (1902) et *Le Journal de Gottfried Mauser* (1916) (https://www.calameo.com/read/00602640654ca3f913dbb?authid=SEuDaPr7T7wb)
+[JF Chénin : L'expérience de l'humanité chez Emile Moselly, A travers *L'Aube fraternelle* (1902) et *Le Journal de Gottfried Mauser* (1916)]https://www.calameo.com/read/00602640654ca3f913dbb?authid=SEuDaPr7T7wb)
 
 
 
