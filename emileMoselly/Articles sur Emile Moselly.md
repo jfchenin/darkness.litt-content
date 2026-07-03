@@ -9,7 +9,7 @@ draft: false
 pin: 0
 toc: true
 lang: fr
-abbrlink: articclesurmoselly
+abbrlink: articlesurmoselly
 ---
 # Quelques articles sur Emile Moselly
 
@@ -27,16 +27,25 @@ abbrlink: articclesurmoselly
 
 [Allfred Saffrey  : Emile Moselly, L'Amitié Charles Péguy, 15 mars 1966](https://www.calameo.com/read/006026406361c49266f8a)
 
-[Philippe Masson : Une commémoration littéraire avortée : le monument à EMILE MOSELLY, Etudes Touloise, 2018(166, 37-41)](https://www.calameo.com/read/006026406c8b5ee17aa08?authid=uVuqESCNUtl8)
+[Philippe Masson : Une commémoration littéraire avortée : le monument à Emile Moselly, Etudes Touloise, 2018(166, 37-41)](https://www.calameo.com/read/006026406c8b5ee17aa08?authid=uVuqESCNUtl8)
 
-[Paul Sadoul : La première édition du Rouet D'ivoire, le pays Lorrain, 1990](https://www.calameo.com/read/006026406dbe6a644e7f1)
+[Paul Sadoul : La première édition du *Rouet D'ivoire*, le pays Lorrain, 1990](https://www.calameo.com/read/006026406dbe6a644e7f1)
 
-[JF Chénin : Emile Moselly, le chant du peuple et de la terre, à propos des Cahiers, Emile Moselly, vie et œuvres, 2023, The BookEdition](https://www.calameo.com/read/006026406da048c6f1c9f?authid=z9fxKhAWYYtB)
+[JF Chénin : Emile Moselly, le chant du peuple et de la terre, in *Emile Moselly, vie et œuvres*, 2023, The BookEdition](https://www.calameo.com/read/006026406da048c6f1c9f?authid=z9fxKhAWYYtB)
 
-[JF Chénin : Emile Moselly et la critique Emile Moselly, vie et œuvres, 2023, The BookEdition](https://www.calameo.com/read/00602640607bf3287141a?authid=dLu74hrpLGfo)
+[JF Chénin : Emile Moselly et la critique Emile Moselly, in vie et œuvres, 2023, The BookEdition](https://www.calameo.com/read/00602640607bf3287141a?authid=dLu74hrpLGfo)
 
-[Patricia Szafranski : Un jeu d’épreuves de Fils de Gueux, roman d’Émile Moselly](https://journals.openedition.org/genesis/1239)
+[Patricia Szafranski : Un jeu d’épreuves de *Fils de Gueux*, roman d’Émile Moselly](https://journals.openedition.org/genesis/1239)
 
-[christian Leroy : La Houle d'Emile Moselly : lecture](https://www.calameo.com/read/006026406794bddc4d641?authid=hAt02xMMDmj0)
+[christian Leroy : *La Houle* d'Emile Moselly : lecture](https://www.calameo.com/read/006026406794bddc4d641?authid=hAt02xMMDmj0)
+
+[JF Chénin : Place et signification du *journal de Gottfried Mauser* d'Emile Moselly dans les grands récits de la guerre de 14-18](https://www.calameo.com/read/006026406d10b43fed6f9?authid=iC9bpUFK1foq)
+
+[JF Chénin : L'expérience de l'humanité chez Emile Moselly, A travers *L'Aube fraternelle* (1902) et *Le Journal de Gottfried Mauser* (1916) (https://www.calameo.com/read/00602640654ca3f913dbb?authid=SEuDaPr7T7wb)
+
+
+
+
+
 
 ---
