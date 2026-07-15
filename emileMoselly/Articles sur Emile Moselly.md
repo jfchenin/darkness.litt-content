@@ -33,7 +33,7 @@ abbrlink: articlesurmoselly
 
 [JF Chénin : Emile Moselly, le chant du peuple et de la terre, in *Emile Moselly, vie et œuvres*, 2023, The BookEdition](https://www.calameo.com/read/006026406da048c6f1c9f?authid=z9fxKhAWYYtB)
 
-[JF Chénin : Emile Moselly et la critique Emile Moselly, in vie et œuvres, 2023, The BookEdition](https://www.calameo.com/read/00602640607bf3287141a?authid=dLu74hrpLGfo)
+[JF Chénin : Emile Moselly et la critique in Emile Moselly, ivie et œuvres, 2023, The BookEdition](https://www.calameo.com/read/00602640607bf3287141a?authid=dLu74hrpLGfo)
 
 [Patricia Szafranski : Un jeu d’épreuves de *Fils de Gueux*, roman d’Émile Moselly](https://journals.openedition.org/genesis/1239)
 
