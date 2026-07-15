@@ -43,4 +43,8 @@ abbrlink: articlesurmoselly
 
 [JF Chénin : L'expérience de l'humanité chez Emile Moselly](https://www.calameo.com/read/00602640654ca3f913dbb?authid=SEuDaPr7T7wb)
 
+[JF Chénin : Nouvelles Volume 1 : la naissance d'un écrivain de la conscience](https://www.calameo.com/read/0060264065af8400061be?authid=GuWCTLShgCgO)
+
+[JF Chénin : Nouvelles Volume2 : L'expérience de l'humanité chez Emile Moselly](https://www.calameo.com/read/00602640654ca3f913dbb?authid=SEuDaPr7T7wb)
+
 ---
