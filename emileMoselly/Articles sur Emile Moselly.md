@@ -47,4 +47,8 @@ abbrlink: articlesurmoselly
 
 [JF Chénin : Nouvelles Volume2 : L'expérience de l'humanité chez Emile Moselly](https://www.calameo.com/read/00602640654ca3f913dbb?authid=SEuDaPr7T7wb)
 
+[JF Chénin : *La houle* ou la construction d'une identité ](https://www.calameo.com/read/006026406d38f72c329be?authid=yzpiiDsHEKZ7)
+
+[JF Chénin : Les *Cahiers* d'Emile Moselly ou la formation d'une conscience](https://www.calameo.com/read/00602640628fb373dbe1c?authid=Fx2Wm3zdgxpy)
+
 ---
