@@ -16,12 +16,12 @@ ou l’écriture de la danse
 
 *Bess ou l'écriture de la danse* figure dans le volume *les ombres* (2024) qui comprend
 *Avant de tomber,* (2013-2021)
-*Reprendre la figuration,* (2020)	
+*Reprendre la figuration,* (2020)   
 *Bess suivi de L’idée du monde,* (2023)
 
-![Couverture de Les ombres ](./_images/lesombres.jpg)
+![Couverture de Les ombres ][image-1]
 
-chez [TheBookEdition](https://www.thebookedition.com/fr/les-ombres-p-411032.html)
+chez [TheBookEdition][1]
 
 <div align="center">⁂</div>
 
@@ -149,3 +149,7 @@ A quoi ressemble mon histoire ? dit-elle. Je viens d'un monde estropié, balanc�
 Je suis vivante jusqu'au paroxysme, dit-elle. De toute l'exubérance de la vie, dit-elle. Jusqu'au détachement de la vie même, dit-elle. Je suis la matière imprescriptible du vivant en moi. Je suis un parfum volé, des lèvres et des ailes pour dire mon amour, vivante comme un jour d'été toujours prête à m'envoler, vivante jusqu'à la pointe du ciel. Vivante jusqu'à en mourir dans le souffle de la terre.
 
 <div align="center">⁂</div>
+
+[1]:	https://www.thebookedition.com/fr/les-ombres-p-411032.html
+
+[image-1]:	./_images/lesombres.jpg

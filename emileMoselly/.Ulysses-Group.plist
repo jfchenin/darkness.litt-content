@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Articles sur Emile Moselly.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058696</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Eléments de bibliographie.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058398</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Emile Moselly en famille.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058398</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Emile moselly et la critique.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058601</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Le tour de l'île Felix leclerc.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169363.24414897</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>Moselly par son fils.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058601</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>biographie-detaillee.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058196</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>le-chant-de-la-terre.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058506</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>qui-est-Emile-Moselly.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058303</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>éditions des œuvres complètes d'Emile Moselly.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>808169264.90058506</real>
+				<key>version</key>
+				<dict>
+					<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>biographie-detaillee.md</string>
+		</array>
+		<array>
+			<string>Le tour de l'île Felix leclerc.md</string>
+		</array>
+		<array>
+			<string>qui-est-Emile-Moselly.md</string>
+		</array>
+		<array>
+			<string>Eléments de bibliographie.md</string>
+		</array>
+		<array>
+			<string>Emile Moselly en famille.md</string>
+		</array>
+		<array>
+			<string>le-chant-de-la-terre.md</string>
+		</array>
+		<array>
+			<string>éditions des œuvres complètes d'Emile Moselly.md</string>
+		</array>
+		<array>
+			<string>Emile moselly et la critique.md</string>
+		</array>
+		<array>
+			<string>Moselly par son fils.md</string>
+		</array>
+		<array>
+			<string>Articles sur Emile Moselly.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>d14fd2ea137b22ead8488d403fd7dd6724a7daf8afffd658aa03586556a07afb</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
