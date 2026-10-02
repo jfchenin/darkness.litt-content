@@ -19,9 +19,10 @@ ou l’écriture de la danse
 *Reprendre la figuration,* (2020)   
 *Bess suivi de L’idée du monde,* (2023)
 
-![Couverture de Les ombres ][image-1]
 
-chez [TheBookEdition][1]
+![[lesombres.jpg]]
+
+chez [TheBookEdition]
 
 <div align="center">⁂</div>
 
