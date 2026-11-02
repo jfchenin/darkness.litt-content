@@ -1,7 +1,7 @@
 ---
-title: asphodeles
-published: 2026-07-27
+title: asphodeles2
 author: JFC
+published: 2026-07-27
 updated: 2026-07-27
 tags:
   - suites
@@ -11,11 +11,9 @@ toc: true
 lang: fr
 abbrlink: asphodeles
 ---
+# **l'usage des mots qui nous portent2**
 
-
-# **l'usage des mots qui nous portent**
-
-Après avoir écrit , *la morte au charme* j'avais pris la décision de m'arrêter d'écrire, considérant que j’étais arrivé au bout de mon écriture et que, peut-être, je commençais à tourner en rond. Et puis en avril 2025 j'ai subi un AVC. Il a détruit une partie de ma pensée créatrice et mis à bas ma faculté d'écrire, je pensais confirmer cette intention initiale et renoncer complètement à l'écriture, mais c'était sans compter avec le retour des mots, et toute leur intensité, mots qui viennent et reviennent et que j’aime assembler. Ils ont commencé à me manquer. J'ai débuté un bloc-notes _la couleur des asphodèles_ pour savoir si je pouvais encore écrire, si j'avais encore quelques petites choses à dire. Cela étant je n'ai jamais vraiment raconté beaucoup de choses ni de grandes histoires et mes écrits, mes textes, sont des aventures de mots, d’abord des recherches stylistiques en quelque sorte et si la signification vient je la retourne et la retourne encore pour la posséder entièrement. Je vais de brèves en brèves dans mes voyages mentaux. mon œuvre n’a pas d’intrigue narrative traditionnelle : elle fonctionne plutôt comme une exploration introspective et réflexive autour de thèmes comme le silence, la figuration, le voyage, le ressenti des sentiments et du langage. À travers cette écriture par fragments, je cherche à déjouer le silence, à nommer ce qui échappe au monde palpable, et à confronter des sentiments, des sensations et intuitions qui se tiennent entre le feu ( une énergie, comme un sursaut) et le bleu (le ciel, l’espace, l’infini). Le texte joue sur des images, des atmosphères et des fragments d’écriture pour évoquer ce que le silence emporte et ce que le ciel conserve dans ses traces : une manière poétique de rendre visibles les ombres - non pas seulement des silhouettes, mais des idées, des émotions et les zones d’ombre de l’expérience humaine.
+Après avoir écrit , *la morte au charme* j'avais pris la décision de m'arrêter d'écrire, considérant que j’étais arrivé au bout de mon écriture et que, peut-être, je commençais à tourner en rond. Et puis en avril 2025 j'ai subi un AVC. Il a détruit une partie de ma pensée créatrice et mis à bas ma faculté d'écrire, je pensais confirmer cette intention initiale et renoncer complètement à l'écriture, mais c'était sans compter avec le retour des mots, et toute leur intensité, mots qui viennent et reviennent et que j’aime assembler. Ils ont commencé à me manquer. J'ai débuté un bloc-notes *la couleur des asphodèles* pour savoir si je pouvais encore écrire, si j'avais encore quelques petites choses à dire. Cela étant je n'ai jamais vraiment raconté beaucoup de choses ni de grandes histoires et mes écrits, mes textes, sont des aventures de mots, d’abord des recherches stylistiques en quelque sorte et si la signification vient je la retourne et la retourne encore pour la posséder entièrement. Je vais de brèves en brèves dans mes voyages mentaux. mon œuvre n’a pas d’intrigue narrative traditionnelle : elle fonctionne plutôt comme une exploration introspective et réflexive autour de thèmes comme le silence, la figuration, le voyage, le ressenti des sentiments et du langage. À travers cette écriture par fragments, je cherche à déjouer le silence, à nommer ce qui échappe au monde palpable, et à confronter des sentiments, des sensations et intuitions qui se tiennent entre le feu ( une énergie, comme un sursaut) et le bleu (le ciel, l’espace, l’infini). Le texte joue sur des images, des atmosphères et des fragments d’écriture pour évoquer ce que le silence emporte et ce que le ciel conserve dans ses traces : une manière poétique de rendre visibles les ombres - non pas seulement des silhouettes, mais des idées, des émotions et les zones d’ombre de l’expérience humaine.
 
 Je joue ainsi des fragments que j’ajuste les uns aux autres, dans de longues marches mentales, où je perds parfois le fil. Mais je reviens toujours au point focal qui a éclairé une idée et permis de débuter un texte. De fragments en fragments, j’avance.
 
@@ -93,7 +91,7 @@ Faire un collage c'est créer du contexte.
 
 La couleur des asphodèles est le silence.
 
-Dormir et rêver sous l'orage. Abandon des masques illégitimes, presque rien ne pourra survivre. Si tout est d'aventure, tous les éléments reviennent à la surface, s’agglomèrent sans imperfection, comme une surface lisse de glace. Rien n'est vraiment cohérent. Rien n'est possible. Souvent la vie s'évade jusqu'au jour. 
+Dormir et rêver sous l'orage. Abandon des masques illégitimes, presque rien ne pourra survivre. Si tout est d'aventure, tous les éléments reviennent à la surface, s’agglomèrent sans imperfection, comme une surface lisse de glace. Rien n'est vraiment cohérent. Rien n'est possible. Souvent la vie s'évade jusqu'au jour.
 
 Obstruction. Les jours perdus sont à venir pour un regard fixe, un champ interrompu, une brève histoire d'abandon. Il y a des solutions dérangeantes qui altèrent la vérité. Nous serons réunis, il y aura du silence et des parfums imprévus, pour nous retrouver. Les paysages basculent, à chaque pas. L'amour a besoin de nous. Inlassablement.
 
@@ -116,7 +114,7 @@ Les dimensions sont ridicules qui nous séparent de l'univers.
 Au fur et à mesure que nous avançons, nous disparaissons comme une fuite en avant.
 Dans les sursauts des étoiles en nous, nous sommes les trous noirs de nos pensées.
 Il n'y a pas de solution aux désordres qui surviennent dans notre monde vers l'inconnu.
-Nous allons dans une logique de disparition, pourtant personne ne disparaîtra après nous. La ligne est de jouer avec les images, de deviner ce qu'elles cachent. 
+Nous allons dans une logique de disparition, pourtant personne ne disparaîtra après nous. La ligne est de jouer avec les images, de deviner ce qu'elles cachent.&nbsp;
 Je sais d'où je viens, je suis tout ce que j'apprends.
 
 Il y a des papillons qui ne disent rien, qui soulèvent encore les parfums, qui donnent des rêves. Les papillons aux ailes bleues sont des rêves d'avant la vie, ils arrivent en désordre, ils s'effacent quand on les regarde. Ils racontent une histoire.
@@ -125,13 +123,13 @@ Les images comblent un vide, un détournement d'obstacles pour mieux les déchif
 
 À mesure que l'espace rétrécit, surgir d'entre les vagues, en petits morceaux, en petits paquets d'écume, suivis d'autres paquets d'écume. Place opportune. Les dernières vagues surgissent en silence et tout s'efface. En retour, l'espace a disparu. Comme s'il n'avait jamais existé.
 
-Rattraper le temps perdu,  -  drôle d’idée  – Le temps passé est-il le temps perdu ?
+Rattraper le temps perdu,&nbsp; -&nbsp; drôle d’idée&nbsp; – Le temps passé est-il le temps perdu ?
 Écouter à nuit. Qui viendra nous chercher ? Qui aura ce désir ou cette inconscience ?
 Sans passion pour revivre ou se dédouaner de tomber. Sans amertume pour ce qui viendra.
 
 Aujourd'hui, absence de Tendance.
 
-C'est un morceau de Bach ou de Vivaldi, puis un moment de silence. Une infinie vibration qui finit ce morceau. Une vision, une rencontre. Un rêve parcellaire, une fuite. La musique est mercenaire. Elle débute par une larme sans fleurs, sans parole et dans ces moments les dieux sont une imposture. 
+C'est un morceau de Bach ou de Vivaldi, puis un moment de silence. Une infinie vibration qui finit ce morceau. Une vision, une rencontre. Un rêve parcellaire, une fuite. La musique est mercenaire. Elle débute par une larme sans fleurs, sans parole et dans ces moments les dieux sont une imposture.
 
 Au bout d'un silence, qui ne dit rien, ou qui n'apporte rien, ou éclatent des passions antagonistes, l'obéissance est un oubli, l'oubli des contingences et des ressentiments. L'oubli des manières et du rêve. L'espérance c'est ce même oubli, décuplé.
 
@@ -147,7 +145,7 @@ Appréhension simultanée des hauts et des bas. C'est la solution du désir.
 
 Je suis une incartade à l’assaut des vagues de sable, celles qui s'adressent au ciel revenu. J'ai une vision minérale, opaline, ajourée qui me donne le vertige et remplace mes visions du reste du monde. Les rêves sont infranchissables. Ils atteignent la démesure où ils tombent.
 
-À l'abri dans les vagues. 
+À l'abri dans les vagues.&nbsp;
 La rédemption.
 Parfois, la liberté
 Manque d’'image
@@ -155,7 +153,7 @@ Toute réveillée
 De ses illusions Toute rassurée D’espérances
 Villégiature.
 
-À la fin des fins, souvent, un vrai silence, de la peur, émouvante, alors aller jusqu'au ponton, détacher la barque, s'affranchir de son rêve. Partir sans émotion et sans retour. Absence des mots de l'écriture. Un et deux. Saut dans l'inconnu. À la fin, le silence s'impose, sans domination. 
+À la fin des fins, souvent, un vrai silence, de la peur, émouvante, alors aller jusqu'au ponton, détacher la barque, s'affranchir de son rêve. Partir sans émotion et sans retour. Absence des mots de l'écriture. Un et deux. Saut dans l'inconnu. À la fin, le silence s'impose, sans domination.
 
 Quand un silence est défait, il éclate. Dans chaque silence, il y a une cathédrale, dressée sur ses arcs-boutants. Il faut savourer l'orage pour ce qu'il est. Une emprise de feu sur le vide.
 
@@ -180,7 +178,7 @@ Les réponses sont dans les impressions. Et seul le passé ferme les blessures �
 La mesure
 En silence, la vie reflue et s’efface.
 
-J'imagine la pluie comme une larme bleue, défaite par le souffle des vents, des vents contraires qui tombent les uns contre les autres dans le vide sous nos pas. J'imagine des feux soulevés par nos paroles, par nos mots, échappés de nos écritures et de nos songes. Nous sommes des espaces essoufflés. 
+J'imagine la pluie comme une larme bleue, défaite par le souffle des vents, des vents contraires qui tombent les uns contre les autres dans le vide sous nos pas. J'imagine des feux soulevés par nos paroles, par nos mots, échappés de nos écritures et de nos songes. Nous sommes des espaces essoufflés.
 
 Le destin a quatre couleurs.
 Il faut l'imaginer ainsi. La folie est une représentation du monde.
@@ -205,7 +203,7 @@ La douleur est à rebours de nos sentiments. En embuscade cachée par le désir.
 
 Toutes les fenêtres étaient ouvertes, et la lumière, et la chaleur, entrées à grands coups d'horizon, loin derrière les arbres, à perte de vue, et sans insistance, comme une migraine qui oublie ses doutes sur le coin d'une table.
 
-Les impressions sont innombrables qui abaissent nos visions du monde, qui sont le monde même, qui se retournent contre lui. Parfois, j'ai peur des ombres qui naissent de ces visions sans argument. Ce sont des appréhensions impossibles, nous allons sans mode d'emploi, dans un vide de l'univers qui nous emplit. La vérité est un oubli en face à-face jusqu'à la prochaine vérité ou le prochain oubli. 
+Les impressions sont innombrables qui abaissent nos visions du monde, qui sont le monde même, qui se retournent contre lui. Parfois, j'ai peur des ombres qui naissent de ces visions sans argument. Ce sont des appréhensions impossibles, nous allons sans mode d'emploi, dans un vide de l'univers qui nous emplit. La vérité est un oubli en face à-face jusqu'à la prochaine vérité ou le prochain oubli.
 
 Les impulsions sont des désordres répétés. La douleur s'installe en nous sans prudence. Nous cherchons à nous éloigner. Chaque destination est un alphabet en désordre. Qu’il faudra ranger dans les bonnes cases. La vie est un typographe silencieux qui remet de l'ordre en raturant ou qui efface. Finir l'histoire est un passé difficile. Une épreuve ou une défaite. Pas ou, et.
 
@@ -225,7 +223,7 @@ Elle avait la douceur opaline des asphodèles. À la mesure des silences qui la 
 
 La douleur est marginale. Il y a des souffles qui manquent. Des souffles éperdument, possibles. Des souffles, revenus d'anciennes larmes, jamais opportunes.
 
-À la fontaine des désirs oubliés, quand les pluies s'ouvrent sans prévenir dans d’innombrables silence. Quelles seront nos armes pour trouver nos rimes ? 
+À la fontaine des désirs oubliés, quand les pluies s'ouvrent sans prévenir dans d’innombrables silence. Quelles seront nos armes pour trouver nos rimes ?
 
 L’architecture est un acte politique. Une lecture des signes qui pourrait rester inaccessible. C'est une écriture des rêves et de leurs étais. Une respiration tenue jusqu'au silence, retenue dans le silence.
 
