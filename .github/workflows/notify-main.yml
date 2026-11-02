@@ -10,16 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send repository dispatch event
-        uses: peter-evans/repository-dispatch@v3
+        uses: actions/github-script@v7
         with:
-          token: ${{ secrets.MAIN_REPO_PAT }}
-          repository: jfchenin/darkness.litt
-          event-type: content-updated
-          client-payload: |
-            {
-              "ref": "${{ github.ref }}",
-              "sha": "${{ github.sha }}",
-              "repository": "${{ github.repository }}",
-              "pusher": "${{ github.actor }}",
-              "commit_message": "${{ github.event.head_commit.message }}"
-            }
+          github-token: ${{ secrets.MAIN_REPO_PAT }}
+          script: |
+            await github.rest.repos.createDispatchEvent({
+              owner: 'jfchenin',
+              repo: 'darkness.litt',
+              event_type: 'content-updated',
+              client_payload: {
+                ref: context.ref,
+                sha: context.sha,
+                repository: context.payload.repository.full_name,
+                pusher: context.actor,
+                commit_message: context.payload.head_commit
+                  ? context.payload.head_commit.message
+                  : '',
+              },
+            })
