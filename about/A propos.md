@@ -1,14 +1,5 @@
 ---
-title: A propos
-published: 2026-01-01
-author: JFC
-updated: 2026-01-01
-tags:
-draft: false
-pin: 0
-toc: true
 lang: fr
-abbrlink: a-propos
 ---
 
 
