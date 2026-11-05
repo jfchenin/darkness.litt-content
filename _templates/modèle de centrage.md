@@ -1,1 +1,1 @@
-<div align="center">mot</div>
+{% ornament text="mot" /%}
