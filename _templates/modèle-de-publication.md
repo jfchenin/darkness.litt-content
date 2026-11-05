@@ -1,5 +1,6 @@
 ---
 title:
+filename:
 published: "{{date}}"
 author:
 updated: "{{date}}"

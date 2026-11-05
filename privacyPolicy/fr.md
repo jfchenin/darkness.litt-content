@@ -20,6 +20,7 @@ Le responsable du traitement des données personnelles est :
 ### 2.1 Formulaire de contact
 
 Le site darkness.chenin.fr collecte les informations suivantes via son formulaire de contact :
+
 - Nom et prénom
 - Adresse email
 - Message saisi dans le champ libre
@@ -31,6 +32,7 @@ Le site darkness.chenin.fr collecte les informations suivantes via son formulair
 ### 2.2 Inscription à la newsletter
 
 Si vous vous inscrivez à notre newsletter, nous collectons :
+
 - Adresse email
 - Nom et Prénom (optionnel)
 
@@ -41,9 +43,10 @@ Si vous vous inscrivez à notre newsletter, nous collectons :
 ### 2.3 Services tiers
 
 Les services suivants sont utilisés et peuvent collecter des données :
+
 - **Formspark** : Traitement et acheminement des messages du formulaire de contact
 - **Botpoison** : Protection anti-spam des formulaires
-- **[Beehiiv/ConvertKit]** : Gestion et envoi de la newsletter
+- **Brevo** : Gestion et envoi de la newsletter
 
 Ces prestataires sont conformes au RGPD et agissent en tant que sous-traitants. Ils ne conservent vos données que pour les besoins du service et ne les utilisent pas à d'autres fins.
 
@@ -72,6 +75,7 @@ Conformément au RGPD et à la loi Informatique et Libertés, vous disposez des 
 ### Comment exercer vos droits
 
 Vous pouvez exercer ces droits :
+
 - **Par email** : [jfrançois@chenin.fr](mailto:jfrançois@chenin.fr)
 - **Par courrier** : Jean François Chénin, 3 rue de la Chapelle, 50590 Hauteville-sur-Mer, France
 
@@ -82,12 +86,14 @@ Nous nous engageons à répondre à votre demande dans un délai d'un mois maxim
 ### Réclamation auprès de la CNIL
 
 Si vous estimez que vos droits ne sont pas respectés, vous avez la possibilité de déposer une réclamation auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL) :
+
 - **Site web** : [www.cnil.fr](https://www.cnil.fr)
 - **Adresse** : CNIL, 3 Place de Fontenoy, TSA 80715, 75334 Paris Cedex 07
 
 ## 5. Sécurité des données
 
 Nous mettons en œuvre toutes les mesures techniques et organisationnelles appropriées pour protéger vos données personnelles contre :
+
 - La perte accidentelle
 - L'utilisation ou l'accès non autorisé
 - La modification ou la divulgation non autorisée
@@ -99,6 +105,7 @@ Le site utilise le protocole HTTPS pour sécuriser les échanges de données. Le
 Vos données personnelles ne sont jamais vendues, échangées ou transmises à des tiers à des fins commerciales ou publicitaires.
 
 Elles peuvent uniquement être transmises :
+
 - Aux sous-traitants techniques mentionnés ci-dessus (Formspark, Botpoison, service de newsletter), dans le cadre strict de leurs prestations
 - Aux autorités compétentes en cas d'obligation légale
 
@@ -107,6 +114,7 @@ Elles peuvent uniquement être transmises :
 ### 7.1 Types de cookies utilisés
 
 Le site darkness.chenin.fr utilise uniquement des cookies techniques nécessaires à son bon fonctionnement :
+
 - Cookies de session
 - Cookies de préférences utilisateur (ex. : choix de langue, paramètres d'affichage)
 
@@ -115,16 +123,19 @@ Le site darkness.chenin.fr utilise uniquement des cookies techniques nécessaire
 ### 7.2 Cookies tiers
 
 Le site peut intégrer des services tiers susceptibles de déposer des cookies :
+
 - **Cloudflare** : Cookies de sécurité et de performance
 - **Services de newsletter** : Cookies de suivi d'ouverture des emails (si applicable)
 
 ### 7.3 Gestion et suppression des cookies
 
 Lors de votre première visite, un bandeau d'information vous informe de la présence éventuelle de cookies. Vous pouvez à tout moment :
+
 - Accepter ou refuser les cookies via le bandeau de gestion
 - Configurer votre navigateur pour bloquer, accepter ou supprimer les cookies
 
 **Pour en savoir plus** :
+
 - Guide CNIL sur les cookies : [www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser](https://www.cnil.fr/fr/cookies-les-outils-pour-les-maitriser)
 
 ## 8. Liens externes
@@ -143,7 +154,7 @@ En cas de modification substantielle, nous vous en informerons par email si vous
 
 ---
 
-**Dernière mise à jour : 18 décembre 2025**
+### Dernière mise à jour : 18 décembre 2025
 
 Pour toute question concernant cette politique de confidentialité, contactez-nous à 
 [jfrançois@chenin.fr](mailto:jfrançois@chenin.fr).

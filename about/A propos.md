@@ -12,7 +12,7 @@ A consacré ses dernières années, avec son frère Gilles, à rééditer l’œ
 
 Entretiendra une correspondance éphémère avec Jean-François Lyotard, René Char, Francis Ponge, Gilles Deleuze, George Mounin, Eugène Guillevic et d’autres, sans suite
 
-Devient écrivain [savoir plus](https://www.calameo.com/read/006026406c92e2a3ee3b7?authid=6wKa0MGqc3dd)). Plus tard, découvre Calaferte et Wittgenstein.
+Devient écrivain [savoir plus](https://www.calameo.com/read/006026406c92e2a3ee3b7?authid=6wKa0MGqc3dd). Plus tard, découvre Calaferte et Wittgenstein.
 Revient toujours à René Char, pour la joie ou dans la peine.
 
 Passe quelques temps dans deux cabinets ministériels (J.Guyard et V. Neiertz).
@@ -27,4 +27,4 @@ Aujourd’hui en Normandie, face à la mer.
 Voyage encore un peu. Ecrit partout où il va [en savoir plus](https://darkness.chenin.fr/darkness/). Dessine la nuit. [en savoir plus](https://darkness.coexpro.com/)
 
 Publie [**ses livres**](https://www.calameo.com/read/006026406395082c961e9?authid=c1pu5UIixxfh) en édition numérique sur [**theBookEdition**](https://www.thebookedition.com/fr/recherche?controller=search&orderby=reference&orderway=desc&search_query=chenin)
-Pour me joindre : jfrancois@chenin.fr
+Pour me joindre : [jfrancois@chenin.fr](mailto:jfrancois@chenin.fr)

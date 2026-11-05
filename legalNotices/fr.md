@@ -18,10 +18,10 @@ Conformément aux dispositions des articles 6-III et 19 de la Loi n°2004-575 du
 
 ## Conception et développement
 
-**Baptiste Chénin**  
+**Baptiste Chénin Entreprise Indépendante**  
 **SIRET** : 79256411400025  
-**Site web** : [baptistechenin.com](https://baptistechenin.com)  
-**Email** : [contact@baptistechenin.com](mailto:contact@baptistechenin.com)
+**Site web** : [dulabeur.com](https://dulabeur.com)  
+**Email** : [querir@dulabeur.com](mailto:querir@dulabeur.com)
 
 ## Hébergement
 
@@ -57,8 +57,9 @@ Les polices utilisées sont soumises à leurs licences respectives :
 
 ### Services
 
-Formulaires de contact : [Formspark](https://formspark.io/) • Protection anti-spam : [Botpoison](https://botpoison.com/) • Newsletter : [Service à préciser]
+Formulaires de contact : [Formspark](https://formspark.io/) • Protection anti-spam : [Botpoison](https://botpoison.com/) • Newsletter : [Brevo](https://www.brevo.com/)
+CMS : [Keystatic](https://www.keystatic.com/)
 
 ---
 
-***Dernière mise à jour : 18 décembre 2025***
+***Dernière mise à jour : 05 novembre 2026***
